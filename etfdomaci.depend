@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576946801 source:c:\users\vanja i didi\documents\my projects (vanja)\etfdomacietf\etfdomaci\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

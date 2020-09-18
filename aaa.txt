@@ -1,0 +1,4718 @@
+en	Avatar	12/10/2009	2787965087	162
+en	Pirates of the Caribbean: At World's End	5/19/2007	961000000	169
+en	Spectre	10/26/2015	880674609	148
+en	The Dark Knight Rises	7/16/2012	1084939099	165
+en	John Carter	3/7/2012	284139100	132
+en	Spider-Man 3	5/1/2007	890871626	139
+en	Tangled	11/24/2010	591794936	100
+en	Avengers: Age of Ultron	4/22/2015	1405403694	141
+en	Harry Potter and the Half-Blood Prince	7/7/2009	933959197	153
+en	Batman v Superman: Dawn of Justice	3/23/2016	873260194	151
+en	Superman Returns	6/28/2006	391081192	154
+en	Quantum of Solace	10/30/2008	586090727	106
+en	Pirates of the Caribbean: Dead Man's Chest	6/20/2006	1065659812	151
+en	The Lone Ranger	7/3/2013	89289910	149
+en	Man of Steel	6/12/2013	662845518	143
+en	The Chronicles of Narnia: Prince Caspian	5/15/2008	419651413	150
+en	The Avengers	4/25/2012	1519557910	143
+en	Pirates of the Caribbean: On Stranger Tides	5/14/2011	1045713802	136
+en	Men in Black 3	5/23/2012	624026776	106
+en	The Hobbit: The Battle of the Five Armies	12/10/2014	956019788	144
+en	The Amazing Spider-Man	6/27/2012	752215857	136
+en	Robin Hood	5/12/2010	310669540	140
+en	The Hobbit: The Desolation of Smaug	12/11/2013	958400000	161
+en	The Golden Compass	12/4/2007	372234864	113
+en	King Kong	12/14/2005	550000000	187
+en	Titanic	11/18/1997	1845034188	194
+en	Captain America: Civil War	4/27/2016	1153304495	147
+en	Battleship	4/11/2012	303025485	131
+en	Jurassic World	6/9/2015	1513528810	124
+en	Skyfall	10/25/2012	1108561013	143
+en	Spider-Man 2	6/25/2004	783766341	127
+en	Iron Man 3	4/18/2013	1215439994	130
+en	Alice in Wonderland	3/3/2010	1025491110	108
+en	X-Men: The Last Stand	5/24/2006	459359555	104
+en	Monsters University	6/20/2013	743559607	104
+en	Transformers: Revenge of the Fallen	6/19/2009	836297228	150
+en	Transformers: Age of Extinction	6/25/2014	1091405097	165
+en	Oz: The Great and Powerful	3/7/2013	491868548	130
+en	The Amazing Spider-Man 2	4/16/2014	705717432	142
+en	TRON: Legacy	12/10/2010	400062763	125
+en	Cars 2	6/11/2011	559852396	106
+en	Green Lantern	6/16/2011	219851172	114
+en	Toy Story 3	6/16/2010	1066969703	103
+en	Terminator Salvation	5/20/2009	371353001	115
+en	Furious 7	4/1/2015	1506249360	137
+en	World War Z	6/20/2013	531865000	116
+en	X-Men: Days of Future Past	5/15/2014	747862775	131
+en	Star Trek Into Darkness	5/5/2013	467365246	132
+en	Jack the Giant Slayer	2/27/2013	197687603	114
+en	The Great Gatsby	5/10/2013	351040419	143
+en	Prince of Persia: The Sands of Time	5/19/2010	335154643	116
+en	Pacific Rim	7/11/2013	407602906	131
+en	Transformers: Dark of the Moon	6/28/2011	1123746996	154
+en	Indiana Jones and the Kingdom of the Crystal Skull	5/21/2008	786636033	122
+en	The Good Dinosaur	11/14/2015	331926147	93
+en	Brave	6/21/2012	538983207	93
+en	Star Trek Beyond	7/7/2016	343471816	122
+en	WALL·E	6/22/2008	521311860	98
+en	Rush Hour 3	8/8/2007	258022233	91
+en	2012	10/10/2009	769653595	158
+en	A Christmas Carol	11/4/2009	325233863	96
+en	Jupiter Ascending	2/4/2015	183987723	124
+en	The Legend of Tarzan	6/29/2016	356743061	109
+en	The Chronicles of Narnia: The Lion, the Witch and the Wardrobe	12/7/2005	748806957	143
+en	X-Men: Apocalypse	5/18/2016	543934787	144
+en	The Dark Knight	7/16/2008	1004558444	152
+en	Up	5/13/2009	735099082	96
+en	Monsters vs Aliens	3/19/2009	381509870	94
+en	Iron Man	4/30/2008	585174222	126
+en	Hugo	11/22/2011	185770160	126
+en	Wild Wild West	6/29/1999	222104681	106
+en	The Mummy: Tomb of the Dragon Emperor	7/1/2008	401128639	112
+en	Suicide Squad	8/2/2016	745000000	123
+en	Evan Almighty	6/9/2007	173000000	96
+en	Edge of Tomorrow	5/27/2014	370541256	113
+en	Waterworld	7/28/1995	264218220	135
+en	G.I. Joe: The Rise of Cobra	8/4/2009	302469017	118
+en	Inside Out	6/9/2015	857611174	94
+en	The Jungle Book	4/7/2016	966550600	106
+en	Iron Man 2	4/28/2010	623933331	124
+en	Snow White and the Huntsman	5/30/2012	396600000	127
+en	Maleficent	5/28/2014	758539785	97
+en	Dawn of the Planet of the Apes	6/26/2014	710644566	130
+en	The Lovers	2/13/2015	0	109
+en	47 Ronin	12/6/2013	150962475	119
+en	Captain America: The Winter Soldier	3/20/2014	714766572	136
+en	Shrek Forever After	5/16/2010	752600867	93
+en	Tomorrowland	5/19/2015	209154322	130
+en	Big Hero 6	10/24/2014	652105443	102
+en	Wreck-It Ralph	11/1/2012	471222889	108
+en	The Polar Express	11/10/2004	305875730	100
+en	Independence Day: Resurgence	6/22/2016	389681935	120
+en	How to Train Your Dragon	3/5/2010	494878759	98
+en	Terminator 3: Rise of the Machines	7/2/2003	435000000	109
+en	Guardians of the Galaxy	7/30/2014	773328629	121
+en	Interstellar	11/5/2014	675120017	169
+en	Inception	7/14/2010	825532764	148
+en	The Hobbit: An Unexpected Journey	11/26/2012	1021103568	169
+en	The Fast and the Furious	6/22/2001	207283925	106
+en	The Curious Case of Benjamin Button	11/24/2008	333932083	166
+en	X-Men: First Class	5/24/2011	353624124	132
+en	The Hunger Games: Mockingjay - Part 2	11/18/2015	653428261	137
+en	The Sorcerer's Apprentice	7/13/2010	215283742	109
+en	Poseidon	5/12/2006	181674817	99
+en	Alice Through the Looking Glass	5/25/2016	299370084	113
+en	Shrek the Third	5/17/2007	798958165	93
+en	Warcraft	5/25/2016	433677183	123
+en	Terminator Genisys	6/23/2015	440603537	126
+en	The Chronicles of Narnia: The Voyage of the Dawn Treader	8/13/2010	415686217	113
+en	Pearl Harbor	5/21/2001	449220945	183
+en	Transformers	6/27/2007	709709780	144
+en	Alexander	11/21/2004	167298192	175
+en	Harry Potter and the Order of the Phoenix	6/28/2007	938212738	138
+en	Harry Potter and the Goblet of Fire	11/5/2005	895921036	157
+en	Hancock	7/1/2008	624029371	92
+en	I Am Legend	12/14/2007	585349010	101
+en	Charlie and the Chocolate Factory	7/13/2005	474968763	115
+en	Ratatouille	6/22/2007	623722818	111
+en	Batman Begins	6/10/2005	374218673	140
+en	Madagascar: Escape 2 Africa	10/30/2008	603900354	89
+en	Night at the Museum: Battle of the Smithsonian	5/20/2009	413106170	105
+en	X-Men Origins: Wolverine	4/28/2009	373062864	107
+en	The Matrix Revolutions	11/5/2003	424988211	129
+en	Frozen	11/27/2013	1274219009	102
+en	The Matrix Reloaded	5/15/2003	738599701	138
+en	Thor: The Dark World	10/29/2013	644571402	112
+en	Mad Max: Fury Road	5/13/2015	378858340	120
+en	Angels & Demons	5/13/2009	356613439	138
+en	Thor	4/21/2011	449326618	115
+en	Bolt	11/21/2008	309979994	98
+en	G-Force	7/21/2009	292817841	88
+en	Wrath of the Titans	3/27/2012	301000000	99
+en	Dark Shadows	5/8/2012	245527149	113
+en	Mission: Impossible - Rogue Nation	7/23/2015	682330139	131
+en	The Wolfman	2/11/2010	0	102
+en	Bee Movie	10/28/2007	287594577	91
+en	Kung Fu Panda 2	5/25/2011	665692281	91
+en	The Last Airbender	6/30/2010	318502923	103
+en	Mission: Impossible III	5/3/2006	397850012	126
+en	White House Down	6/27/2013	205366737	131
+en	Mars Needs Moms	3/9/2011	38992758	88
+en	Flushed Away	10/22/2006	64459316	85
+en	Pan	9/24/2015	128388320	111
+en	Mr. Peabody & Sherman	2/7/2014	272912430	92
+en	Troy	5/13/2004	497409852	163
+en	Madagascar 3: Europe's Most Wanted	6/6/2012	746921274	93
+en	Die Another Day	11/17/2002	431971116	133
+en	Ghostbusters	7/14/2016	229147509	116
+en	Armageddon	7/1/1998	553799566	151
+en	Men in Black II	7/3/2002	441818803	88
+en	Beowulf	11/5/2007	195735876	115
+en	Kung Fu Panda 3	1/23/2016	521170825	95
+en	Mission: Impossible - Ghost Protocol	12/7/2011	694713380	133
+en	Rise of the Guardians	11/21/2012	306941670	97
+en	Fun with Dick and Jane	12/21/2005	202026112	90
+en	The Last Samurai	12/5/2003	456758981	154
+en	Exodus: Gods and Kings	12/3/2014	268031828	150
+en	Star Trek	5/6/2009	385680446	127
+en	Spider-Man	5/1/2002	821708551	121
+en	How to Train Your Dragon 2	6/12/2014	609123048	102
+en	Gods of Egypt	2/25/2016	150680864	127
+en	Stealth	7/28/2005	76932943	121
+en	Watchmen	3/5/2009	185258983	163
+en	Lethal Weapon 4	7/10/1998	285444603	127
+en	Hulk	6/19/2003	245360480	138
+en	G.I. Joe: Retaliation	3/26/2013	371876278	110
+en	Sahara	4/6/2005	119269486	124
+en	Final Fantasy: The Spirits Within	7/2/2001	85131830	106
+en	Captain America: The First Avenger	7/22/2011	370569774	124
+en	The World Is Not Enough	11/8/1999	361832400	128
+en	Master and Commander: The Far Side of the World	11/14/2003	212011111	138
+en	The Twilight Saga: Breaking Dawn - Part 2	11/13/2012	829000000	115
+en	Happy Feet Two	11/17/2011	150406466	100
+en	The Incredible Hulk	6/12/2008	163712074	114
+en	The BFG	6/1/2016	183345589	120
+en	The Revenant	12/25/2015	532950503	156
+en	Turbo	7/11/2013	282570682	96
+en	Rango	3/2/2011	245724603	107
+en	Penguins of Madagascar	11/22/2014	373552094	92
+en	The Bourne Ultimatum	8/3/2007	442824138	115
+en	Kung Fu Panda	6/4/2008	631744560	90
+en	Ant-Man	7/14/2015	519311965	117
+en	The Hunger Games: Catching Fire	11/15/2013	847423452	146
+en	Home	3/18/2015	368871007	94
+en	War of the Worlds	6/28/2005	591739379	116
+en	Bad Boys II	7/18/2003	273339556	147
+en	Puss in Boots	10/28/2011	554987477	90
+en	Salt	7/21/2010	293329073	100
+en	Noah	3/20/2014	362637473	139
+en	The Adventures of Tintin	10/25/2011	371940071	107
+en	Harry Potter and the Prisoner of Azkaban	5/31/2004	789804554	141
+en	Australia	11/18/2008	49554002	165
+en	After Earth	5/30/2013	243843127	100
+en	Dinosaur	5/19/2000	354248063	82
+en	Night at the Museum: Secret of the Tomb	12/17/2014	349424282	97
+en	Megamind	10/28/2010	321887208	95
+en	Harry Potter and the Philosopher's Stone	11/16/2001	976475550	152
+en	R.I.P.D.	7/18/2013	61648500	96
+en	Pirates of the Caribbean: The Curse of the Black Pearl	7/9/2003	655011224	143
+en	The Hunger Games: Mockingjay - Part 1	11/18/2014	752100229	123
+en	The Da Vinci Code	5/17/2006	767820459	149
+en	Rio 2	3/19/2014	500188435	102
+en	X2	4/24/2003	407711549	133
+en	Fast Five	4/20/2011	626137675	130
+en	Sherlock Holmes: A Game of Shadows	11/22/2011	334615000	129
+en	Clash of the Titans	4/1/2010	232713139	106
+en	Total Recall	6/1/1990	261317921	113
+en	The 13th Warrior	8/27/1999	61698899	102
+en	The Bourne Legacy	8/8/2012	276572938	120
+en	Batman & Robin	6/20/1997	238207122	125
+en	How the Grinch Stole Christmas	11/17/2000	345141403	104
+en	The Day After Tomorrow	5/26/2004	544272402	124
+en	Mission: Impossible II	5/24/2000	546388105	123
+en	The Perfect Storm	3/15/2000	325756637	130
+en	4: Rise of the Silver Surfer	6/13/2007	289047763	92
+en	Life of Pi	11/20/2012	609016565	127
+en	Ghost Rider	2/16/2007	228738393	114
+en	Jason Bourne	7/27/2016	415484914	123
+en	Charlie's Angels: Full Throttle	6/27/2003	259175788	106
+en	Prometheus	5/30/2012	403170142	124
+en	Stuart Little 2	7/19/2002	169956806	78
+en	Elysium	8/7/2013	286140700	109
+en	The Chronicles of Riddick	6/11/2004	115772733	119
+en	RoboCop	1/30/2014	242688965	102
+en	Speed Racer	5/9/2008	93945766	135
+en	How Do You Know	12/17/2010	48668907	121
+en	Knight and Day	6/15/2010	261930431	109
+en	Oblivion	4/10/2013	286168572	124
+en	Star Wars: Episode III - Revenge of the Sith	5/17/2005	850000000	140
+en	Star Wars: Episode II - Attack of the Clones	5/15/2002	649398328	142
+en	Monsters, Inc.	11/1/2001	562816256	92
+en	The Wolverine	7/23/2013	415440673	126
+en	Star Wars: Episode I - The Phantom Menace	5/19/1999	924317558	136
+en	The Croods	3/20/2013	585178928	98
+fr	Astérix aux Jeux Olympiques	1/13/2008	132900000	116
+en	Windtalkers	6/14/2002	77628265	134
+en	The Huntsman: Winter's War	4/6/2016	164602163	114
+en	Teenage Mutant Ninja Turtles	8/7/2014	477200000	101
+en	Gravity	9/27/2013	716392705	91
+en	Dante's Peak	2/7/1997	178127760	108
+en	Teenage Mutant Ninja Turtles: Out of the Shadows	6/1/2016	245623848	112
+en	Fantastic Four	8/5/2015	167977596	100
+en	Night at the Museum	10/20/2006	574480841	108
+en	San Andreas	5/27/2015	470490832	114
+en	Tomorrow Never Dies	12/11/1997	333011068	119
+en	The Patriot	6/28/2000	215294342	165
+en	Ocean's Twelve	12/9/2004	362744280	125
+en	Mr. & Mrs. Smith	6/7/2005	478207520	120
+en	Insurgent	3/18/2015	295238201	119
+en	The Aviator	12/17/2004	102000000	170
+en	Gulliver's Travels	12/25/2010	237382724	85
+en	The Green Hornet	1/12/2011	227817248	119
+en	300: Rise of an Empire	3/5/2014	337580051	102
+en	The Smurfs	7/29/2011	563749323	103
+en	Home on the Range	4/2/2004	103951461	76
+en	Allegiant	3/9/2016	179246868	121
+en	Real Steel	9/28/2011	299268508	127
+en	The Smurfs 2	7/30/2013	347434178	105
+en	Speed 2: Cruise Control	6/13/1997	164508066	121
+en	Ender's Game	10/23/2013	125537191	114
+en	Live Free or Die Hard	6/20/2007	383531464	128
+en	The Lord of the Rings: The Fellowship of the Ring	12/18/2001	871368364	178
+en	Around the World in 80 Days	6/16/2004	72178895	120
+en	Ali	12/11/2001	87713825	157
+en	The Cat in the Hat	11/21/2003	0	82
+en	I, Robot	7/15/2004	347234916	115
+en	Kingdom of Heaven	5/3/2005	211643158	144
+en	Stuart Little	12/17/1999	300135367	84
+en	The Princess and the Frog	12/8/2009	267045765	97
+en	The Martian	9/30/2015	630161890	141
+en	The Island	7/20/2005	162949164	136
+en	Town & Country	4/27/2001	10372291	104
+en	Gone in Sixty Seconds	6/9/2000	237202299	118
+en	Gladiator	5/1/2000	457640427	155
+en	Minority Report	6/20/2002	358372926	145
+en	Harry Potter and the Chamber of Secrets	11/13/2002	876688482	161
+en	Casino Royale	11/14/2006	599045960	144
+en	Planet of the Apes	7/25/2001	362211740	119
+en	Terminator 2: Judgment Day	7/1/1991	520000000	137
+en	Public Enemies	7/1/2009	214104620	140
+en	American Gangster	11/2/2007	266465037	157
+en	True Lies	7/14/1994	378882411	141
+en	The Taking of Pelham 1 2 3	6/11/2009	150166126	106
+en	Little Fockers	12/21/2010	310650585	98
+en	The Other Guys	8/6/2010	170432927	107
+en	Eraser	6/21/1996	242295562	115
+en	Django Unchained	12/25/2012	425368238	165
+en	The Hunchback of Notre Dame	6/21/1996	100138851	91
+en	The Emperor's New Groove	12/9/2000	169327687	78
+en	The Expendables 2	8/8/2012	312573423	103
+en	National Treasure	11/19/2004	347451894	131
+en	Eragon	12/14/2006	249288105	104
+en	Where the Wild Things Are	10/16/2009	100086793	101
+en	Epic	5/15/2013	268426634	102
+en	The Tourist	12/8/2010	278731369	103
+en	End of Days	11/24/1999	211989043	121
+en	Blood Diamond	12/7/2006	170877916	143
+en	The Wolf of Wall Street	12/25/2013	392000694	180
+en	Batman Forever	5/31/1995	336529144	121
+en	Starship Troopers	11/6/1997	121214377	129
+en	Cloud Atlas	10/26/2012	130482868	172
+en	Legend of the Guardians: The Owls of Ga'Hoole	7/10/2010	140073390	97
+en	Catwoman	7/22/2004	82102379	104
+en	Hercules	7/23/2014	243400000	99
+en	Treasure Planet	11/26/2002	109578115	95
+en	Land of the Lost	6/5/2009	68688831	102
+en	The Expendables 3	8/4/2014	206172544	127
+en	Point Break	12/3/2015	133718711	114
+en	Son of the Mask	2/18/2005	0	94
+en	In the Heart of the Sea	11/20/2015	93820758	122
+en	The Adventures of Pluto Nash	8/15/2002	7103973	95
+en	Green Zone	3/11/2010	94882889	115
+en	The Peanuts Movie	11/5/2015	246233113	88
+en	The Spanish Prisoner	9/8/1997	13835130	110
+en	The Mummy Returns	4/28/2001	433013274	130
+en	Gangs of New York	12/14/2002	193772504	167
+en	Surf's Up	6/8/2007	149044513	85
+en	The Stepford Wives	6/10/2004	102000000	93
+en	Black Hawk Down	12/28/2001	172989651	144
+en	The Campaign	8/9/2012	104907746	85
+en	The Fifth Element	5/7/1997	263920180	126
+en	Sex and the City 2	5/26/2010	288347692	146
+en	The Road to El Dorado	3/31/2000	76432727	89
+en	Ice Age: Continental Drift	6/26/2012	877244782	88
+en	Cinderella	3/12/2015	543514353	105
+en	The Lovely Bones	12/26/2009	93525586	136
+en	Finding Nemo	5/30/2003	940335536	100
+en	The Lord of the Rings: The Return of the King	12/1/2003	1118888979	201
+en	The Lord of the Rings: The Two Towers	12/18/2002	926287400	179
+en	Seventh Son	12/12/2014	114178613	102
+en	Lara Croft: Tomb Raider	6/11/2001	274703340	100
+en	Transcendence	4/16/2014	103039258	119
+en	Jurassic Park III	7/18/2001	368780809	92
+en	Rise of the Planet of the Apes	8/3/2011	482860185	105
+en	The Spiderwick Chronicles	2/14/2008	162839667	95
+en	A Good Day to Die Hard	2/6/2013	304654182	98
+en	The Alamo	4/7/2004	25819961	137
+en	The Incredibles	11/5/2004	631442092	115
+en	Cutthroat Island	12/22/1995	10017322	119
+en	Percy Jackson & the Olympians: The Lightning Thief	2/1/2010	226497209	118
+en	Men in Black	7/2/1997	589390539	98
+en	Toy Story 2	10/30/1999	497366869	92
+en	Unstoppable	11/4/2010	167805466	98
+en	Rush Hour 2	8/3/2001	347325802	90
+en	What Lies Beneath	7/21/2000	155464351	130
+en	Cloudy with a Chance of Meatballs	9/17/2009	242988466	90
+en	Ice Age: Dawn of the Dinosaurs	6/29/2009	886686817	94
+en	The Secret Life of Walter Mitty	12/18/2013	188133322	114
+en	Charlie's Angels	11/2/2000	264105545	98
+en	The Departed	10/5/2006	289847354	151
+en	Mulan	6/18/1998	304320254	88
+en	Tropic Thunder	8/9/2008	188072649	107
+en	The Girl with the Dragon Tattoo	12/14/2011	232617430	158
+en	Die Hard: With a Vengeance	5/19/1995	366101666	128
+en	Sherlock Holmes	12/23/2009	524028679	128
+en	Ben-Hur	8/17/2016	94061311	125
+en	Atlantis: The Lost Empire	6/2/2001	186053725	95
+en	Alvin and the Chipmunks: The Road Chip	12/17/2015	233755553	92
+en	Valkyrie	12/25/2008	200276000	121
+en	You Don't Mess with the Zohan	6/5/2008	201596308	113
+en	Pixels	7/16/2015	243637091	105
+en	A.I. Artificial Intelligence	6/29/2001	235926552	146
+en	The Haunted Mansion	11/25/2003	182290266	99
+en	Contact	7/11/1997	171120329	150
+en	Hollow Man	8/4/2000	190213455	112
+en	The Interpreter	4/8/2005	162944923	128
+en	Percy Jackson: Sea of Monsters	8/7/2013	174578751	106
+en	Lara Croft Tomb Raider: The Cradle of Life	7/21/2003	156505388	117
+en	Now You See Me 2	6/2/2016	334901337	129
+en	The Saint	4/3/1997	118063304	116
+en	Spy Game	11/18/2001	143049560	126
+en	Mission to Mars	3/10/2000	60874615	114
+en	Rio	4/3/2011	484635760	96
+en	Bicentennial Man	12/17/1999	93700000	131
+en	Volcano	4/25/1997	0	104
+en	The Devil's Own	3/12/1997	140807547	107
+en	K-19: The Widowmaker	7/19/2002	35168966	138
+en	Conan the Barbarian	4/2/1982	79114085	129
+en	Cinderella Man	6/2/2005	108539911	144
+en	The Nutcracker: The Untold Story	11/24/2010	16178959	110
+en	Seabiscuit	7/22/2003	148336445	141
+en	Twister	5/10/1996	494471524	113
+en	Cast Away	12/22/2000	429632142	143
+en	Happy Feet	11/16/2006	384335608	108
+en	The Bourne Supremacy	7/23/2004	288500217	108
+en	Air Force One	7/25/1997	315156409	124
+en	Ocean's Eleven	12/7/2001	450717150	116
+en	The Three Musketeers	8/31/2011	132274484	110
+en	Hotel Transylvania	9/20/2012	358375603	91
+en	Enchanted	11/20/2007	340487652	107
+en	Safe House	2/9/2012	208076205	115
+en	102 Dalmatians	10/7/2000	183611771	100
+en	Tower Heist	11/2/2011	152930623	104
+en	The Holiday	12/8/2006	194168700	136
+en	Enemy of the State	11/20/1998	250649836	132
+en	It's Complicated	12/23/2009	219103655	121
+en	Ocean's Thirteen	6/7/2007	311312624	122
+en	Open Season	9/29/2006	197309027	83
+en	Divergent	3/14/2014	288747895	139
+en	Enemy at the Gates	3/13/2001	96976270	131
+en	The Rundown	9/26/2003	80916492	104
+en	Last Action Hero	6/18/1993	137298489	130
+en	Memoirs of a Geisha	12/6/2005	162242962	145
+en	The Fast and the Furious: Tokyo Drift	6/3/2006	158468292	104
+en	Arthur Christmas	2/22/2011	0	97
+en	Meet Joe Black	11/12/1998	142940100	178
+en	Collateral Damage	2/6/2002	78382433	108
+en	All That Jazz	12/20/1979	37823676	123
+en	Mirror Mirror	3/15/2012	183018522	106
+en	Scott Pilgrim vs. the World	7/27/2010	47664559	112
+en	The Core	3/28/2003	74208267	136
+en	Nutty Professor II: The Klumps	7/27/2000	123307945	106
+en	Scooby-Doo	6/14/2002	275650703	88
+en	Dredd	9/7/2012	41037742	95
+en	Click	6/22/2006	237681299	107
+en	Creepshow	11/12/1982	21028755	120
+en	Cats & Dogs 2 : The Revenge of Kitty Galore	7/30/2010	112483764	82
+en	Jumper	2/10/2008	222231186	88
+en	Hellboy II: The Golden Army	7/11/2008	160388063	120
+en	Zodiac	3/2/2007	84785914	157
+en	The 6th Day	11/17/2000	96085477	123
+en	Bruce Almighty	5/23/2003	484572835	101
+en	The Expendables	8/3/2010	274470394	103
+en	Mission: Impossible	5/22/1996	457696359	110
+en	The Hunger Games	3/12/2012	691210692	142
+en	The Hangover Part II	5/25/2011	254455986	102
+en	Batman Returns	6/19/1992	280000000	126
+en	Over the Hedge	4/22/2006	343397247	83
+en	Lilo & Stitch	6/21/2002	145771527	85
+en	Charlotte's Web	12/15/2006	144000000	97
+en	Deep Impact	5/8/1998	140464664	120
+en	RED 2	7/18/2013	0	116
+en	The Longest Yard	5/19/2005	190320568	113
+en	Alvin and the Chipmunks: Chipwrecked	12/14/2011	342695435	87
+en	Grown Ups 2	7/11/2013	246984278	100
+en	Get Smart	6/19/2008	230685453	110
+en	Something's Gotta Give	12/12/2003	266728738	128
+en	Shutter Island	2/18/2010	294804195	138
+en	Four Christmases	11/26/2008	163733697	88
+en	Robots	3/10/2005	260696994	91
+en	Face/Off	6/27/1997	245676146	138
+en	Bedtime Stories	12/24/2008	212874442	99
+en	Road to Perdition	7/12/2002	181001478	117
+en	Just Go with It	2/10/2011	214918407	117
+en	Con Air	6/1/1997	224012234	115
+en	Eagle Eye	9/25/2008	178066569	118
+en	Cold Mountain	12/24/2003	173013509	154
+en	The Book of Eli	1/14/2010	157107755	118
+en	Flubber	11/26/1997	177977226	93
+en	The Haunting	7/23/1999	91188905	113
+en	Space Jam	11/15/1996	250200000	88
+en	The Pink Panther	1/18/2006	0	93
+en	The Day the Earth Stood Still	12/10/2008	233093859	104
+en	Conspiracy Theory	8/7/1997	136982834	135
+en	Fury	10/15/2014	211817906	135
+en	Six Days Seven Nights	6/12/1998	164000000	98
+en	Yogi Bear	12/11/2010	201584141	80
+en	Spirit: Stallion of the Cimarron	5/24/2002	122563539	83
+en	Zookeeper	7/6/2011	169852759	102
+en	Lost in Space	4/3/1998	136159423	130
+en	The Manchurian Candidate	7/30/2004	96105964	129
+en	Déjà Vu	4/22/1998	0	117
+en	Hotel Transylvania 2	9/21/2015	473226958	89
+en	Fantasia 2000	12/17/1999	90874570	74
+en	The Time Machine	3/4/2002	123729176	96
+en	Mighty Joe Young	12/25/1998	0	114
+en	Swordfish	6/7/2001	147080413	99
+en	The Legend of Zorro	10/24/2005	142400065	129
+en	What Dreams May Come	10/2/1998	71485043	113
+en	Little Nicky	11/10/2000	0	90
+en	The Brothers Grimm	8/26/2005	105316267	118
+en	Mars Attacks!	12/12/1996	101371017	106
+fr	Évolution	9/14/2015	0	81
+en	The Edge	9/6/1997	43312294	117
+en	Surrogates	9/24/2009	122444772	89
+en	Thirteen Days	12/24/2000	34566746	145
+en	Daylight	12/6/1996	159212469	115
+en	Walking With Dinosaurs	12/18/2013	126546518	87
+en	Battlefield Earth	5/10/2000	21400000	118
+en	Looney Tunes: Back in Action	11/14/2003	68514844	90
+en	Nine	12/3/2009	53825515	112
+en	Timeline	11/26/2003	19480739	116
+en	The Postman	12/25/1997	17626234	177
+en	Babe: Pig in the City	11/25/1998	69131860	92
+en	The Last Witch Hunter	10/21/2015	146936910	106
+en	Red Planet	11/10/2000	33463969	106
+en	Arthur et les Minimoys	12/13/2006	107944236	94
+en	Oceans	10/17/2009	19406406	84
+en	A Sound of Thunder	5/15/2005	5989640	110
+en	Pompeii	2/18/2014	117831631	105
+es	Don Gato: El inicio de la pandilla	10/30/2015	0	89
+en	A Beautiful Mind	12/11/2001	313542341	135
+en	The Lion King	6/23/1994	788241776	89
+en	Journey 2: The Mysterious Island	1/19/2012	355692760	94
+en	Cloudy with a Chance of Meatballs 2	9/26/2013	248384621	95
+en	Red Dragon	9/29/2002	209196298	124
+en	Hidalgo	3/5/2004	108103450	136
+en	Jack and Jill	11/11/2011	149673788	91
+en	2 Fast 2 Furious	6/5/2003	236350661	107
+en	The Little Prince	7/29/2015	97571250	92
+en	The Invasion	8/17/2007	15071514	99
+en	The Adventures of Rocky & Bullwinkle	6/30/2000	35134820	88
+en	The Secret Life of Pets	6/18/2016	875958308	87
+en	The League of Extraordinary Gentlemen	7/11/2003	179265204	110
+en	Despicable Me 2	6/25/2013	970761885	98
+en	Independence Day	6/25/1996	816969268	145
+en	The Lost World: Jurassic Park	5/23/1997	229074524	129
+en	Madagascar	5/25/2005	532680671	86
+en	Children of Men	9/22/2006	69959751	109
+en	X-Men	7/13/2000	296339527	104
+en	Wanted	6/19/2008	258270008	110
+en	The Rock	6/6/1996	335062621	136
+en	Ice Age: The Meltdown	3/23/2006	660940780	91
+en	50 First Dates	2/13/2004	196482882	99
+en	Hairspray	7/13/2007	90450008	117
+en	Exorcist: The Beginning	8/20/2004	78000586	114
+en	Inspector Gadget	7/23/1999	0	78
+en	Now You See Me	5/29/2013	117698894	115
+en	Grown Ups	6/24/2010	271430189	102
+en	The Terminal	6/17/2004	219417255	128
+en	Hotel for Dogs	1/16/2009	73034460	100
+en	Vertical Limit	12/8/2000	215663859	124
+en	Charlie Wilson's War	12/19/2007	119000410	102
+en	Shark Tale	9/20/2004	367275019	90
+en	Dreamgirls	12/25/2006	154937680	134
+en	Be Cool	3/4/2005	95226116	118
+en	Munich	12/22/2005	130358911	164
+en	Tears of the Sun	3/7/2003	85632458	121
+en	Killers	6/4/2010	98159963	100
+en	The Man from U.N.C.L.E.	8/13/2015	108145109	116
+en	Spanglish	12/17/2004	55041367	130
+en	Monster House	7/21/2006	140175006	91
+en	Bandits	10/12/2001	67631903	123
+en	First Knight	7/7/1995	127600435	134
+en	Anna and the King	12/16/1999	0	148
+en	Immortals	11/10/2011	226904017	110
+en	Hostage	3/9/2005	77944725	113
+en	Titan A.E.	6/16/2000	36754634	94
+en	Hollywood Homicide	6/9/2003	51142659	116
+en	Soldier	10/23/1998	14567883	99
+en	Carriers	9/4/2009	5802422	84
+en	Monkeybone	2/23/2001	5409517	93
+en	Flight of the Phoenix	12/17/2004	21009180	113
+en	Unbreakable	11/13/2000	248118121	106
+en	Minions	6/17/2015	1156730962	91
+en	Sucker Punch	3/24/2011	89792502	110
+en	Snake Eyes	8/7/1998	103891409	98
+en	Sphere	2/13/1998	13100000	134
+en	The Angry Birds Movie	5/11/2016	349779543	97
+en	Fool's Gold	2/7/2008	111231041	112
+en	Funny People	7/31/2009	61458982	146
+en	The Kingdom	8/22/2007	86658558	110
+en	Talladega Nights: The Ballad of Ricky Bobby	8/4/2006	162966177	116
+en	Dr. Dolittle 2	6/22/2001	176104344	87
+en	Braveheart	5/24/1995	210000000	177
+en	Jarhead	11/4/2005	96889998	125
+en	The Simpsons Movie	7/25/2007	527068851	87
+en	The Majestic	12/21/2001	37317558	152
+en	Driven	4/27/2001	54744738	116
+en	Deux frères	4/7/2004	62172050	109
+en	The Village	7/30/2004	256697520	108
+en	Doctor Dolittle	6/22/1998	294456605	85
+en	Signs	8/2/2002	408247917	106
+en	Shrek 2	5/19/2004	919838758	93
+en	Cars	6/8/2006	461983149	117
+en	Runaway Bride	7/30/1999	309457509	116
+en	xXx	8/9/2002	277448382	124
+en	The SpongeBob Movie: Sponge Out of Water	2/5/2015	311594032	93
+en	Ransom	11/8/1996	309492681	117
+en	Inglourious Basterds	8/18/2009	319131050	153
+en	Hook	12/11/1991	300854823	144
+en	Die Hard 2	7/2/1990	240031094	124
+en	S.W.A.T.	8/8/2003	116643346	117
+en	Vanilla Sky	12/10/2001	203388341	136
+en	Lady in the Water	7/21/2006	42285169	110
+en	AVP: Alien vs. Predator	8/12/2004	171183863	101
+en	Alvin and the Chipmunks: The Squeakquel	12/21/2009	443140005	88
+en	We Were Soldiers	3/1/2002	114660784	138
+en	Olympus Has Fallen	3/20/2013	161025640	120
+en	Star Trek: Insurrection	12/10/1998	118000000	103
+en	Battle: Los Angeles	3/8/2011	202466756	116
+en	Big Fish	12/25/2003	122919055	125
+en	Wolf	6/17/1994	0	125
+en	War Horse	12/25/2011	177584879	146
+en	The Monuments Men	1/24/2014	154984035	118
+en	The Abyss	8/9/1989	90000098	139
+en	Wall Street: Money Never Sleeps	9/2/2010	134748021	133
+en	Dracula Untold	10/1/2014	215529201	92
+en	The Siege	11/6/1998	116672912	116
+en	Stardust	8/9/2007	135560026	127
+en	Seven Years in Tibet	9/12/1997	131457682	136
+en	The Dilemma	1/13/2011	67112664	111
+en	Bad Company	6/7/2002	65977295	116
+en	Doom	10/20/2005	55987321	105
+en	I Spy	10/31/2002	33561137	97
+en	Underworld: Awakening	1/19/2012	160112671	88
+en	Rock of Ages	6/13/2012	59418613	123
+en	Hart's War	2/15/2002	32287044	125
+en	Killer Elite	9/23/2011	57777106	116
+en	Rollerball	2/8/2002	0	98
+en	Ballistic: Ecks vs. Sever	9/20/2002	19924033	91
+en	Hard Rain	1/16/1998	19870567	97
+en	Osmosis Jones	8/7/2001	13596911	95
+en	Legends of Oz: Dorothy's Return	6/13/2013	18662027	88
+en	Blackhat	1/13/2015	17752940	133
+en	Sky Captain and the World of Tomorrow	9/17/2004	57958696	107
+en	Basic Instinct 2	3/29/2006	38629478	114
+en	Escape Plan	10/9/2013	122915111	115
+en	The Legend of Hercules	1/10/2014	61279452	99
+en	The Sum of All Fears	5/31/2002	193000000	124
+en	The Twilight Saga: Eclipse	6/23/2010	698491347	124
+en	The Score	7/13/2001	71069884	124
+en	Despicable Me	7/8/2010	543513985	95
+en	Money Train	11/21/1995	35431113	103
+en	Ted 2	6/25/2015	217022588	115
+en	Agora	5/17/2009	39041505	127
+en	Mystery Men	8/6/1999	29762011	121
+en	Hall Pass	2/25/2011	83160734	105
+en	The Insider	10/28/1999	60289912	157
+en	The Finest Hours	1/25/2016	52099090	114
+en	Body of Lies	10/10/2008	113280098	128
+en	Dinner for Schmucks	7/30/2010	86387857	114
+en	Abraham Lincoln: Vampire Hunter	6/20/2012	112265139	94
+en	Entrapment	4/29/1999	212404396	112
+en	The X Files	6/19/1998	189198313	121
+en	The Last Legion	4/19/2007	25303038	102
+en	Saving Private Ryan	7/24/1998	481840909	169
+en	Need for Speed	3/13/2014	203277636	130
+en	What Women Want	12/15/2000	374111707	127
+en	Ice Age	3/10/2002	383257136	81
+en	Dreamcatcher	3/21/2003	75715436	136
+en	Lincoln	11/9/2012	275293450	149
+en	The Matrix	3/30/1999	463517383	136
+en	Apollo 13	6/30/1995	355237933	140
+en	The Santa Clause 2	10/31/2002	172855065	104
+en	Les Misérables	12/18/2012	441809770	157
+en	You've Got Mail	12/17/1998	250821495	119
+en	Step Brothers	7/25/2008	128107642	98
+en	The Mask of Zorro	7/16/1998	250288523	136
+en	Due Date	11/4/2010	211780824	95
+en	Unbroken	12/25/2014	163442937	137
+en	Space Cowboys	7/31/2000	128884132	130
+en	Cliffhanger	5/28/1993	255000211	112
+en	Broken Arrow	2/9/1996	150270147	108
+en	The Kid	7/7/2000	69700000	104
+en	World Trade Center	8/9/2006	162945894	128
+en	Mona Lisa Smile	12/19/2003	0	117
+en	The Dictator	5/15/2012	179379533	83
+en	Eyes Wide Shut	7/14/1999	162091208	159
+en	Annie	12/19/2014	133821816	119
+en	Focus	2/25/2015	153962963	105
+en	This Means War	2/14/2012	156974557	103
+en	Blade: Trinity	12/8/2004	128905366	123
+en	Red Dawn	8/10/1984	38376497	114
+en	Primary Colors	3/20/1998	0	143
+en	Resident Evil: Retribution	9/12/2012	240159255	95
+en	Death Race	8/22/2008	73762516	105
+en	The Long Kiss Goodnight	10/11/1996	89456761	120
+en	Proof of Life	12/8/2000	0	135
+en	Zathura: A Space Adventure	11/6/2005	64321501	101
+en	Fight Club	10/15/1999	100853753	139
+en	We Are Marshall	12/12/2006	43545364	124
+en	Hudson Hawk	5/23/1991	17218080	100
+en	Lucky Numbers	10/27/2000	0	105
+en	I, Frankenstein	1/22/2014	71154592	92
+en	Oliver Twist	9/23/2005	42093706	130
+en	Elektra	1/13/2005	56681566	97
+en	Sin City: A Dame to Kill For	8/20/2014	39407616	102
+en	Random Hearts	10/8/1999	74608570	133
+en	Everest	9/10/2015	203427584	121
+en	Perfume: The Story of a Murderer	9/13/2006	132180323	147
+en	Austin Powers in Goldmember	7/26/2002	296655431	94
+en	Astro Boy	10/15/2009	44091067	94
+en	Jurassic Park	6/11/1993	920100000	127
+en	Wyatt Earp	6/24/1994	25052000	191
+en	Clear and Present Danger	8/3/1994	215887717	141
+en	Little Man	8/31/2006	101595121	98
+en	U-571	4/20/2000	127666415	116
+en	The American President	11/17/1995	107879496	106
+en	The Love Guru	6/20/2008	41819064	87
+en	3000 Miles to Graceland	2/23/2001	18720175	125
+en	The Hateful Eight	12/25/2015	155760117	167
+en	Blades of Glory	3/30/2007	0	93
+en	Hop	3/30/2011	183953723	95
+en	300	12/9/2006	422610419	117
+en	Meet the Fockers	12/22/2004	516642939	115
+en	Marley & Me	12/25/2008	244082376	115
+en	The Green Mile	12/10/1999	284600000	189
+en	Wild Hogs	3/2/2007	253625427	100
+en	Chicken Little	11/4/2005	314432665	81
+en	Gone Girl	10/1/2014	369330363	145
+en	The Bourne Identity	6/14/2002	214034224	119
+en	GoldenEye	11/16/1995	352194034	130
+en	The General's Daughter	6/18/1999	149705852	116
+en	The Truman Show	6/4/1998	264118201	103
+en	The Prince of Egypt	12/15/1998	218613188	99
+en	Daddy Day Care	5/3/2003	164433867	92
+en	2 Guns	8/2/2013	131940411	109
+en	Cats & Dogs	7/4/2001	93375151	87
+en	The Italian Job	5/30/2003	176070171	110
+en	Two Weeks Notice	12/19/2002	93354918	101
+en	Antz	10/2/1998	171757863	83
+en	Couples Retreat	9/19/2009	171844840	113
+en	Days of Thunder	6/27/1990	157920733	107
+en	Cheaper by the Dozen 2	12/21/2005	129181830	94
+en	Maze Runner: The Scorch Trials	9/9/2015	311256926	132
+en	Eat Pray Love	8/12/2010	204594016	133
+en	The Family Man	12/12/2000	0	125
+en	RED	10/13/2010	71664962	111
+en	Any Given Sunday	12/16/1999	100230832	163
+en	The Horse Whisperer	5/14/1998	186883563	170
+en	Collateral	8/4/2004	217764291	120
+en	The Scorpion King	4/16/2002	165333180	92
+en	Ladder 49	10/1/2004	74541707	115
+en	Jack Reacher	12/20/2012	218340595	130
+en	Deep Blue Sea	7/28/1999	73648228	105
+en	Michael Jackson's This Is It	10/28/2009	0	111
+en	Contagion	9/8/2011	137551594	106
+en	Kangaroo Jack	1/17/2003	0	89
+en	Coraline	2/5/2009	124596398	100
+en	The Happening	6/11/2008	163403799	91
+en	Man on Fire	4/23/2004	130293714	146
+en	The Shaggy Dog	3/9/2006	61112916	98
+en	Starsky & Hutch	3/5/2004	170268750	101
+en	Jingle All the Way	11/15/1996	129832389	89
+en	Hellboy	4/2/2004	99318987	122
+en	A Civil Action	3/5/1998	56702901	115
+en	ParaNorman	8/3/2012	107139399	90
+en	The Jackal	11/14/1997	159330280	124
+en	Paycheck	12/25/2003	96269812	119
+en	Up Close & Personal	3/1/1996	0	119
+en	The Tale of Despereaux	12/19/2008	50877145	93
+en	The Tuxedo	9/27/2002	0	98
+en	Under Siege 2: Dark Territory	7/13/1995	104324083	100
+en	Jack Ryan: Shadow Recruit	1/15/2014	50549107	105
+en	Joy	12/24/2015	101134059	124
+en	London Has Fallen	3/2/2016	205754447	99
+en	Alien: Resurrection	11/12/1997	162000000	109
+en	Shooter	3/22/2007	95696996	124
+en	The Boxtrolls	9/10/2014	108255770	97
+en	Practical Magic	10/16/1998	46683377	104
+en	The Lego Movie	2/6/2014	469160692	100
+en	Miss Congeniality 2: Armed and Fabulous	3/11/2005	0	115
+en	Reign of Fire	7/12/2002	43061982	101
+en	Gangster Squad	1/10/2013	105200903	113
+en	Year One	6/18/2009	62357900	97
+en	Invictus	12/10/2009	122233971	134
+en	State of Play	4/17/2009	87784194	127
+en	Duplicity	3/19/2009	60000000	125
+en	My Favorite Martian	2/11/1999	36850101	94
+en	The Sentinel	4/19/2006	77920346	108
+en	Planet 51	11/19/2009	104945765	91
+en	Star Trek: Nemesis	12/13/2002	67312826	117
+en	Intolerable Cruelty	9/2/2003	119940815	100
+en	Trouble with the Curve	9/21/2012	0	111
+en	Edge of Darkness	1/29/2010	74901339	117
+en	The Relic	1/10/1997	33956608	110
+en	Analyze That	12/6/2002	55003135	96
+en	Righteous Kill	9/11/2008	73174566	101
+en	Mercury Rising	4/3/1998	0	111
+en	The Soloist	4/24/2009	31720158	109
+en	The Legend of Bagger Vance	11/2/2000	39459427	126
+en	Almost Famous	9/15/2000	47383689	122
+en	Garfield: A Tail of Two Kitties	6/15/2006	141702264	78
+en	xXx: State of the Union	4/27/2005	71073932	101
+en	Priest	5/5/2011	78309131	87
+en	Sinbad: Legend of the Seven Seas	7/2/2003	26288320	86
+en	Event Horizon	8/15/1997	26673242	96
+en	Dragonfly	2/22/2002	52322400	104
+en	The Black Dahlia	9/15/2006	49111202	121
+en	Flyboys	9/22/2006	17800000	140
+en	The Last Castle	10/19/2001	27642707	131
+en	Supernova	1/14/2000	14828081	91
+en	Winter's Tale	2/13/2014	30800231	118
+en	The Mortal Instruments: City of Bones	8/21/2013	90565421	130
+en	Meet Dave	7/8/2008	50650079	90
+en	Dark Water	6/27/2005	25473093	105
+en	Edtv	3/26/1999	0	122
+en	Inkheart	12/11/2008	57490374	106
+en	The Spirit	12/25/2008	39031337	103
+en	Mortdecai	1/21/2015	30418560	106
+en	In the Name of the King: A Dungeon Siege Tale	11/29/2007	0	127
+en	Beyond Borders	10/23/2003	0	127
+en	The Great Raid	8/12/2005	10166502	132
+en	Deadpool	2/9/2016	783112979	108
+en	Holy Man	10/8/1998	0	114
+en	American Sniper	12/11/2014	542307423	133
+en	Goosebumps	8/5/2015	158162788	103
+en	Just Like Heaven	9/16/2005	102854431	95
+en	The Flintstones in Viva Rock Vegas	4/28/2000	59468275	90
+en	Rambo III	5/24/1988	189015611	102
+en	Leatherheads	3/24/2008	41299492	114
+en	The Ridiculous 6	12/11/2015	0	119
+en	Did You Hear About the Morgans?	12/17/2009	85280250	103
+en	The Internship	6/7/2013	44000000	119
+en	Resident Evil: Afterlife	9/9/2010	300228084	97
+en	Red Tails	1/19/2012	50365377	125
+en	The Devil's Advocate	10/17/1997	152944660	144
+en	That's My Boy	6/14/2012	58058367	116
+en	DragonHeart	5/31/1996	115267375	103
+en	After the Sunset	11/12/2004	61347797	97
+en	Ghost Rider: Spirit of Vengeance	12/10/2011	149217355	95
+en	Captain Corelli's Mandolin	8/17/2001	62112895	131
+en	The Pacifier	3/4/2005	113006880	95
+en	Walking Tall	4/2/2004	57223890	86
+en	Forrest Gump	7/6/1994	677945399	142
+en	Alvin and the Chipmunks	12/13/2007	361366633	92
+en	Meet the Parents	10/6/2000	330444045	108
+en	Pocahontas	6/14/1995	346079773	81
+en	Superman	12/13/1978	300218018	143
+en	The Nutty Professor	6/26/1996	128769345	95
+en	Hitch	2/10/2005	368100420	118
+en	George of the Jungle	7/15/1997	0	92
+en	American Wedding	8/1/2003	231449203	103
+en	Captain Phillips	10/10/2013	95000000	134
+en	Date Night	4/8/2010	152263880	97
+en	Casper	5/26/1995	287928194	100
+en	The Equalizer	9/24/2014	192330738	132
+en	Maid in Manhattan	12/13/2002	154906693	105
+en	Crimson Tide	5/12/1995	157387195	116
+en	The Pursuit of Happyness	12/14/2006	307077295	117
+en	Flightplan	9/22/2005	223387299	98
+en	Disclosure	12/9/1994	214015089	123
+en	City of Angels	4/10/1998	198685114	114
+en	Kill Bill: Vol. 1	10/10/2003	180949000	111
+en	Bowfinger	8/12/1999	0	97
+en	Kill Bill: Vol. 2	4/16/2004	152159461	136
+en	Tango & Cash	12/22/1989	63408614	104
+en	Death Becomes Her	7/30/1992	149022650	104
+en	Shanghai Noon	5/26/2000	56932305	110
+en	Executive Decision	3/15/1996	121969216	133
+en	Mr. Popper's Penguins	6/17/2011	187361754	94
+en	The Forbidden Kingdom	4/18/2008	127906624	104
+en	Free Birds	10/30/2013	110000000	91
+en	Alien³	5/22/1992	159773545	114
+en	Evita	12/14/1996	141047179	134
+en	Ronin	9/25/1998	41610884	122
+en	The Ghost and the Darkness	10/11/1996	75000000	109
+en	Paddington	11/27/2014	259207227	95
+en	The Watch	7/26/2012	68267862	98
+en	The Hunted	3/11/2003	34234008	94
+en	Instinct	6/4/1999	0	126
+en	Stuck on You	12/10/2003	33828318	118
+en	Semi-Pro	2/28/2008	33472850	91
+en	The Pirates! In an Adventure with Scientists!	3/12/2012	118338361	88
+en	Changeling	1/30/2008	113020255	141
+en	Chain Reaction	8/2/1996	60209334	107
+en	The Fan	8/15/1996	18626419	116
+en	The Phantom of the Opera	12/8/2004	154648887	143
+en	Elizabeth: The Golden Age	9/9/2007	74237563	114
+en	Æon Flux	11/30/2005	52304001	93
+en	Gods and Generals	2/21/2003	12923936	214
+en	Turbulence	1/9/1997	11466088	100
+en	Imagine That	6/19/2009	0	107
+en	Muppets Most Wanted	3/20/2014	80383290	112
+en	Thunderbirds	7/23/2004	28283637	95
+en	Burlesque	11/23/2010	89519773	119
+fr	Un long dimanche de fiançailles	10/26/2004	0	133
+en	Lolita	6/13/1962	9250000	153
+en	D-Tox	1/4/2002	6416302	96
+en	Blade II	3/22/2002	155010032	117
+en	Seven Pounds	12/18/2008	168167691	123
+en	Bullet to the Head	1/31/2013	9489829	92
+en	The Godfather: Part III	12/24/1990	136766062	162
+en	Elizabethtown	10/6/2005	52034889	123
+en	You, Me and Dupree	7/14/2006	130431368	108
+en	Superman II	12/4/1980	190458706	127
+en	Gigli	8/1/2003	7266209	121
+en	All the King's Men	9/10/2006	9450897	125
+en	Shaft	6/15/2000	107196498	99
+en	Anastasia	11/20/1997	139804348	94
+en	Moulin Rouge!	3/9/2001	179213434	127
+en	Domestic Disturbance	10/30/2001	54249294	89
+en	Black Mass	9/4/2015	98837872	122
+en	Flags of Our Fathers	10/18/2006	65900249	132
+en	Law Abiding Citizen	10/15/2009	126690726	109
+en	Grindhouse	4/6/2007	25037897	191
+en	Beloved	10/16/1998	0	172
+en	Lucky You	5/1/2007	5761917	124
+en	Catch Me If You Can	12/25/2002	352114312	141
+en	Zero Dark Thirty	12/19/2012	132820716	157
+en	The Break-Up	6/1/2006	204999686	106
+en	Mamma Mia!	7/3/2008	609841637	108
+en	Valentine's Day	2/10/2010	216485654	125
+en	The Dukes of Hazzard	8/5/2005	110803676	104
+en	The Thin Red Line	12/25/1998	98126565	170
+en	The Change-Up	8/5/2011	75450437	112
+en	Man on the Moon	12/22/1999	47434430	118
+en	Casino	11/22/1995	116112375	178
+en	From Paris with Love	2/5/2010	52826594	92
+en	Bulletproof Monk	3/28/2003	0	104
+en	Me, Myself & Irene	6/22/2000	149270999	116
+en	Barnyard	8/4/2006	72779000	90
+en	Deck the Halls	11/22/2006	47231070	93
+en	The Twilight Saga: New Moon	3/15/2009	709827462	130
+en	Shrek	5/16/2001	484409218	90
+en	The Adjustment Bureau	3/3/2011	127869379	106
+en	Robin Hood: Prince of Thieves	6/14/1991	390493908	143
+en	Jerry Maguire	12/6/1996	273552592	139
+en	Ted	6/29/2012	549368315	106
+en	As Good as It Gets	12/19/1997	314178011	139
+en	Patch Adams	12/25/1998	202292902	115
+en	Anchorman 2: The Legend Continues	12/18/2013	173649015	119
+en	Mr. Deeds	6/28/2002	171269535	96
+en	Super 8	6/8/2011	260095987	112
+en	Erin Brockovich	3/17/2000	256271286	131
+en	How to Lose a Guy in 10 Days	2/7/2003	177371441	116
+en	22 Jump Street	6/5/2014	188441614	112
+en	Interview with the Vampire	11/11/1994	223664608	123
+en	Yes Man	12/9/2008	225990978	104
+en	Central Intelligence	6/15/2016	216972543	107
+en	Stepmom	12/25/1998	0	124
+en	Daddy's Home	12/25/2015	242786137	96
+en	Into the Woods	12/25/2014	212902372	125
+en	Inside Man	3/23/2006	184376254	129
+en	Payback	2/5/1999	161626121	100
+en	Congo	6/9/1995	152022101	109
+en	We Bought a Zoo	12/22/2011	120081841	124
+en	Knowing	3/19/2009	155446362	121
+en	Failure to Launch	3/10/2006	88715192	97
+en	The Ring Two	3/17/2005	161451538	110
+en	Crazy, Stupid, Love.	7/29/2011	142851197	118
+en	Garfield	6/10/2004	200804534	80
+en	Christmas with the Kranks	11/24/2004	0	99
+en	Moneyball	9/22/2011	110206216	133
+en	Outbreak	3/10/1995	189859560	127
+en	Non-Stop	1/26/2014	222809600	106
+en	Race to Witch Mountain	3/12/2009	106303988	98
+en	V for Vendetta	3/15/2006	132511035	132
+en	Shanghai Knights	2/6/2003	88323487	115
+en	Curious George	2/10/2006	69834815	86
+en	Herbie Fully Loaded	6/22/2005	66002004	101
+en	Don't Say a Word	9/28/2001	100020092	113
+en	Hansel & Gretel: Witch Hunters	1/17/2013	224803475	88
+en	Unfaithful	5/10/2002	119137784	124
+en	I Am Number Four	2/18/2011	144492830	109
+en	Syriana	11/23/2005	94000000	128
+en	13 Hours: The Secret Soldiers of Benghazi	1/13/2016	69411370	144
+en	The Book of Life	10/1/2014	97437106	95
+en	Firewall	2/10/2006	82800000	105
+en	Absolute Power	2/14/1997	50068310	121
+en	G.I. Jane	8/22/1997	48169156	125
+en	The Game	9/12/1997	109423648	129
+en	Silent Hill	4/21/2006	97607453	125
+en	The Replacements	8/7/2000	0	118
+en	American Reunion	4/4/2012	234989584	113
+en	The Negotiator	7/29/1998	44547681	140
+en	Into the Storm	8/6/2014	160602194	89
+en	Beverly Hills Cop III	5/24/1994	119208989	104
+en	Gremlins 2: The New Batch	6/15/1990	41482207	106
+en	The Judge	10/8/2014	83719388	141
+en	The Peacemaker	9/26/1997	0	124
+en	Resident Evil: Apocalypse	9/10/2004	129394835	94
+en	Bridget Jones: The Edge of Reason	11/10/2004	40203020	108
+en	Out of Time	10/3/2003	55495563	105
+en	On Deadly Ground	2/18/1994	49000000	102
+en	The Adventures of Sharkboy and Lavagirl	6/10/2005	69425966	92
+en	The Beach	2/11/2000	144056873	119
+en	Raising Helen	5/27/2004	49718611	119
+en	Ninja Assassin	9/29/2009	60462347	99
+en	For Love of the Game	9/17/1999	0	137
+en	Striptease	6/28/1996	113309743	115
+en	Marmaduke	6/4/2010	83761844	87
+en	Hereafter	10/15/2010	105197635	129
+en	Murder by Numbers	4/19/2002	56714147	120
+en	Assassins	10/6/1995	30303072	132
+en	Hannibal Rising	2/6/2007	82169884	121
+en	The Story of Us	10/13/1999	58900031	95
+en	The Host	3/22/2013	63327201	125
+en	Basic	4/18/2003	42792561	98
+en	Blood Work	8/4/2002	26199517	110
+en	The International	2/3/2009	60161391	118
+en	Escape from L.A.	8/9/1996	42277365	97
+en	The Iron Giant	8/6/1999	23159305	86
+en	The Life Aquatic with Steve Zissou	12/10/2004	34808403	119
+en	Free State of Jones	6/24/2016	25035950	139
+en	The Life of David Gale	2/21/2003	38955598	130
+en	Man of the House	2/25/2005	0	100
+en	Run All Night	3/11/2015	71561644	114
+en	Eastern Promises	9/14/2007	55112356	100
+en	Into the Blue	9/30/2005	44434439	110
+fr	Joan of Arc	10/18/1999	66976317	148
+en	Your Highness	4/8/2011	26121638	102
+en	Dream House	9/30/2011	38502340	84
+en	Mad City	11/7/1997	10541523	114
+en	Baby's Day Out	7/1/1994	16671505	99
+en	The Scarlet Letter	10/13/1995	10382407	135
+en	Fair Game	5/20/2010	24188922	108
+en	Domino	9/22/2005	22944502	127
+en	Jade	10/13/1995	9851610	95
+en	Gamer	9/3/2009	40828540	95
+en	Beautiful Creatures	2/13/2013	60052138	124
+en	Death to Smoochy	3/28/2002	0	109
+en	Zoolander 2	2/6/2016	55969000	100
+en	The Big Bounce	1/30/2004	6808550	88
+en	What Planet Are You From?	3/3/2000	0	105
+en	Drive Angry	2/24/2011	28931401	105
+en	Street Fighter: The Legend of Chun-Li	2/27/2009	12764201	97
+en	The One	11/2/2001	72700000	87
+en	The Adventures of Ford Fairlane	7/11/1990	20423389	104
+en	The Boat That Rocked	4/1/2009	36348784	116
+en	Traffic	12/27/2000	207515725	147
+en	Indiana Jones and the Last Crusade	5/24/1989	474171806	127
+en	Anna Karenina	9/6/2012	68929150	130
+en	Chappie	3/4/2015	104399548	120
+en	The Bone Collector	11/4/1999	151493655	118
+en	Panic Room	3/29/2002	196397415	111
+de	The Tooth Fairy	8/8/2006	0	0
+en	Three Kings	9/27/1999	108000000	114
+en	Child 44	3/15/2015	3324330	137
+en	Rat Race	7/30/2001	85498534	112
+en	K-PAX	10/22/2001	50315140	120
+en	Kate & Leopold	12/25/2001	0	118
+en	Bedazzled	10/19/2000	90383208	93
+en	The Cotton Club	12/14/1984	25928721	127
+en	3:10 to Yuma	9/6/2007	70016220	122
+en	Taken 3	12/16/2014	325771424	109
+en	Out of Sight	6/26/1998	77745568	123
+en	The Cable Guy	6/10/1996	102825796	96
+en	Dick Tracy	6/15/1990	103738726	103
+en	The Thomas Crown Affair	8/6/1999	124305181	113
+en	Riding in Cars with Boys	10/19/2001	35743308	132
+en	First Blood	10/22/1982	125212904	93
+ru	???????	3/20/1972	0	167
+en	Happily N'Ever After	9/14/2006	38085778	75
+en	Mary Reilly	2/23/1996	12379402	104
+en	My Best Friend's Wedding	6/19/1997	299288605	105
+en	America's Sweethearts	7/17/2001	0	102
+en	Insomnia	5/24/2002	113714830	118
+en	Star Trek: First Contact	11/21/1996	150000000	111
+en	Jonah Hex	6/18/2010	10539000	80
+en	Courage Under Fire	7/4/1996	100860818	117
+en	Liar Liar	3/21/1997	181000000	86
+en	The Infiltrator	7/13/2016	15436808	127
+en	Inchon	5/4/1981	5200000	140
+en	The Flintstones	5/26/1994	341631208	91
+en	Taken 2	9/27/2012	376141306	91
+en	Scary Movie 3	10/24/2003	220673217	84
+en	Miss Congeniality	12/14/2000	212000000	111
+en	Journey to the Center of the Earth	7/10/2008	101702060	93
+en	The Princess Diaries 2: Royal Engagement	8/6/2004	95149435	113
+en	The Pelican Brief	12/16/1993	195268056	141
+en	The Client	7/20/1994	117615211	119
+en	The Bucket List	12/25/2007	175372502	97
+en	Patriot Games	6/4/1992	178051587	117
+en	Monster-in-Law	5/13/2005	154749918	101
+en	Prisoners	9/18/2013	122126687	153
+en	Training Day	10/5/2001	104876233	122
+en	Galaxy Quest	12/23/1999	90683916	102
+en	Scary Movie 2	7/4/2001	141220678	83
+en	The Muppets	11/22/2011	165184237	103
+en	Blade	8/21/1998	131183530	120
+en	Coach Carter	1/14/2005	76669806	136
+en	Changing Lanes	4/7/2002	94935764	89
+en	Anaconda	4/11/1997	136885767	89
+en	Coyote Ugly	7/30/2000	113916474	100
+en	Love Actually	9/7/2003	244931766	135
+en	A Bug's Life	11/25/1998	363258859	95
+en	From Hell	10/19/2001	74558115	122
+en	The Specialist	10/7/1994	170362582	110
+en	Tin Cup	8/16/1996	53854588	135
+en	Yours, Mine and Ours	4/24/1968	0	111
+en	Kicking & Screaming	5/13/2005	56070433	95
+en	The Hitchhiker's Guide to the Galaxy	1/15/2005	104478416	109
+en	Fat Albert	12/12/2004	0	93
+en	Resident Evil: Extinction	9/20/2007	148412065	94
+en	Blended	5/21/2014	123494610	117
+en	Last Holiday	1/13/2006	38399961	112
+en	The River Wild	9/30/1994	0	111
+en	The Indian in the Cupboard	7/14/1995	0	96
+en	Savages	7/6/2012	82966152	131
+en	Cellular	9/6/2004	56422687	94
+en	Johnny English	4/6/2003	160583018	88
+en	The Ant Bully	7/27/2006	55181129	88
+en	Dune	12/14/1984	30925690	137
+en	Across the Universe	9/14/2007	0	133
+en	Revolutionary Road	12/19/2008	75225693	119
+en	16 Blocks	3/1/2006	65664721	105
+en	Babylon A.D.	8/20/2008	72108608	101
+en	The Glimmer Man	10/4/1996	0	92
+en	Multiplicity	7/19/1996	0	117
+en	Aliens in the Attic	7/31/2009	57881056	86
+en	The Pledge	1/9/2001	29400000	123
+en	The Producers	12/25/2005	38058335	134
+en	The Phantom	6/6/1996	17300889	100
+en	All the Pretty Horses	12/11/2000	0	117
+en	Nixon	12/22/1995	13681765	192
+en	The Ghost Writer	2/12/2010	60222298	128
+en	Deep Rising	1/30/1998	11203026	106
+en	Miracle at St. Anna	9/15/2008	9323833	160
+en	Bangkok Dangerous	8/21/2008	42487390	99
+en	Big Trouble	4/5/2002	8493890	85
+en	Love in the Time of Cholera	10/4/2007	4607608	139
+en	Shadow Conspiracy	1/31/1997	2154540	103
+en	Johnny English Reborn	9/15/2011	160078586	101
+en	Foodfight!	6/15/2012	73706	87
+en	Argo	10/11/2012	232324128	120
+en	The Fugitive	8/6/1993	368875760	130
+en	The Bounty Hunter	3/16/2010	136000000	110
+en	Sleepers	10/18/1996	165615285	147
+en	Rambo: First Blood Part II	5/21/1985	300400432	96
+en	The Juror	2/2/1996	0	118
+en	Pinocchio	2/23/1940	84300000	88
+en	Heaven's Gate	11/19/1980	3484331	219
+en	Underworld: Evolution	1/12/2006	111340801	106
+en	Victor Frankenstein	11/10/2015	34227298	109
+en	Finding Forrester	12/21/2000	80049764	136
+en	28 Days	4/6/2000	0	103
+en	Unleashed	2/2/2005	50871113	103
+en	The Sweetest Thing	4/12/2002	68696770	84
+en	The Firm	6/30/1993	270248367	154
+en	Charlie St. Cloud	5/1/2010	48190704	99
+en	The Mechanic	1/13/2011	51070807	93
+en	21 Jump Street	3/12/2012	201585328	109
+en	Notting Hill	5/13/1999	363889678	124
+en	Chicken Run	6/21/2000	224834564	84
+en	Along Came Polly	1/16/2004	171963386	90
+en	Boomerang	6/30/1992	70100000	117
+en	The Heat	6/27/2013	158674180	117
+en	Cleopatra	6/12/1963	71000000	248
+en	Here Comes the Boom	10/11/2012	73100172	105
+en	High Crimes	4/3/2002	63781810	115
+en	The Mirror Has Two Faces	11/15/1996	0	126
+en	The Mothman Prophecies	1/25/2002	55157539	119
+en	Brüno	7/8/2009	0	83
+en	Licence to Kill	7/7/1989	156167015	133
+en	Red Riding Hood	3/11/2011	89162162	100
+en	15 Minutes	3/1/2001	56359980	120
+en	Super Mario Bros.	5/28/1993	20915465	104
+en	Lord of War	9/16/2005	24127895	122
+en	One for the Money	1/26/2012	36893721	91
+en	The Interview	12/25/2014	12342632	112
+en	The Warrior's Way	12/2/2010	11087569	100
+fr	Micmacs à tire-larigot	10/28/2009	14000000	100
+en	8 Mile	11/8/2002	215000000	110
+fr	Pourquoi j'ai pas mangé mon père	4/8/2015	0	100
+en	A Knight's Tale	5/11/2001	117487473	132
+en	The Medallion	8/15/2003	0	88
+en	The Sixth Sense	8/6/1999	672806292	107
+en	Man on a Ledge	1/13/2012	46221189	102
+en	The Big Year	10/13/2011	7448385	100
+en	The Karate Kid	6/22/1984	90815558	126
+en	American Hustle	12/12/2013	251171807	138
+en	The Proposal	6/1/2009	317375031	108
+en	Double Jeopardy	9/24/1999	177841558	105
+en	Back to the Future Part II	11/20/1989	332000000	108
+en	Lucy	7/14/2014	126546825	89
+en	Fifty Shades of Grey	2/11/2015	571006128	125
+en	Spy Kids 3-D: Game Over	7/25/2003	197011982	84
+en	A Time to Kill	7/24/1996	152266007	149
+en	Cheaper by the Dozen	12/24/2003	190212113	98
+en	Lone Survivor	12/24/2013	149295601	121
+en	A League of Their Own	7/1/1992	107458785	128
+en	The Conjuring 2	5/13/2016	320170008	134
+en	The Social Network	9/30/2010	224920315	120
+en	He's Just Not That Into You	2/6/2009	177259441	129
+en	Scary Movie 4	4/13/2006	178262620	83
+en	Scream 3	2/3/2000	161834276	116
+en	Back to the Future Part III	5/25/1990	244527583	118
+en	Get Hard	3/26/2015	111811453	100
+en	Dracula	11/13/1992	215862692	128
+en	Julie & Julia	8/6/2009	129540499	123
+en	42	4/12/2013	95020213	128
+en	The Talented Mr. Ripley	12/25/1999	128798265	139
+en	Dumb and Dumber To	11/12/2014	169837010	110
+en	Eight Below	2/17/2006	120455994	120
+en	The Intern	9/24/2015	194564672	121
+en	Ride Along 2	1/14/2016	124827316	102
+en	The Last of the Mohicans	9/25/1992	75505856	112
+en	Ray	10/29/2004	124731534	152
+en	Sin City	4/1/2005	158733820	124
+en	Vantage Point	2/1/2008	151161491	90
+en	I Love You, Man	3/20/2009	91636986	105
+en	Shallow Hal	11/1/2001	141069860	114
+en	JFK	12/20/1991	205405498	189
+en	Big Momma's House 2	1/26/2006	138259062	99
+en	The Mexican	3/1/2001	147845033	123
+en	17 Again	3/11/2009	136267476	102
+en	The Other Woman	4/16/2014	196781193	109
+en	The Final Destination	8/26/2009	186167139	82
+en	Bridge of Spies	10/15/2015	165478348	141
+en	Behind Enemy Lines	11/17/2001	91753202	106
+en	Get Him to the Greek	6/4/2010	90029656	109
+en	Shall We Dance?	10/15/2004	170128460	107
+en	Small Soldiers	7/10/1998	54682547	110
+en	Spawn	7/31/1997	87840042	96
+en	The Count of Monte Cristo	1/23/2002	75395048	131
+en	The Lincoln Lawyer	3/17/2011	85412898	119
+en	Unknown	2/16/2011	130786397	113
+en	The Prestige	10/19/2006	109676311	130
+en	Horrible Bosses 2	11/26/2014	107670357	108
+en	Escape from Planet Earth	2/14/2013	74597643	89
+en	Apocalypto	12/7/2006	120175290	139
+en	The Living Daylights	6/29/1987	191185897	130
+en	Predators	7/3/2010	126248813	107
+en	Legal Eagles	6/18/1986	0	116
+en	Secret Window	3/12/2004	92913171	96
+en	The Lake House	6/16/2006	114830111	99
+en	The Skeleton Key	7/29/2005	91974818	104
+en	The Odd Life of Timothy Green	8/15/2012	51854875	105
+en	Made of Honor	5/2/2008	84601681	101
+en	Jersey Boys	6/5/2014	67347013	134
+en	The Rainmaker	11/18/1997	45916769	135
+en	Gothika	11/21/2003	141591324	98
+en	Amistad	12/3/1997	74000000	155
+en	Medicine Man	2/7/1992	0	106
+en	Aliens vs Predator: Requiem	12/25/2007	41797066	94
+en	Ri¢hie Ri¢h	12/19/1994	0	95
+en	Autumn in New York	8/11/2000	0	103
+en	Music and Lyrics	2/9/2007	145896422	96
+en	Paul	2/14/2011	97552050	104
+en	The Guilt Trip	12/19/2012	41863726	95
+en	Scream 4	4/11/2011	97138686	111
+en	8MM	2/26/1999	96618699	123
+en	The Doors	3/1/1991	34416893	140
+en	Sex Tape	7/17/2014	126069509	97
+en	Hanging Up	2/16/2000	36037909	94
+en	Final Destination 5	8/12/2011	157887643	92
+en	Mickey Blue Eyes	8/16/1999	0	102
+en	Pay It Forward	10/12/2000	55707411	122
+en	Fever Pitch	4/6/2005	50451307	103
+en	Drillbit Taylor	3/20/2008	0	102
+en	A Million Ways to Die in the West	5/22/2014	0	116
+en	The Shadow	7/1/1994	48063435	108
+en	Extremely Loud & Incredibly Close	12/24/2011	55247881	129
+en	Morning Glory	1/12/2010	58785180	102
+en	Get Rich or Die Tryin'	11/9/2005	46442528	117
+en	The Art of War	8/23/2000	30199105	117
+en	Rent	11/23/2005	31670620	135
+en	Bless the Child	8/11/2000	0	107
+en	The Out-of-Towners	4/2/1999	29000000	90
+en	The Island of Dr. Moreau	8/23/1996	49627779	96
+en	The Musketeer	9/7/2001	27053815	104
+en	The Other Boleyn Girl	2/28/2008	0	115
+en	Sweet November	2/16/2001	65754228	119
+en	The Reaping	4/5/2007	62771059	99
+en	Mean Streets	10/2/1973	3000000	110
+en	Renaissance Man	6/3/1994	24332324	128
+en	Colombiana	7/27/2011	60965854	108
+en	Quest for Camelot	5/15/1998	38172500	86
+en	City By The Sea	9/6/2002	22433915	108
+en	At First Sight	1/15/1999	0	128
+en	Torque	1/16/2004	46546197	84
+en	City Hall	2/16/1996	0	111
+en	Showgirls	9/22/1995	20350754	128
+en	Marie Antoinette	5/24/2006	60474340	123
+en	Kiss of Death	4/21/1995	0	101
+en	Get Carter	10/6/2000	19412993	102
+en	Lo imposible	9/9/2012	180274123	113
+en	Ishtar	5/15/1987	14375181	107
+en	Fantastic Mr. Fox	10/23/2009	46471023	87
+en	Life or Something Like It	4/26/2002	16872671	103
+en	Memoirs of an Invisible Man	2/28/1992	14358033	99
+fr	Le fabuleux destin d'Amélie Poulain	4/25/2001	173921954	122
+en	New York Minute	5/1/2004	0	91
+en	Alfie	10/22/2004	13395939	103
+en	Big Miracle	2/2/2012	24719215	107
+en	The Deep End of the Ocean	3/12/1999	28121100	106
+en	FearDotCom	8/9/2002	18902015	101
+en	Cirque du Freak: The Vampire's Assistant	10/23/2009	28169671	109
+en	Duplex	9/26/2003	19322135	89
+en	Soul Men	11/7/2008	0	103
+en	Raise the Titanic	1/1/1980	0	115
+en	Universal Soldier: The Return	8/5/1999	10667893	82
+en	Pandorum	9/8/2009	20645327	108
+en	Impostor	12/3/2001	0	102
+en	Extreme Ops	11/27/2002	10959475	93
+en	Just Visiting	4/6/2001	0	88
+en	Sunshine	4/5/2007	32017803	107
+en	A Thousand Words	3/7/2012	22044277	91
+en	Delgo	12/12/2008	0	94
+en	The Gunman	2/16/2015	13644292	115
+en	Stormbreaker	7/21/2006	23937870	93
+en	Disturbia	4/12/2007	117760134	105
+en	Hackers	9/14/1995	7563728	107
+en	The Hunting Party	9/3/2007	0	101
+en	The Hudsucker Proxy	3/11/1994	0	111
+en	Nomad	7/17/2005	0	112
+fr	Un monstre à Paris	10/12/2011	0	90
+en	The Last Shot	9/24/2004	0	90
+en	The Crow	5/11/1994	94000000	102
+te	Baahubali: The Beginning	7/10/2015	100000000	159
+en	The Time Traveler's Wife	8/14/2009	101229792	107
+en	Because I Said So	2/2/2007	69485490	102
+en	Frankenweenie	10/4/2012	35287788	87
+en	Serenity	8/25/2005	38869464	119
+en	Against the Ropes	2/20/2004	6614280	106
+en	Superman III	6/17/1983	75850624	125
+en	Grudge Match	12/25/2013	44907260	113
+en	Sweet Home Alabama	9/26/2002	180622424	108
+en	The Ugly Truth	7/24/2009	205298907	96
+en	Sgt. Bilko	3/29/1996	0	90
+en	Spy Kids 2: The Island of Lost Dreams	8/7/2002	119723358	100
+en	Star Trek: Generations	11/17/1994	120000000	118
+en	Water for Elephants	3/15/2011	114156230	120
+en	The Hurricane	9/17/1999	73956241	146
+en	Enough	5/24/2002	51801187	114
+en	Heartbreakers	3/23/2001	0	123
+en	Paul Blart: Mall Cop 2	4/16/2015	107597242	94
+en	Angel Eyes	5/15/2001	29700000	102
+en	Joe Somebody	12/21/2001	0	99
+en	The Ninth Gate	8/24/1999	58401898	133
+en	Extreme Measures	9/27/1996	17380126	118
+en	Rock Star	9/4/2001	16991902	105
+en	Precious	11/6/2009	47536959	110
+en	White Squall	2/2/1996	10300000	129
+en	The Thing	6/25/1982	19629760	109
+en	Riddick	9/2/2013	98337295	119
+en	Switchback	10/31/1997	6482195	118
+en	Texas Rangers	11/30/2001	0	110
+en	City of Ember	10/7/2008	17869048	90
+en	The Master	9/7/2012	28258060	137
+en	Virgin Territory	12/17/2007	5410749	93
+en	The Express	10/10/2008	9793496	130
+en	The 5th Wave	1/14/2016	109906372	112
+en	Creed	11/25/2015	173567581	133
+en	The Town	9/15/2010	154026136	125
+en	What to Expect When You're Expecting	5/17/2012	79700000	110
+en	Burn After Reading	9/5/2008	163720069	96
+en	Nim's Island	4/3/2008	100076342	96
+en	Rush	9/2/2013	90247624	123
+en	Magnolia	12/8/1999	48451803	188
+en	Cop Out	2/26/2010	55583804	107
+en	How to Be Single	1/21/2016	112343513	110
+en	Dolphin Tale	9/23/2011	95404397	113
+en	Twilight	11/20/2008	392616625	122
+en	John Q	2/15/2002	102244770	116
+en	Blue Streak	9/17/1999	117758500	93
+en	We're the Millers	8/7/2013	269994119	110
+ru	Obitaemyy Ostrov	12/18/2008	21834845	115
+en	Breakdown	5/2/1997	50159144	95
+en	Never Say Never Again	10/7/1983	160000000	134
+en	Hot Tub Time Machine	3/26/2010	64572262	101
+en	Dolphin Tale 2	9/12/2014	52424533	107
+en	Reindeer Games	2/25/2000	32168970	124
+en	A Man Apart	4/4/2003	44350926	109
+en	Aloha	5/27/2015	26250020	105
+en	Ghosts of Mississippi	12/20/1996	0	130
+en	Snow Falling on Cedars	12/22/1999	0	127
+en	The Rite	1/28/2011	96047633	114
+en	Gattaca	9/7/1997	12532777	106
+de	Isn't She Great	1/28/2000	3003296	95
+en	Space Chimps	7/17/2008	63800345	81
+en	Head of State	1/1/2003	0	95
+en	The Hangover	6/5/2009	459270619	100
+en	Austin Powers: The Spy Who Shagged Me	6/8/1999	310940086	95
+en	Batman	6/23/1989	411348924	126
+en	There Be Dragons	3/25/2011	0	112
+en	Lethal Weapon 3	5/15/1992	321731527	118
+en	The Blind Side	11/20/2009	309208309	129
+en	Spy Kids	3/18/2001	147934180	88
+en	Horrible Bosses	7/8/2011	117000000	98
+en	True Grit	12/22/2010	252276927	110
+en	The Devil Wears Prada	6/30/2006	326551094	109
+en	Star Trek: The Motion Picture	12/6/1979	139000000	132
+en	Identity Thief	2/7/2013	173965010	111
+en	Cape Fear	11/15/1991	182300000	128
+en	21	3/27/2008	69823199	123
+en	Trainwreck	7/17/2015	140795793	125
+en	Guess Who	3/25/2005	68915888	105
+en	The English Patient	11/14/1996	231976425	162
+en	L.A. Confidential	9/19/1997	126216940	138
+en	Sky High	7/29/2005	86369815	100
+en	In & Out	9/10/1997	0	90
+en	Species	7/7/1995	113374103	108
+en	A Nightmare on Elm Street	11/14/1984	25504513	91
+en	The Cell	8/17/2000	104155843	107
+en	The Man in the Iron Mask	3/12/1998	0	132
+en	Secretariat	8/20/2010	60251371	123
+en	TMNT	3/23/2007	95608995	90
+en	Radio	10/24/2003	52277485	109
+en	Friends with Benefits	7/21/2011	150483765	109
+en	Neighbors 2: Sorority Rising	5/4/2016	108758521	91
+en	Saving Mr. Banks	11/16/2013	112544580	125
+en	Malcolm X	11/18/1992	48169908	202
+en	This Is 40	12/20/2012	88058786	134
+en	Old Dogs	11/24/2009	92219310	88
+en	Underworld: Rise of the Lycans	1/22/2009	91353501	92
+en	License to Wed	7/4/2007	69307224	91
+en	The Benchwarmers	4/7/2006	0	80
+en	Must Love Dogs	7/21/2005	58405313	98
+en	Donnie Brasco	2/27/1997	41954997	127
+en	Resident Evil	3/15/2002	102984862	100
+en	Poltergeist	6/4/1982	122200000	114
+en	The Ladykillers	3/25/2004	0	104
+en	Max Payne	10/15/2008	85416905	100
+en	In Time	10/27/2011	173930596	109
+en	The Back-Up Plan	4/23/2010	77477008	106
+en	Something Borrowed	5/5/2011	59901913	112
+en	Black Knight	11/21/2001	0	95
+en	The Bad News Bears	4/7/1976	35323292	102
+en	Street Fighter	12/22/1994	99423521	102
+en	The Pianist	9/24/2002	120072577	150
+en	The Nativity Story	12/1/2006	0	101
+en	House of Wax	4/30/2005	68766121	113
+en	Closer	12/1/2004	115505027	104
+en	J. Edgar	11/9/2011	84606030	137
+en	Mirrors	8/15/2008	72436439	110
+en	Queen of the Damned	2/10/2002	45479110	101
+en	Predator 2	11/20/1990	57120318	108
+en	Untraceable	1/22/2008	32483410	101
+en	Blast from the Past	2/12/1999	40263020	112
+en	Flash Gordon	9/1/1980	27107960	111
+en	Jersey Girl	3/25/2004	36098382	102
+en	Alex Cross	10/18/2012	30353232	101
+en	Midnight in the Garden of Good and Evil	11/21/1997	25105255	155
+en	Heist	11/13/2015	4100000	93
+en	Nanny McPhee and the Big Bang	3/26/2010	93246388	109
+en	Hoffa	12/25/1992	0	140
+en	The X Files: I Want to Believe	7/24/2008	68369434	104
+en	Ella Enchanted	4/9/2004	27388767	96
+en	Concussion	11/12/2015	50363790	123
+en	Abduction	9/22/2011	82087155	106
+en	Valiant	3/25/2005	19478106	76
+en	Wonder Boys	2/22/2000	0	111
+en	Superhero Movie	3/27/2008	25871834	85
+en	Broken City	1/18/2013	19701164	109
+en	Cursed	2/25/2005	19294901	97
+en	Premium Rush	8/24/2012	31083599	91
+en	Hot Pursuit	5/8/2015	51680201	87
+en	The Four Feathers	9/8/2002	29882645	132
+en	Parker	1/23/2013	46216641	118
+en	Wimbledon	9/13/2004	41512007	98
+en	Furry Vengeance	4/2/2010	39340177	92
+en	Bait	9/5/2012	0	93
+en	Krull	7/29/1983	16519460	117
+en	Lions for Lambs	10/22/2007	63215872	92
+en	Flight of the Intruder	1/18/1991	0	115
+en	Walk Hard: The Dewey Cox Story	12/21/2007	18317151	96
+en	The Shipping News	12/18/2001	0	111
+en	American Outlaws	8/17/2001	13678913	94
+en	The Young Victoria	3/4/2009	27409889	105
+en	Whiteout	9/9/2009	12206028	101
+en	The Tree of Life	5/18/2011	54674226	139
+en	Knock Off	9/4/1998	0	91
+en	Sabotage	3/28/2014	17508518	110
+en	The Order	9/5/2003	11560806	102
+en	Punisher: War Zone	12/5/2008	10089373	102
+en	Zoom	8/11/2006	12506188	83
+en	The Walk	9/30/2015	61181942	123
+en	Warriors of Virtue	5/2/1997	0	103
+en	A Good Year	9/9/2006	42064105	118
+en	Radio Flyer	2/21/1992	4651977	114
+en	Bound by Honor	2/5/1993	0	180
+en	Smilla's Sense of Snow	2/13/1997	0	121
+en	Femme Fatale	11/6/2002	16838910	114
+en	Lion of the Desert	4/17/1981	0	173
+en	Le Hussard sur le toit	9/20/1995	15000000	135
+en	Ride with the Devil	11/24/1999	635096	138
+es	Biutiful	10/20/2010	25147786	148
+es	Bandidas	1/18/2006	10496317	93
+en	Black Water Transit	5/13/2009	0	100
+en	The Maze Runner	9/10/2014	348319861	113
+en	Unfinished Business	3/5/2015	14431253	91
+en	The Age of Innocence	9/17/1993	32255440	139
+en	The Fountain	9/6/2006	15304890	96
+en	Chill Factor	9/1/1999	11263966	101
+en	Stolen	5/17/2012	2106557	96
+en	The Longest Ride	4/9/2015	63013281	128
+en	The Astronaut's Wife	8/26/1999	19598588	109
+en	I Dreamed of Africa	5/5/2000	0	114
+en	Playing for Keeps	11/29/2012	0	106
+en	Mandela: Long Walk to Freedom	12/6/2013	27330000	141
+en	Reds	12/25/1981	40382659	195
+en	A Few Good Men	12/11/1992	243240178	138
+en	Exit Wounds	3/13/2001	79958599	101
+en	Big Momma's House	5/31/2000	173959438	98
+en	The House of Magic	12/24/2013	0	85
+en	The Darkest Hour	12/22/2011	64626786	89
+en	Step Up Revolution	7/26/2012	140470746	99
+en	Snakes on a Plane	8/6/2006	62022014	105
+en	The Watcher	9/8/2000	0	96
+en	The Punisher	4/15/2004	54700105	124
+en	Goal!: The Dream Begins	6/6/2005	27610873	118
+en	Safe	4/16/2012	40346186	94
+en	Pushing Tin	4/23/1999	0	124
+en	Return of the Jedi	5/23/1983	572700000	135
+en	Doomsday	3/14/2008	22211426	108
+en	The Reader	12/10/2008	113019290	124
+en	Wanderlust	2/23/2012	24159934	98
+en	Elf	10/9/2003	173398518	97
+en	Phenomenon	7/5/1996	152036382	123
+en	Snow Dogs	1/18/2002	0	99
+en	Scrooged	11/22/1988	60328000	101
+en	Nacho Libre	6/16/2006	80197993	92
+en	Bridesmaids	4/28/2011	288383523	125
+en	This Is the End	6/12/2013	126041322	107
+en	Stigmata	9/10/1999	50041732	103
+en	Men of Honor	9/13/2000	48814909	129
+en	Takers	8/26/2010	69055695	107
+en	The Big Wedding	4/25/2013	21819348	90
+en	Big Mommas: Like Father, Like Son	2/16/2011	83615414	107
+en	Source Code	3/30/2011	147332697	93
+en	Alive	1/15/1993	36733909	120
+en	The Number 23	2/23/2007	77566815	101
+en	The Young and Prodigious T.S. Spivet	10/16/2013	9494789	105
+en	1941	12/13/1979	31755742	113
+en	Dreamer: Inspired By a True Story	9/10/2005	0	106
+en	A History of Violence	9/23/2005	60740827	96
+en	Transporter 2	8/2/2005	85167639	87
+en	The Quick and the Dead	2/9/1995	18552460	107
+en	Laws of Attraction	4/4/2004	30016165	90
+en	Bringing Out the Dead	10/22/1999	0	121
+en	Repo Men	3/18/2010	18409891	111
+en	Bogus	9/6/1996	0	110
+en	The Incredible Burt Wonderstone	3/14/2013	27437881	100
+en	Cats Don't Dance	3/26/1997	3566637	75
+en	Cradle Will Rock	12/10/1999	0	132
+en	The Good German	12/8/2006	5914908	108
+en	George and the Dragon	3/28/2004	0	93
+en	Apocalypse Now	8/15/1979	89460381	153
+en	Going the Distance	9/1/2010	42045846	102
+en	Mr. Holland's Opus	12/29/1995	106269971	137
+en	Criminal	4/14/2016	14708696	113
+en	Out of Africa	12/20/1985	128499205	161
+en	Flight	11/2/2012	161772375	138
+en	Moonraker	6/26/1979	210308099	126
+en	The Grand Budapest Hotel	2/26/2014	174600318	99
+en	Hearts in Atlantis	9/7/2001	24185781	101
+en	Arachnophobia	8/9/1990	53208180	103
+en	Frequency	4/28/2000	68106245	118
+en	Vacation	7/28/2015	104384188	99
+en	Get Shorty	10/20/1995	115101622	105
+en	Chicago	12/26/2002	306776732	113
+en	Big Daddy	6/25/1999	234801895	93
+en	American Pie 2	8/10/2001	287553595	108
+en	Toy Story	10/30/1995	373554033	81
+en	Speed	6/9/1994	350448145	116
+en	The Vow	2/5/2012	196114570	104
+en	Extraordinary Measures	1/21/2010	15134293	105
+en	Remember the Titans	9/29/2000	136706683	113
+en	The Hunt for Red October	3/2/1990	199200000	134
+en	The Butler	8/16/2013	115922175	132
+en	DodgeBall: A True Underdog Story	6/18/2004	167722310	92
+en	The Addams Family	11/22/1991	191502426	99
+en	Ace Ventura: When Nature Calls	11/10/1995	212385533	90
+en	The Princess Diaries	8/3/2001	165335153	115
+en	The First Wives Club	9/20/1996	116400000	102
+en	Se7en	9/22/1995	327311859	127
+en	District 9	8/5/2009	210819611	112
+en	The SpongeBob SquarePants Movie	11/14/2004	140161792	87
+en	Mystic River	10/7/2003	156822020	138
+en	Million Dollar Baby	12/15/2004	216763646	132
+en	Analyze This	3/5/1999	176885658	103
+en	The Notebook	6/25/2004	115603229	123
+en	27 Dresses	1/10/2008	160259319	111
+en	Hannah Montana: The Movie	4/10/2009	155545279	102
+it	Rugrats in Paris: The Movie	9/14/2000	103	78
+en	The Prince of Tides	12/25/1991	74787599	132
+en	Legends of the Fall	12/16/1994	160638883	133
+en	Up in the Air	9/5/2009	163670000	109
+en	About Schmidt	12/13/2002	105834556	125
+en	Warm Bodies	1/31/2013	116980662	97
+en	Looper	9/26/2012	47042000	118
+en	Down to Earth	2/16/2001	0	87
+en	Babe	7/18/1995	254134910	89
+en	Hope Springs	8/7/2012	114281051	100
+en	Forgetting Sarah Marshall	4/17/2008	105173115	111
+en	Four Brothers	8/11/2005	92374674	109
+en	Baby Mama	4/23/2008	63833449	99
+en	Hope Floats	5/29/1998	0	114
+en	Bride Wars	1/9/2009	114663461	89
+en	Without a Paddle	8/20/2004	69631118	95
+en	13 Going on 30	4/13/2004	96455697	98
+en	Midnight in Paris	5/11/2011	151119219	94
+en	The Nut Job	1/17/2014	0	85
+en	Blow	4/4/2001	83282296	124
+en	Message in a Bottle	2/22/1999	118880016	131
+en	Star Trek V: The Final Frontier	6/9/1989	70200000	107
+en	Like Mike	7/3/2002	0	99
+en	The Naked Gun 33?: The Final Insult	3/18/1994	51132598	83
+en	A View to a Kill	5/24/1985	152427960	131
+en	The Curse of the Were-Rabbit	9/4/2005	192452832	85
+en	P.S. I Love You	11/15/2007	156835339	126
+en	Racing Stripes	1/6/2005	93772522	102
+en	Atonement	8/29/2007	129266061	123
+en	Letters to Juliet	5/14/2010	0	105
+en	Black Rain	9/22/1989	45892212	125
+en	The Three Stooges	4/13/2012	54819301	92
+en	Corpse Bride	9/9/2005	117195061	77
+en	Glory Road	1/13/2006	42647449	118
+en	Sicario	9/17/2015	84025816	121
+en	Southpaw	6/15/2015	91709827	123
+en	Drag Me to Hell	3/15/2009	90810892	99
+en	The Age of Adaline	4/16/2015	65663276	112
+en	Secondhand Lions	9/19/2003	0	111
+en	Step Up 3D	8/4/2010	159291809	107
+en	Blue Crush	8/8/2002	51842679	104
+en	Stranger Than Fiction	9/9/2006	53653224	113
+en	30 Days of Night	10/17/2007	75505973	113
+en	The Cabin in the Woods	4/12/2012	66486080	95
+en	Meet the Spartans	1/24/2008	84646831	84
+en	Midnight Run	7/20/1988	38413606	126
+en	The Running Man	11/13/1987	38122105	101
+en	Little Shop of Horrors	12/19/1986	38748395	94
+en	Hanna	4/7/2011	63782078	111
+en	Mortal Kombat: Annihilation	11/21/1997	51376861	95
+en	Larry Crowne	6/30/2011	36160375	98
+en	Carrie	10/16/2013	82394288	100
+en	Take the Lead	3/17/2006	34742066	108
+en	Gridiron Gang	9/15/2006	41480851	125
+en	What's the Worst That Could Happen?	5/31/2001	0	94
+en	9	8/19/2009	48428063	79
+en	Side Effects	2/7/2013	63372757	106
+en	The Prince & Me	3/28/2004	0	111
+en	Winnie the Pooh	4/13/2011	14460000	63
+en	Dumb and Dumberer: When Harry Met Lloyd	6/13/2003	39267515	85
+en	Bulworth	5/15/1998	29202884	108
+en	Get on Up	8/1/2014	31911598	139
+en	One True Thing	9/18/1998	0	127
+en	Virtuosity	8/4/1995	24048000	106
+en	My Super Ex-Girlfriend	6/20/2006	60896147	95
+en	Deliver Us from Evil	7/1/2014	0	118
+en	Sanctum	2/3/2011	108609310	108
+en	Little Black Book	8/6/2004	22034832	111
+en	The Five-Year Engagement	4/27/2012	53909751	124
+en	Mr. 3000	6/15/2004	21800302	104
+en	The Next Three Days	11/18/2010	51148651	133
+en	Ultraviolet	3/3/2006	31070211	87
+en	Assault on Precinct 13	1/19/2005	35294470	109
+en	The Replacement Killers	2/6/1998	19204929	87
+en	Fled	7/19/1996	17193231	98
+en	Eight Legged Freaks	7/17/2002	0	99
+en	Love & Other Drugs	11/22/2010	102820008	112
+en	88 Minutes	2/14/2007	16930884	108
+en	North Country	2/12/2005	25224242	126
+en	The Whole Ten Yards	4/7/2004	26155781	98
+en	Splice	10/6/2009	0	104
+en	Howard the Duck	8/1/1986	37962774	110
+en	Pride and Glory	9/9/2008	31148328	130
+en	The Cave	8/25/2005	15007991	97
+en	Alex & Emma	6/16/2003	15368897	96
+en	Wicker Park	9/3/2004	13001257	114
+en	Fright Night	8/18/2011	24922237	106
+en	The New World	12/25/2005	30536013	135
+en	Wing Commander	3/11/1999	0	100
+en	In Dreams	1/15/1999	0	100
+en	Dragonball Evolution	4/1/2009	0	85
+en	The Last Stand	1/12/2013	0	107
+en	Godsend	4/30/2004	30114487	102
+en	Chasing Liberty	1/9/2004	12	111
+en	Hoodwinked Too! Hood VS. Evil	4/29/2011	13521829	86
+en	An Unfinished Life	9/9/2005	18618284	108
+en	The Imaginarium of Doctor Parnassus	10/1/2009	64352607	123
+en	Barney's Version	10/26/2010	8454301	134
+en	Runner Runner	9/24/2013	62616646	91
+en	Antitrust	1/12/2001	18195610	108
+en	Glory	12/15/1989	26828365	122
+en	Once Upon a Time in America	2/16/1984	0	229
+en	Dead Man Down	3/8/2013	18074539	118
+en	The Merchant of Venice	9/3/2004	0	138
+en	The Good Thief	4/3/2003	0	108
+en	Supercross	8/16/2005	3102550	80
+en	Miss Potter	12/3/2006	35078241	92
+en	DOA: Dead or Alive	9/7/2006	480314	87
+en	The Assassination of Jesse James by the Coward Robert Ford	9/2/2007	14711793	160
+fr	Le petit Nicolas	9/30/2009	0	91
+en	Wild Card	1/14/2015	0	92
+en	Machine Gun Preacher	9/23/2011	2527904	129
+de	Konferenz der Tiere	10/7/2010	0	93
+en	Goodbye Bafana	2/11/2007	0	140
+en	United Passions	6/19/2014	0	110
+en	Grace of Monaco	5/14/2014	0	103
+ru	?????. ?????? ?????	11/12/2015	0	85
+en	Ripley's Game	9/2/2002	0	110
+en	Sausage Party	7/11/2016	140752617	83
+en	Pitch Perfect 2	5/7/2015	287506194	115
+en	Walk the Line	9/13/2005	186438883	136
+en	Keeping the Faith	4/14/2000	37036004	127
+en	The Borrowers	12/5/1997	0	86
+en	Frost/Nixon	10/15/2008	0	122
+en	Confessions of a Dangerous Mind	12/30/2002	33013805	113
+en	Serving Sara	8/20/2002	16930185	100
+en	The Boss	4/7/2016	78636257	91
+en	Cry Freedom	11/5/1987	0	157
+en	Mumford	9/24/1999	0	112
+en	Seed of Chucky	11/11/2004	24829644	87
+en	The Jacket	3/4/2005	21126225	103
+en	Aladdin	11/25/1992	504050219	90
+en	Straight Outta Compton	8/13/2015	201634991	147
+en	Indiana Jones and the Temple of Doom	5/23/1984	333000000	118
+en	The Rugrats Movie	11/20/1998	100491683	79
+en	Along Came a Spider	4/6/2001	105178561	104
+en	Florence Foster Jenkins	5/6/2016	48902953	110
+en	Once Upon a Time in Mexico	9/11/2003	98185582	102
+en	Die Hard	7/15/1988	140767956	131
+en	Role Models	2/3/2008	92380927	99
+en	The Big Short	12/11/2015	133346506	130
+en	Taking Woodstock	9/3/2009	0	120
+en	Miracle	2/6/2004	64445708	135
+en	Dawn of the Dead	3/19/2004	102356381	101
+en	The Wedding Planner	1/26/2001	94728529	103
+en	The Royal Tenenbaums	10/5/2001	71441250	110
+en	Identity	4/25/2003	90259536	90
+en	Last Vegas	10/31/2013	134402450	105
+en	For Your Eyes Only	6/23/1981	195312802	127
+en	Serendipity	10/5/2001	77516304	90
+en	Timecop	9/15/1994	101646581	99
+en	Zoolander	9/28/2001	60780981	89
+en	Safe Haven	2/7/2013	97594140	115
+en	Hocus Pocus	7/16/1993	39514713	96
+en	No Reservations	7/25/2007	92601050	104
+en	Kick-Ass	3/22/2010	96188903	117
+en	30 Minutes or Less	8/11/2011	40547440	83
+en	Dracula 2000	12/22/2000	33000337	99
+en	Alexander and the Terrible, Horrible, No Good, Very Bad Day	10/8/2014	100654149	81
+en	Pride & Prejudice	9/16/2005	121147947	135
+en	Blade Runner	6/25/1982	33139618	117
+en	Rob Roy	4/13/1995	31596911	139
+en	3 Days to Kill	2/14/2014	52597999	113
+en	We Own the Night	5/25/2007	54926886	117
+en	Lost Souls	10/13/2000	0	97
+fr	Le peuple migrateur	12/12/2001	20217080	98
+en	Just My Luck	5/12/2006	38159905	103
+en	Mystery, Alaska	10/1/1999	8888143	119
+en	The Spy Next Door	1/15/2010	45236543	94
+en	A Simple Wish	7/11/1997	8345056	86
+en	Ghosts of Mars	8/24/2001	14010832	98
+en	Our Brand Is Crisis	9/11/2015	7002261	108
+en	Pride and Prejudice and Zombies	2/4/2016	16374328	108
+en	Kundun	12/25/1997	5684789	134
+en	How to Lose Friends & Alienate People	10/2/2008	17286299	110
+en	Kick-Ass 2	7/17/2013	60700000	103
+es	Alatriste	9/1/2006	23321954	145
+en	Brick Mansions	4/22/2014	68896829	90
+en	Octopussy	6/5/1983	187500000	131
+en	Knocked Up	6/1/2007	219076518	129
+en	My Sister's Keeper	6/26/2009	95714875	109
+en	Welcome Home Roscoe Jenkins	2/8/2008	43650785	114
+en	A Passage to India	12/14/1984	27187653	163
+en	Notes on a Scandal	12/25/2006	49469904	92
+en	Rendition	9/7/2007	24748670	120
+en	Star Trek VI: The Undiscovered Country	12/5/1991	96900000	113
+en	Divine Secrets of the Ya-Ya Sisterhood	6/7/2002	0	116
+en	Kiss the Girls	10/3/1997	60527873	115
+en	The Blues Brothers	6/17/1980	115229890	133
+en	The Sisterhood of the Traveling Pants 2	8/6/2008	44352417	117
+en	Joyful Noise	1/13/2012	0	117
+en	About a Boy	4/26/2002	129000000	101
+en	Lake Placid	7/15/1999	56870414	82
+en	Lucky Number Slevin	2/24/2006	56308881	110
+en	The Right Stuff	10/20/1983	21500000	193
+en	Anonymous	10/21/2011	15395087	130
+en	The Neverending Story	4/5/1984	20158808	102
+en	Dark City	2/27/1998	27200316	100
+en	The Duchess	9/5/2008	0	110
+en	Return to Oz	6/21/1985	11137801	109
+en	The Newton Boys	3/26/1998	76000000	113
+en	Case 39	8/13/2009	29000000	109
+en	Suspect Zero	8/27/2004	13000000	99
+en	Martian Child	11/2/2007	0	106
+en	Spy Kids: All the Time in the World	8/18/2011	85564310	89
+en	Money Monster	5/12/2016	93282604	98
+en	The 51st State	12/7/2001	14	93
+en	Flawless	11/26/1999	4488529	112
+en	Mindhunters	5/7/2004	21148829	106
+en	What Just Happened	10/17/2008	6673422	104
+en	The Statement	12/12/2003	0	120
+en	The Magic Flute	9/7/2006	0	133
+en	Paul Blart: Mall Cop	1/15/2009	183293131	91
+en	Freaky Friday	8/3/2003	110230332	97
+en	The 40 Year Old Virgin	8/11/2005	109449237	116
+en	Shakespeare in Love	12/11/1998	289317794	122
+en	A Walk Among the Tombstones	9/18/2014	53181600	113
+en	Kindergarten Cop	12/21/1990	201957688	111
+en	Pineapple Express	8/6/2008	101624843	111
+en	EverAfter	7/31/1998	65705772	121
+en	Open Range	8/29/2003	68296293	139
+en	Flatliners	8/9/1990	61489265	115
+en	A Bridge Too Far	6/15/1977	50750000	175
+en	Red Eye	8/4/2005	57891803	85
+en	Final Destination 2	1/31/2003	90426405	90
+en	O Brother, Where Art Thou?	8/30/2000	71868327	106
+en	Legion	1/21/2010	67918658	100
+en	Pain & Gain	4/18/2013	86175291	130
+en	In Good Company	12/29/2004	0	109
+en	Clockstoppers	3/17/2002	38793283	94
+en	Silverado	7/10/1985	0	127
+en	Brothers	1/27/2009	43318349	104
+en	Agent Cody Banks 2: Destination London	12/3/2004	28818995	100
+en	New Year's Eve	12/8/2011	142044638	118
+en	Original Sin	8/3/2001	35402320	118
+en	The Raven	3/9/2012	29657751	111
+en	Welcome to Mooseport	2/24/2004	14000000	110
+en	Highlander III: The Sorcerer	11/29/1994	36800000	99
+en	Blood and Wine	10/3/1996	0	101
+en	Snow White: A Tale of Terror	7/18/1997	0	100
+en	The Curse of the Jade Scorpion	8/5/2001	0	103
+en	Accidental Love	2/10/2015	0	100
+en	Flipper	5/17/1996	20080020	95
+en	Self/less	7/10/2015	30523226	116
+en	The Constant Gardener	8/31/2005	82466670	129
+en	The Passion of the Christ	2/25/2004	611899420	127
+en	Mrs. Doubtfire	11/24/1993	441286195	125
+en	Rain Man	12/11/1988	412800000	133
+en	Gran Torino	12/9/2008	269958228	116
+en	W.	10/17/2008	29506464	131
+en	Taken	2/18/2008	226830568	93
+en	The Best of Me	10/16/2014	35926213	117
+en	The Bodyguard	11/25/1992	411006740	129
+en	Schindler's List	11/29/1993	321365567	195
+en	The Help	8/9/2011	124272124	146
+en	The Fifth Estate	10/11/2013	8555008	128
+en	Scooby-Doo 2: Monsters Unleashed	3/24/2004	181466833	93
+ru	Viy	1/30/2014	0	127
+en	Freddy vs. Jason	8/15/2003	114908830	97
+en	The Face of an Angel	9/6/2014	0	100
+en	Jimmy Neutron: Boy Genius	12/21/2001	80936232	83
+en	Cloverfield	1/15/2008	170764026	85
+en	Teenage Mutant Ninja Turtles II: The Secret of the Ooze	3/22/1991	78000000	88
+en	The Untouchables	6/2/1987	76270454	119
+en	No Country for Old Men	11/8/2007	171600000	122
+en	Ride Along	1/7/2014	153997819	99
+en	Bridget Jones's Diary	4/13/2001	281929795	97
+en	Chocolat	12/14/2000	152500343	121
+en	Legally Blonde 2: Red, White & Blonde	7/2/2003	124914842	95
+en	Parental Guidance	12/25/2012	119772232	104
+en	No Strings Attached	1/21/2011	147780440	107
+en	Tombstone	12/25/1993	56505065	130
+en	Romeo Must Die	3/20/2000	91036760	115
+en	The Omen	6/6/1976	60922980	111
+en	Final Destination 3	2/10/2006	117719158	93
+en	The Lucky One	4/19/2012	99357138	101
+en	Bridge to Terabithia	2/16/2007	137587063	96
+en	Finding Neverland	10/17/2004	116766556	106
+en	A Madea Christmas	12/13/2013	0	100
+en	The Grey	1/26/2012	77278331	117
+en	Hide and Seek	1/27/2005	122644820	101
+en	Anchorman: The Legend of Ron Burgundy	7/9/2004	90574188	94
+en	GoodFellas	9/12/1990	46836394	145
+en	Agent Cody Banks	3/14/2003	58795814	102
+en	Nanny McPhee	10/21/2005	122489822	97
+en	Scarface	12/8/1983	65884703	170
+en	Nothing to Lose	7/18/1997	0	97
+en	The Last Emperor	10/21/1987	43984230	163
+en	Contraband	1/12/2012	63100000	109
+en	Money Talks	8/22/1997	0	97
+en	There Will Be Blood	12/28/2007	77208711	158
+en	The Wild Thornberrys Movie	12/20/2002	0	85
+en	Rugrats Go Wild	6/13/2003	0	84
+en	Undercover Brother	5/31/2002	41604473	86
+en	The Sisterhood of the Traveling Pants	6/1/2005	39053061	119
+en	Kiss of the Dragon	7/6/2001	64437847	98
+en	The House Bunny	8/22/2008	70442940	97
+en	Beauty Shop	6/2/2005	36351350	105
+en	Million Dollar Arm	5/9/2014	38307627	124
+en	The Giver	8/11/2014	66980456	94
+en	What a Girl Wants	3/27/2003	0	105
+en	Jeepers Creepers 2	8/8/2003	63102666	104
+en	Good Luck Chuck	9/21/2007	59192128	101
+en	Cradle 2 the Grave	2/28/2003	56489558	101
+en	The Hours	12/27/2002	41597830	114
+en	She's the Man	3/17/2006	33889159	105
+en	Mr. Bean's Holiday	3/22/2007	229736344	90
+en	Anacondas: The Hunt for the Blood Orchid	8/26/2004	70992898	97
+en	Blood Ties	8/22/2013	2415472	128
+en	August Rush	11/21/2007	66122026	114
+en	Elizabeth	9/13/1998	82150642	124
+en	Bride of Chucky	10/16/1998	50671850	89
+en	Tora! Tora! Tora!	1/26/1970	29548291	144
+en	Spice World	12/19/1997	100000000	93
+en	The Sitter	12/9/2011	34942188	81
+en	Dance Flick	5/22/2009	0	83
+en	The Shawshank Redemption	9/23/1994	28341469	142
+en	Crocodile Dundee in Los Angeles	4/12/2001	39438674	92
+en	Kingpin	7/4/1996	25023434	113
+en	The Gambler	12/25/2014	39171130	111
+en	August: Osage County	12/26/2013	74188937	121
+en	Ice Princess	3/17/2005	27645491	98
+en	A Lot Like Love	4/22/2005	42886719	107
+en	Eddie the Eagle	2/26/2016	46152800	106
+en	He Got Game	5/1/1998	21567853	136
+en	Don Juan DeMarco	10/1/1994	22200000	97
+en	Dear John	2/4/2010	114977104	115
+en	The Losers	4/23/2010	23580000	97
+en	Don't Be Afraid of the Dark	11/6/2010	36993168	99
+en	War	8/24/2007	40452643	103
+en	Punch-Drunk Love	10/25/2002	17000000	95
+en	EuroTrip	2/20/2004	20796847	93
+en	Half Past Dead	11/15/2002	0	98
+en	Unaccompanied Minors	12/8/2006	0	90
+en	Bright Lights, Big City	4/1/1988	0	107
+en	The Adventures of Pinocchio	7/26/1996	0	90
+en	The Greatest Game Ever Played	9/30/2005	15431177	120
+en	The Box	9/17/2009	33333531	115
+en	The Ruins	4/2/2008	0	91
+en	The Next Best Thing	3/3/2000	24362772	108
+en	My Soul to Take	10/8/2010	19829957	107
+en	The Girl Next Door	4/9/2004	30411183	108
+en	Maximum Risk	9/13/1996	51702483	100
+en	Stealing Harvard	9/13/2002	0	85
+en	Legend	9/9/2015	42972994	131
+en	Hot Rod	8/3/2007	14334401	88
+en	Shark Night	9/2/2011	10126458	91
+en	Angela's Ashes	12/25/1999	13	145
+en	Draft Day	4/11/2014	28831145	109
+en	Lifeforce	6/20/1985	0	116
+en	The Conspirator	9/10/2010	15478800	122
+en	Lords of Dogtown	6/3/2005	13411957	107
+en	The 33	8/6/2015	24902723	120
+en	Big Trouble in Little China	5/30/1986	11000000	99
+fr	Un Plan parfait	10/29/2012	0	104
+en	Warrior	9/9/2011	23057115	140
+en	Michael Collins	10/25/1996	16900000	132
+en	Gettysburg	10/8/1993	25000000	254
+en	Stop-Loss	3/28/2008	11207130	113
+en	Abandon	10/14/2002	10719357	99
+en	Brokedown Palace	8/13/1999	13000000	100
+en	The Possession	8/30/2012	85446075	92
+en	Mrs. Winterbourne	4/19/1996	10070000	105
+en	Straw Dogs	9/16/2011	10324441	110
+en	The Hoax	10/14/2006	11772461	116
+en	Stone Cold	5/17/1991	0	92
+en	The Road	11/25/2009	27635305	111
+en	Sheena	8/17/1984	5778353	117
+en	Underclassman	9/2/2005	0	95
+en	Say It Isn't So	3/12/2001	0	95
+en	The World's Fastest Indian	10/12/2005	0	127
+en	Tank Girl	3/31/1995	4064495	98
+en	King's Ransom	4/22/2005	0	95
+en	Blindness	5/14/2008	19844979	121
+en	BloodRayne	10/22/2005	2405420	95
+en	Carnage	9/16/2011	27603069	80
+en	Where the Truth Lies	10/7/2005	0	107
+en	Cirque du Soleil: Worlds Away	11/9/2012	34153101	91
+en	Without Limits	9/11/1998	777423	117
+en	Me and Orson Welles	11/25/2009	2336172	114
+en	La migliore offerta	1/1/2013	19255873	124
+en	The Bad Lieutenant: Port of Call - New Orleans	9/11/2009	10589102	122
+en	Sammy's avonturen: De geheime doorgang	8/3/2010	0	88
+fr	Les petits mouchoirs	10/20/2010	48531470	154
+en	Love Ranch	6/30/2010	0	117
+fr	La véritable histoire du Chat Botté	4/1/2009	0	82
+ru	????? ? ???????. ???????? ??????	3/18/2010	6500000	85
+en	The Counselor	10/25/2013	71009334	117
+en	Ironclad	3/3/2011	0	121
+en	Waterloo	10/26/1970	3052000	128
+en	Red Sky	3/12/2014	0	100
+en	Dangerous Liaisons	12/16/1988	34670720	119
+en	On the Road	5/22/2012	8784318	137
+en	Star Trek IV: The Voyage Home	11/25/1986	133000000	119
+en	Rocky Balboa	12/20/2006	155721132	102
+en	Scream 2	12/9/1997	172363301	120
+en	Jane Got a Gun	1/1/2016	1397284	98
+en	Think Like a Man Too	6/20/2014	70181428	105
+en	The Whole Nine Yards	2/18/2000	106371651	98
+en	Footloose	2/17/1984	80035402	107
+en	Old School	2/21/2003	87055349	91
+en	The Fisher King	9/9/1991	41895491	137
+en	I Still Know What You Did Last Summer	11/13/1998	40002112	100
+en	Return to Me	4/7/2000	36609995	115
+en	Zack and Miri Make a Porno	9/18/2008	42105111	102
+en	Nurse Betty	9/8/2000	0	108
+en	The Men Who Stare at Goats	10/17/2009	68729358	93
+en	Double Take	1/12/2001	0	88
+en	Girl, Interrupted	12/21/1999	0	127
+en	Win a Date with Tad Hamilton!	1/23/2004	16980098	95
+en	Muppets from Space	7/14/1999	16290976	87
+en	The Wiz	10/24/1978	21049053	134
+en	Ready to Rumble	4/7/2000	12372410	107
+en	Play It to the Bone	12/25/1999	8434146	124
+en	I Don't Know How She Does It	9/16/2011	30551495	89
+en	Piranha 3D	8/20/2010	83188165	88
+en	Beyond the Sea	12/17/2004	0	118
+en	Meet the Deedles	3/27/1998	4562146	93
+en	The Thief and the Cobbler	9/23/1993	669276	72
+en	The Bridge of San Luis Rey	1/1/2004	0	120
+en	Faster	11/23/2010	23081726	98
+en	Zombieland	10/7/2009	102391382	88
+en	The Waterboy	11/6/1998	185991646	90
+en	The Empire Strikes Back	5/17/1980	538400000	124
+en	Bad Boys	4/7/1995	141407024	118
+en	The Naked Gun 2½: The Smell of Fear	6/28/1991	86930411	85
+en	Final Destination	3/16/2000	53302314	98
+en	The Ides of March	9/24/2011	75993061	101
+en	Pitch Black	2/18/2000	53187659	108
+en	Someone Like You...	3/30/2001	0	97
+en	Her	12/18/2013	47351251	126
+en	Joy Ride	10/5/2001	36642838	97
+en	The Adventurer: The Curse of the Midas Box	12/5/2013	6399	99
+en	Anywhere But Here	11/12/1999	18653615	114
+en	The Crew	8/21/2000	0	88
+en	Haywire	11/6/2011	33372606	93
+en	Jaws: The Revenge	7/17/1987	51881013	89
+en	Marvin's Room	12/18/1996	0	98
+en	The Longshots	8/22/2008	0	94
+en	The End of the Affair	12/3/1999	10827816	102
+en	Harley Davidson and the Marlboro Man	8/23/1991	7434726	98
+en	In the Valley of Elah	8/31/2007	29541790	124
+fr	Coco avant Chanel	4/22/2009	0	110
+en	Forsaken	9/16/2015	0	90
+en	Chéri	2/10/2009	9366227	86
+en	Vanity Fair	9/1/2004	16123851	141
+en	1408	7/12/2007	94679598	104
+en	Spaceballs	6/24/1987	38119483	96
+en	The Water Diviner	12/25/2014	15520023	112
+en	Ghost	7/12/1990	505000000	127
+en	There's Something About Mary	7/15/1998	369884651	119
+en	The Santa Clause	11/10/1994	189833357	97
+en	The Rookie	3/25/2002	75597042	127
+en	The Game Plan	9/28/2007	147880543	110
+en	The Bridges of Madison County	5/28/1995	182016617	135
+en	The Animal	6/1/2001	84772742	84
+en	Gandhi	11/30/1982	77737889	191
+en	The Hundred-Foot Journey	8/6/2014	88880821	122
+en	The Net	7/28/1995	110627965	114
+en	I Am Sam	12/28/2001	92542418	132
+en	Son of God	2/28/2014	67800064	138
+en	Underworld	9/19/2003	95708457	121
+en	Derailed	11/11/2005	57479076	108
+en	The Informant!	9/18/2009	35424826	108
+en	Shadowlands	12/25/1993	0	131
+en	Deuce Bigalow: European Gigolo	8/6/2005	22400154	83
+en	Delivery Man	10/10/2013	51164106	105
+en	Our Kind of Traitor	5/5/2016	9930095	108
+en	Saving Silverman	2/9/2001	19351569	90
+en	Diary of a Wimpy Kid: Dog Days	8/2/2012	77112176	94
+en	Summer of Sam	7/2/1999	0	142
+en	Jay and Silent Bob Strike Back	8/22/2001	33788161	104
+en	The Glass House	9/14/2001	23619609	106
+en	Hail, Caesar!	2/5/2016	63647656	106
+en	Josie and the Pussycats	4/6/2001	0	98
+en	Homefront	11/27/2013	43058898	100
+en	The Little Vampire	10/27/2000	13555988	95
+en	I Heart Huckabees	9/10/2004	0	106
+en	RoboCop 3	4/17/1993	10696210	104
+en	Megiddo: The Omega Code 2	9/7/2001	0	104
+en	Darling Lili	1/1/1970	0	107
+en	Dudley Do-Right	8/27/1999	0	77
+en	The Transporter Refueled	9/3/2015	72629670	96
+en	The Libertine	9/16/2004	0	114
+nl	Zwartboek	9/1/2006	26193068	145
+fr	Joyeux Noël	11/9/2005	17709155	116
+en	Hit & Run	8/22/2012	14400000	100
+en	Mad Money	1/17/2008	0	104
+en	Before I Go to Sleep	9/3/2014	15447154	92
+en	Sorcerer	6/24/1977	12000000	121
+en	Stone	10/7/2010	9479718	105
+fr	Molière	1/31/2007	0	115
+en	Out of the Furnace	12/6/2013	15400000	116
+en	Michael Clayton	9/28/2007	92991835	119
+en	My Fellow Americans	12/20/1996	0	101
+en	Arlington Road	3/19/1999	0	117
+es	Metegol	7/18/2013	24000000	106
+en	To Rome with Love	4/20/2012	73244881	111
+en	Firefox	6/13/1982	70687344	136
+en	South Park: Bigger, Longer & Uncut	6/30/1999	0	81
+en	Death at a Funeral	2/9/2007	46	90
+en	Teenage Mutant Ninja Turtles III	3/17/1993	42000000	96
+en	Hardball	9/14/2001	40222729	106
+en	Silver Linings Playbook	9/8/2012	205738714	122
+en	Freedom Writers	1/5/2007	41170784	123
+en	For Colored Girls	11/5/2010	37000000	134
+en	The Transporter	10/2/2002	43928932	92
+en	Never Back Down	3/4/2008	41627431	115
+en	The Rage: Carrie 2	3/11/1999	17762705	104
+en	Away We Go	6/5/2009	14899417	98
+en	Swing Vote	8/1/2008	17600000	120
+en	Moonlight Mile	9/9/2002	10011050	117
+en	Tinker Tailor Soldier Spy	9/16/2011	0	127
+en	Molly	10/22/1999	0	102
+en	The Beaver	2/11/2011	970816	91
+en	The Best Little Whorehouse in Texas	7/23/1982	69701637	114
+en	eXistenZ	4/14/1999	2856712	97
+en	Raiders of the Lost Ark	6/12/1981	389925971	115
+en	Home Alone 2: Lost in New York	11/19/1992	358991681	120
+en	Close Encounters of the Third Kind	11/16/1977	303788635	135
+en	Pulse	8/11/2006	29907685	90
+en	Beverly Hills Cop II	5/18/1987	299965036	100
+en	Bringing Down the House	3/7/2003	132675402	105
+en	The Silence of the Lambs	2/1/1991	272742922	119
+en	Wayne's World	2/14/1992	121697323	94
+en	Jackass 3D	10/15/2010	117224271	94
+en	Jaws 2	6/16/1978	187884007	116
+en	Beverly Hills Chihuahua	10/3/2008	149281606	91
+en	The Conjuring	7/18/2013	318000141	112
+en	Are We There Yet?	1/20/2005	97918663	95
+en	Tammy	7/2/2014	100525432	97
+en	School of Rock	10/3/2003	131282949	108
+en	Mortal Kombat	8/18/1995	122195920	101
+en	White Chicks	6/23/2004	113086475	109
+en	The Descendants	9/9/2011	177243185	115
+en	Holes	4/18/2003	0	117
+en	The Last Song	3/31/2010	0	107
+en	12 Years a Slave	10/18/2013	187000000	134
+en	Drumline	12/13/2002	57588485	118
+en	Why Did I Get Married Too?	4/2/2010	60072596	121
+en	Edward Scissorhands	12/5/1990	53000000	105
+en	Me Before You	6/2/2016	207945075	110
+en	Madea's Witness Protection	6/29/2012	0	114
+en	The French Connection	10/9/1971	41158757	104
+en	Bad Moms	7/28/2016	183936074	100
+en	Date Movie	2/17/2006	48548426	83
+en	Return to Never Land	2/14/2002	109862682	72
+en	Selma	12/25/2014	66787908	127
+en	The Jungle Book 2	2/7/2003	135680000	72
+en	Boogeyman	2/4/2005	67192859	89
+en	Premonition	2/8/2007	84146832	96
+en	The Tigger Movie	2/11/2000	45554533	77
+en	Orphan	7/24/2009	41596251	123
+en	Max	6/26/2015	43967255	111
+en	Epic Movie	1/25/2007	86865564	86
+en	Spotlight	11/6/2015	88346473	128
+en	Lakeview Terrace	9/19/2008	27640028	110
+en	The Grudge 2	10/13/2006	39143839	102
+en	How Stella Got Her Groove Back	8/14/1998	37672350	124
+en	Bill & Ted's Bogus Journey	7/19/1991	0	98
+en	Man of the Year	10/9/2006	41237648	115
+en	The Black Hole	12/18/1979	35841901	98
+en	The American	8/31/2010	65464324	104
+en	Selena	3/21/1997	60000000	127
+en	Vampires Suck	8/18/2010	80547866	82
+en	Babel	9/8/2006	135330182	143
+en	This Is Where I Leave You	9/10/2014	41296320	103
+en	Doubt	11/27/2008	50907234	104
+en	Team America: World Police	10/10/2004	50907422	98
+en	Texas Chainsaw 3D	1/3/2013	47241945	92
+en	Copycat	10/27/1995	0	124
+en	Scary Movie 5	4/11/2013	78378744	86
+en	Paint Your Wagon	10/15/1969	31678778	158
+en	Milk	11/26/2008	54586584	128
+en	Risen	2/19/2016	46069568	107
+en	Ghost Ship	10/25/2002	68349884	91
+en	A Very Harold & Kumar Christmas	11/4/2011	35387212	108
+en	Wild Things	3/20/1998	67200000	108
+en	The Stepfather	10/16/2009	0	101
+en	The Debt	4/11/2010	45636368	113
+en	High Fidelity	3/17/2000	47126295	113
+en	One Missed Call	1/4/2008	0	87
+en	Eye for an Eye	1/12/1996	0	101
+en	The Bank Job	2/28/2008	64822796	112
+en	Eternal Sunshine of the Spotless Mind	3/19/2004	72258126	108
+en	You Again	9/24/2010	32005248	105
+en	Street Kings	4/10/2008	65569869	109
+en	The World's End	7/18/2013	46089287	109
+en	Nancy Drew	6/15/2007	0	99
+en	Daybreakers	1/6/2009	51416464	98
+en	She's Out of My League	3/11/2010	49779728	104
+en	Monte Carlo	7/1/2011	17425000	109
+en	Stay Alive	3/24/2006	27105095	100
+en	Quigley Down Under	10/17/1990	0	119
+en	Alpha and Omega	9/17/2010	39300000	88
+en	The Covenant	9/8/2006	37597471	97
+en	Stick It	4/21/2006	0	105
+en	Shorts	8/21/2009	28972508	89
+en	To Die For	5/20/1995	21284514	106
+en	Nerve	7/27/2016	83707310	96
+en	Appaloosa	9/12/2008	20211394	115
+en	Vampires	4/15/1998	0	108
+en	Psycho	6/16/1960	32000000	109
+en	My Best Friend's Girl	9/19/2008	36620508	101
+en	Endless Love	2/12/2014	34077920	103
+en	Georgia Rule	5/11/2007	0	113
+en	Under the Rainbow	7/31/1981	2297493	98
+en	Ladyhawke	3/27/1985	18432000	121
+en	Simon Birch	9/11/1998	18253415	114
+en	Reign Over Me	3/23/2007	22222308	124
+en	Into the Wild	9/11/2007	56255142	148
+en	School for Scoundrels	9/29/2006	17807569	100
+en	Silent Hill: Revelation 3D	10/10/2012	52302796	94
+en	From Dusk Till Dawn	1/19/1996	25836616	108
+en	Pooh's Heffalump Movie	2/11/2005	0	68
+en	Home for the Holidays	11/2/1995	17519169	103
+en	The Country Bears	7/26/2002	0	88
+en	The Kite Runner	10/14/2007	73276047	128
+en	21 Grams	9/6/2003	60427839	124
+en	Paparazzi	9/3/2004	16605763	84
+en	A Guy Thing	1/17/2003	17432163	101
+en	Loser	7/21/2000	0	98
+en	Capitalism: A Love Story	9/6/2009	17436509	120
+en	The Greatest Story Ever Told	2/15/1965	15473333	199
+en	Secret in Their Eyes	10/14/2015	34854990	111
+en	Disaster Movie	8/29/2008	14109284	87
+en	Armored	12/4/2009	22942221	88
+en	The Man Who Knew Too Little	11/14/1997	13801755	97
+en	What's Your Number?	9/30/2011	30426096	106
+en	Lockout	4/12/2012	32204030	95
+en	Envy	4/30/2004	0	99
+en	Crank: High Voltage	4/16/2009	34560577	96
+en	Bullets Over Broadway	10/14/1994	0	98
+en	One Night with the King	10/13/2006	13391174	123
+en	The Quiet American	11/22/2002	27674124	101
+en	The Weather Man	10/20/2005	12482775	101
+en	Undisputed	8/23/2002	12398628	96
+en	Ghost Town	9/19/2008	0	102
+en	12 Rounds	3/19/2009	17280326	108
+en	Let Me In	10/1/2010	24145613	116
+en	3 Ninjas Kick Back	5/6/1994	0	93
+en	Be Kind Rewind	1/20/2008	0	102
+en	Mrs Henderson Presents	9/9/2005	0	103
+en	Triple 9	2/19/2016	12639297	115
+en	Deconstructing Harry	8/26/1997	10686841	96
+en	Three to Tango	10/22/1999	0	98
+en	Burnt	10/2/2015	36606743	100
+en	We're No Angels	12/15/1989	0	106
+en	Everyone Says I Love You	12/6/1996	0	101
+en	Death Sentence	8/31/2007	16974459	105
+en	Everybody's Fine	12/4/2009	0	99
+en	Superbabies: Baby Geniuses 2	8/27/2004	9109322	88
+en	The Man	9/8/2005	12382362	83
+en	Code Name: The Cleaner	1/5/2007	10337477	84
+en	Connie and Carla	4/16/2004	11341016	98
+en	Sweet Charity	1/1/1969	20000000	149
+en	Inherent Vice	12/25/2014	11110975	148
+en	Doogal	2/24/2006	0	85
+en	Battle of the Year	9/21/2013	16549477	110
+en	An American Carol	10/3/2008	7000000	83
+en	Machete Kills	9/12/2013	15008161	107
+en	Willard	3/14/2003	0	100
+en	Strange Wilderness	2/1/2008	6575282	87
+en	Topsy-Turvy	9/3/1999	0	160
+en	Little Boy	4/23/2015	6420319	106
+en	A Dangerous Method	9/30/2011	27462041	99
+en	A Scanner Darkly	5/25/2006	7659918	100
+en	Chasing Mavericks	10/25/2012	0	117
+en	Alone in the Dark	1/28/2005	10442808	96
+en	Bandslam	8/6/2009	5210988	111
+en	Birth	9/8/2004	0	100
+en	A Most Violent Year	12/30/2014	12007070	125
+en	Passchendaele	10/17/2008	0	114
+en	Flash of Genius	9/7/2008	0	119
+en	I'm Not There.	10/1/2007	4001121	135
+en	The Cold Light of Day	4/4/2012	16863583	93
+en	The Brothers Bloom	9/9/2008	5530764	114
+en	Synecdoche, New York	10/24/2008	0	124
+fr	Bon voyage	4/16/2003	0	114
+en	Can't Stop the Music	6/20/1980	0	124
+en	The Proposition	10/6/2005	5048693	104
+en	My All American	11/13/2015	0	118
+en	Marci X	8/22/2003	1675706	84
+en	Equilibrium	12/6/2002	5359645	107
+en	The Yards	4/27/2000	0	115
+en	The Oogieloves in the Big Balloon Adventure	8/29/2012	0	88
+en	By the Sea	11/12/2015	3727746	122
+en	The Game of Their Lives	1/1/2005	0	101
+en	All Good Things	12/3/2010	0	101
+en	Rapa Nui	9/9/1994	305070	107
+fr	Les Visiteurs 2 : Les Couloirs du temps	2/11/1998	0	118
+en	Dylan Dog: Dead of Night	3/16/2011	4634062	107
+en	People I Know	11/21/2002	0	100
+en	The Tempest	12/10/2010	346594	110
+en	Regression	10/1/2015	17671101	106
+en	???????	4/3/2008	0	102
+en	Butterfly on a Wheel	7/27/2007	0	95
+en	Zambezia	6/5/2012	0	83
+ta	?????????	7/11/2014	0	170
+en	Dwegons	1/24/2014	0	98
+en	Hands of Stone	8/26/2016	0	105
+en	Survivor	5/21/2015	0	96
+en	The Frozen Ground	7/18/2013	5496951	105
+en	The Painted Veil	12/9/2006	0	125
+de	Der Baader Meinhof Komplex	9/24/2008	0	150
+en	Dances with Wolves	11/9/1990	424208848	181
+en	Bad Teacher	5/16/2011	216197492	92
+en	Sea of Love	9/15/1989	110879513	113
+en	A Cinderella Story	7/10/2004	70067909	95
+en	Scream	12/20/1996	173046663	111
+en	Thir13en Ghosts	10/26/2001	0	91
+en	The Shining	5/22/1980	44017374	144
+en	Back to the Future	7/3/1985	381109762	116
+en	House on Haunted Hill	10/29/1999	40846082	93
+en	I Can Do Bad All By Myself	9/11/2009	0	113
+en	Fight Valley	7/22/2016	0	90
+en	The Switch	5/11/2010	49830607	101
+en	Just Married	1/9/2003	101564935	95
+en	The Devil's Double	2/11/2011	5728213	109
+en	Thomas and the Magic Railroad	7/26/2000	0	85
+en	The Crazies	2/26/2010	54956140	101
+zh	??	12/12/2013	0	110
+en	The Bounty	5/4/1984	8613462	132
+en	The Book Thief	11/8/2013	76586316	131
+en	Sex Drive	10/16/2008	18755936	109
+en	Leap Year	1/8/2010	29922472	100
+en	The Fall of the Roman Empire	3/24/1964	4750000	188
+en	Take Me Home Tonight	3/4/2011	6928068	97
+en	Won't Back Down	9/28/2012	5310554	121
+en	The Nutcracker	11/24/1993	2119994	93
+en	Kansas City	8/16/1996	0	116
+en	Indignation	7/29/2016	0	110
+en	The Amityville Horror	4/15/2005	108047131	90
+en	Adaptation.	12/6/2002	32801173	114
+en	Land of the Dead	6/24/2005	46770602	93
+en	Fear and Loathing in Las Vegas	5/22/1998	10680275	118
+en	The Invention of Lying	9/13/2009	31912793	100
+en	Neighbors	5/8/2014	268157400	96
+en	The Mask	7/29/1994	351583407	101
+en	Big	6/3/1988	151668774	104
+en	Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan	11/1/2006	261572744	82
+en	Legally Blonde	7/13/2001	141774679	96
+en	Star Trek III: The Search for Spock	5/31/1984	87000000	105
+en	The Exorcism of Emily Rose	9/9/2005	144216468	122
+en	Deuce Bigalow: Male Gigolo	12/10/1999	65535067	88
+en	Left Behind	10/3/2014	19682924	110
+en	The Family Stone	12/14/2005	0	103
+en	Barbershop 2:  Back in Business	1/20/2004	65070412	106
+en	Bad Santa	11/26/2003	76488889	91
+en	Austin Powers: International Man of Mystery	5/2/1997	67683989	94
+en	My Big Fat Greek Wedding 2	3/23/2016	88923251	94
+en	Diary of a Wimpy Kid: Rodrick Rules	3/25/2011	72417394	99
+en	Predator	6/11/1987	98235548	107
+en	Amadeus	10/26/1984	51973029	160
+en	Prom Night	4/10/2008	14796236	88
+en	Mean Girls	4/30/2004	129042871	97
+en	Under the Tuscan Sun	4/30/2003	0	113
+en	Gosford Park	11/7/2001	87754044	137
+en	Peggy Sue Got Married	10/5/1986	41382841	103
+en	Birdman	8/27/2014	103215094	119
+en	Blue Jasmine	7/25/2013	99206215	98
+en	United 93	4/28/2006	76286096	111
+en	Honey	11/24/2003	62646763	94
+en	Spy Hard	5/24/1996	0	81
+en	The Fog	2/8/1980	21378361	89
+en	Soul Surfer	4/8/2011	47088990	106
+en	Catch-22	6/24/1970	24911670	121
+en	Observe and Report	4/10/2009	24007324	86
+en	Conan the Destroyer	6/29/1984	100000000	103
+en	Raging Bull	11/14/1980	23000000	129
+en	Love Happens	9/18/2009	36133014	109
+en	Young Sherlock Holmes	12/4/1985	0	109
+en	Fame	1/1/2009	0	107
+en	127 Hours	11/5/2010	35692920	94
+en	Small Time Crooks	5/19/2000	0	94
+en	Center Stage	5/12/2000	17200925	115
+en	Love the Coopers	11/12/2015	24000000	107
+en	Catch That Kid	2/6/2004	16702864	92
+en	Life as a House	10/25/2001	0	125
+en	Steve Jobs	10/9/2015	34441873	122
+en	I Love You, Beth Cooper	7/10/2009	0	102
+en	Youth in Revolt	9/11/2009	0	87
+en	The Legend of the Lone Ranger	8/20/1981	2945600	98
+en	The Tailor of Panama	2/11/2001	28008462	109
+en	Blow Out	7/24/1981	12000000	108
+en	Getaway	8/29/2013	10501938	90
+en	The Ice Storm	9/27/1997	8038061	112
+en	And So It Goes	7/20/2014	25312387	94
+en	Troop Beverly Hills	3/22/1989	0	105
+en	Being Julia	9/3/2004	0	104
+en	Nine 1/2 Weeks	2/14/1986	6735922	117
+en	Dragonslayer	6/26/1981	14110013	108
+en	The Last Station	9/4/2009	0	112
+en	Ed Wood	9/27/1994	5887457	127
+en	Labor Day	12/27/2013	20275812	111
+ru	??????	9/20/2007	26527510	120
+en	RockNRolla	9/4/2008	25739015	114
+en	Megaforce	6/25/1982	0	99
+en	Hamlet	12/25/1996	0	242
+en	Mao's Last Dancer	10/1/2009	20719451	117
+en	Midnight Special	2/18/2016	6212282	112
+en	Anything Else	8/27/2003	0	108
+en	The Railway Man	12/26/2013	22309223	116
+de	Das weisse Band	5/21/2009	0	144
+en	Restoration	5/3/2016	0	90
+en	The Wraith	11/21/1986	3500000	93
+en	Salton Sea	1/1/2002	676698	103
+en	Metallica: Through the Never	9/25/2013	7972967	93
+en	The Informers	11/5/2008	382174	98
+en	Carlos	5/19/2010	871279	338
+en	I Come with the Rain	5/14/2009	0	114
+en	One Man's Hero	8/2/1999	0	121
+en	Day of the Dead	7/19/1985	34000000	96
+en	I Am Wrath	4/14/2016	0	92
+fr	Renaissance	3/16/2006	1831348	105
+en	Red Sonja	4/9/1985	6948633	89
+en	Red Lights	3/2/2012	13551174	119
+en	Superbad	8/17/2007	121463226	113
+en	Madea Goes to Jail	2/16/2009	90508336	103
+en	Wolves	8/28/2014	0	90
+en	Step Up 2: The Streets	2/14/2008	150816700	98
+en	Hoodwinked!	12/16/2005	51053787	80
+en	Hotel Rwanda	9/11/2004	38000000	121
+en	Hitman	11/21/2007	99965753	89
+en	Black Nativity	11/27/2013	7018189	93
+en	The Prince	8/22/2014	266586800	93
+en	City of Ghosts	1/1/2002	0	116
+en	The Others	8/2/2001	0	101
+en	Aliens	7/18/1986	183316455	137
+en	My Fair Lady	10/21/1964	72070731	170
+en	I Know What You Did Last Summer	10/17/1997	125586134	100
+en	Let's Be Cops	8/13/2014	136621271	104
+en	Sideways	10/22/2004	109502303	126
+en	Beerfest	8/25/2006	19179969	110
+en	Halloween	10/25/1978	70000000	91
+en	Good Boy!	10/10/2003	0	87
+en	The Best Man Holiday	11/15/2013	71625195	123
+en	Smokin' Aces	12/9/2006	57103895	109
+en	Saw 3D	10/21/2010	136150434	90
+en	40 Days and 40 Nights	3/1/2002	0	94
+en	A Night at the Roxbury	10/1/1998	30331165	81
+en	Beastly	1/21/2011	43165571	86
+en	The Hills Have Eyes	3/10/2006	69623713	107
+en	Dickie Roberts: Former Child Star	9/5/2003	0	98
+en	McFarland, USA	2/20/2015	45710059	128
+en	Lottery Ticket	8/20/2010	0	99
+en	ATL	3/31/2006	21170563	105
+en	Pitch Perfect	9/28/2012	115350426	112
+en	Summer Catch	8/22/2001	19693891	108
+en	A Simple Plan	12/11/1998	0	121
+en	They	11/1/2002	0	89
+en	Larry the Cable Guy: Health Inspector	3/24/2006	0	89
+en	The Adventures of Elmo in Grouchland	10/1/1999	0	73
+en	Brooklyn's Finest	1/16/2009	29536299	133
+en	55 Days at Peking	5/6/1963	10000000	154
+en	Evil Dead	4/5/2013	97542952	91
+en	My Life in Ruins	2/6/2009	20455276	95
+en	American Dreamz	3/4/2006	7314027	107
+en	Superman IV: The Quest for Peace	7/23/1987	19300000	90
+en	How She Move	1/25/2008	0	94
+en	Running Scared	1/6/2006	9500000	122
+en	Bobby Jones: Stroke of Genius	4/30/2004	0	120
+en	Shanghai Surprise	8/29/1986	0	97
+en	The Illusionist	8/18/2006	86915017	110
+en	Roar	11/12/1981	2000000	102
+en	Veronica Guerin	7/11/2003	1569918	98
+en	Escobar: Paradise Lost	10/11/2014	3758328	120
+en	Southland Tales	5/15/2006	374743	144
+fr	Chasseurs de dragons	3/19/2008	0	80
+en	Damnation Alley	9/10/1977	8720000	91
+en	The Apparition	8/23/2012	9627492	82
+en	My Girl	11/27/1991	0	102
+en	Fur: An Imaginary Portrait of Diane Arbus	8/30/2006	2281089	122
+en	Wall Street	12/10/1987	43848069	126
+en	Sense and Sensibility	12/13/1995	135000000	136
+en	Becoming Jane	3/2/2007	37311672	120
+en	Sydney White	9/21/2007	13620075	108
+en	House of Sand and Fog	12/19/2003	16942795	126
+en	Dead Poets Society	6/2/1989	235860116	129
+en	Dumb and Dumber	12/16/1994	247275374	107
+en	When Harry Met Sally...	7/21/1989	92823546	96
+en	The Verdict	12/8/1982	53977250	129
+en	Road Trip	5/19/2000	119754278	93
+en	Varsity Blues	1/15/1999	0	106
+en	The Artist	5/15/2011	133432856	100
+en	The Unborn	1/9/2009	76514050	87
+en	Moonrise Kingdom	5/16/2012	68263166	94
+en	The Texas Chainsaw Massacre: The Beginning	10/6/2006	0	91
+en	The Young Messiah	3/10/2016	6490401	120
+en	The Master of Disguise	8/2/2002	0	80
+es	El laberinto del fauno	5/27/2006	83258226	118
+en	See Spot Run	3/2/2001	0	94
+en	Baby Boy	6/27/2001	29381649	130
+en	The Roommate	2/4/2011	40492759	91
+en	Joe Dirt	4/10/2001	30987695	91
+en	Double Impact	8/10/1991	30102717	110
+en	Hot Fuzz	2/14/2007	80573774	121
+en	The Women	9/12/2008	50007546	114
+en	Vicky Cristina Barcelona	8/15/2008	96408652	96
+sv	Arn: Tempelriddaren	12/17/2007	0	139
+en	Boys and Girls	6/16/2000	20627372	94
+en	White Oleander	10/11/2002	0	109
+en	Jennifer's Body	9/18/2009	31556061	100
+en	Drowning Mona	3/3/2000	15427192	96
+en	Radio Days	1/30/1987	0	90
+en	Remember Me	3/12/2010	0	113
+en	How to Deal	7/18/2003	0	99
+en	My Stepmother is an Alien	12/9/1988	13854000	108
+en	Philadelphia	12/22/1993	206678440	125
+en	The Thirteenth Floor	4/16/1999	18564088	100
+en	The Cookout	9/3/2004	12	97
+en	Meteor	10/19/1979	0	107
+en	Duets	9/9/2000	0	112
+en	Hollywood Ending	5/3/2002	0	112
+en	Detroit Rock City	8/13/1999	4217115	95
+en	Highlander	3/7/1986	5900000	116
+en	Things We Lost in the Fire	9/26/2007	2849142	113
+en	Steel	8/15/1997	1686429	97
+en	The Immigrant	7/3/2013	5867686	117
+en	The White Countess	10/30/2005	0	135
+en	Trance	3/27/2013	24261569	101
+en	Soul Plane	5/28/2004	14822346	86
+fr	Bienvenue chez les ch'tis	1/9/2008	53191886	106
+en	Good	12/11/2008	0	96
+en	Enter the Void	5/5/2009	754249	161
+en	Vamps	8/25/2012	0	93
+en	Hachi: A Dog's Tale	6/13/2009	47801389	93
+en	Zulu	12/4/2013	0	110
+en	The Homesman	5/18/2014	3442853	122
+en	Juwanna Mann	6/21/2002	0	91
+en	Ararat	5/20/2002	0	115
+en	Madison	1/23/2001	0	99
+en	Slow Burn	9/12/2005	1237615	93
+fr	Wasabi	10/31/2001	0	94
+en	Slither	3/31/2006	0	95
+en	Beverly Hills Cop	11/29/1984	316360478	105
+en	Home Alone	11/9/1990	476684675	103
+es	Three Men and a Baby	11/27/1987	0	102
+en	Tootsie	12/16/1982	177200000	116
+en	Top Gun	5/16/1986	356830601	110
+en	American Beauty	9/15/1999	356296601	122
+en	The King's Speech	9/6/2010	414211549	118
+en	Twins	12/9/1988	216614388	107
+en	The Yellow Handkerchief	12/17/2008	317000	102
+en	The Color Purple	12/18/1985	146292009	154
+en	The Imitation Game	11/14/2014	233555708	113
+en	Private Benjamin	10/6/1980	0	109
+en	Coal Miner's Daughter	3/7/1980	67182787	125
+en	Diary of a Wimpy Kid	3/19/2010	75700498	92
+en	Mama	1/17/2013	146497771	100
+en	National Lampoon's Vacation	7/28/1983	61399552	98
+en	Jackass Presents: Bad Grandpa	10/22/2013	151831537	92
+en	The Queen	9/15/2006	123384128	103
+en	Beetlejuice	2/29/1988	73326666	92
+en	Why Did I Get Married?	10/12/2007	55184721	113
+en	Little Women	12/21/1994	0	115
+en	The Woman in Black	2/1/2012	127730736	95
+en	When a Stranger Calls	2/3/2006	66966987	87
+en	Big Fat Liar	2/8/2002	52970014	88
+en	The Deer Hunter	12/8/1978	50000000	183
+en	Wag the Dog	12/25/1997	64256513	97
+en	The Lizzie McGuire Movie	4/25/2003	55534455	94
+en	Snitch	2/21/2013	42930462	112
+en	Krampus	11/26/2015	61548707	98
+en	The Faculty	12/25/1998	40283321	104
+en	What's Love Got to Do with It	6/9/1993	0	118
+en	Cop Land	8/15/1997	44862187	104
+en	Not Another Teen Movie	12/7/2001	66468332	89
+en	End of Watch	9/20/2012	48126384	109
+en	The Skulls	3/31/2000	35007180	106
+en	The Theory of Everything	11/26/2014	123726688	123
+en	Malibu's Most Wanted	4/10/2003	0	86
+en	Where the Heart Is	4/27/2000	33771174	120
+en	Lawrence of Arabia	12/10/1962	69995385	216
+en	Halloween II	8/28/2009	39421467	105
+en	Wild	12/5/2014	52501541	115
+en	The Last House on the Left	3/13/2009	32721635	110
+en	The Wedding Date	2/4/2005	47175038	88
+en	Halloween: Resurrection	7/1/2002	37664855	94
+en	The Princess Bride	9/18/1987	30857814	98
+en	The Great Debaters	12/27/2007	30226144	126
+en	Drive	8/6/2011	78054825	100
+en	Confessions of a Teenage Drama Queen	2/17/2004	29331068	89
+en	The Object of My Affection	4/17/1998	46905889	111
+en	28 Weeks Later	4/26/2007	64238440	100
+en	When the Game Stands Tall	8/22/2014	30127963	115
+en	Because of Winn-Dixie	2/18/2005	32645546	106
+en	Love & Basketball	4/21/2000	27728118	124
+en	Grosse Pointe Blank	4/11/1997	28084357	107
+en	All About Steve	9/4/2009	40105542	99
+en	Book of Shadows: Blair Witch 2	10/27/2000	0	90
+en	The Craft	5/3/1996	24769466	101
+en	Match Point	10/26/2005	85306374	124
+en	Ramona and Beezus	7/23/2010	0	103
+en	The Remains of the Day	11/5/1993	23237911	134
+en	Boogie Nights	9/11/1997	43101594	155
+en	Nowhere to Run	1/15/1993	0	94
+en	Flicka	10/20/2006	21000000	95
+en	The Hills Have Eyes II	3/22/2007	0	89
+en	Urban Legends: Final Cut	9/19/2000	38574362	97
+en	Tuck Everlasting	10/11/2002	0	90
+en	The Marine	10/13/2006	22165608	92
+en	Keanu	4/21/2016	20566327	94
+en	Country Strong	12/22/2010	20529194	117
+en	Disturbing Behavior	7/24/1998	17507368	84
+en	The Place Beyond the Pines	3/20/2013	35485608	140
+en	The November Man	8/27/2014	32556119	108
+en	Eye of the Beholder	9/4/1999	0	109
+en	The Hurt Locker	10/10/2008	42000000	131
+en	Firestarter	5/11/1984	17080167	114
+en	Killing Them Softly	9/20/2012	37930465	97
+en	A Most Wanted Man	7/25/2014	31554855	121
+en	Freddy Got Fingered	4/18/2001	0	87
+en	VeggieTales: The Pirates Who Don't Do Anything	1/11/2008	0	85
+en	U2 3D	5/19/2007	22730842	85
+en	Highlander: Endgame	9/1/2000	15843608	87
+en	Idlewild	8/25/2006	0	121
+en	One Day	3/2/2011	59389433	107
+en	Whip It	9/13/2009	16633035	111
+en	Knockaround Guys	9/7/2001	12000000	92
+en	Confidence	4/25/2003	0	97
+en	The Muse	8/27/1999	0	97
+en	De-Lovely	7/2/2004	0	125
+en	New York Stories	3/10/1989	0	124
+en	Barney's Great Adventure	1/1/1998	0	76
+en	The Man with the Iron Fists	11/2/2012	15608545	96
+en	Home Fries	11/25/1998	10443316	93
+en	Here On Earth	3/23/2000	0	96
+en	Brazil	2/20/1985	0	132
+en	Raise Your Voice	8/10/2004	14867514	103
+en	The Big Lebowski	3/6/1998	46189568	117
+en	Black Snake Moan	12/8/2006	10903846	116
+en	Dark Blue	12/14/2002	9237470	118
+en	A Mighty Heart	1/1/2007	18928871	100
+en	Whatever It Takes	3/31/2000	9902115	94
+en	Boat Trip	10/1/2002	8586376	94
+en	The Importance of Being Earnest	5/17/2002	0	97
+en	The Love Letter	2/1/1998	0	98
+en	Hoot	5/5/2006	0	91
+en	In Bruges	2/8/2008	34533783	107
+en	Peeples	5/9/2013	0	95
+en	The Rocker	8/20/2008	8762890	102
+en	Post Grad	8/21/2009	6405245	89
+en	Promised Land	9/23/2012	8138788	106
+en	Whatever Works	6/19/2009	35097815	92
+en	The In Crowd	7/19/2000	5217498	105
+en	The Three Burials of Melquiades Estrada	11/17/2005	12036149	121
+en	Jakob the Liar	9/16/1999	0	120
+en	Kiss Kiss Bang Bang	9/5/2005	15785148	103
+en	Idle Hands	4/30/1999	4152230	92
+en	Mulholland Drive	5/16/2001	20117339	147
+en	Blood and Chocolate	1/26/2007	0	98
+en	You Will Meet a Tall Dark Stranger	5/23/2010	0	98
+en	Never Let Me Go	9/15/2010	9455232	104
+en	The Company	8/5/2007	0	276
+en	Transsiberian	1/18/2008	5926410	111
+en	The Clan of the Cave Bear	1/17/1986	0	98
+en	Crazy in Alabama	10/22/1999	0	111
+en	Funny Games	10/20/2007	7938872	112
+en	Listening	9/11/2015	0	100
+en	Felicia's Journey	11/24/1999	0	116
+de	Metropolis	1/10/1927	650422	153
+fr	Banlieue 13	11/9/2004	9584131	84
+en	Things to Do in Denver When You're Dead	12/1/1995	529766	116
+en	Buffalo Soldiers	9/8/2001	0	98
+ru	???????????	6/25/2003	0	105
+en	Centurion	2/15/2010	6814789	97
+en	Silent Trigger	6/26/1996	76382	93
+en	The Midnight Meat Train	8/7/2008	3533227	98
+en	Winnie Mandela	9/16/2011	0	107
+en	The Son of No One	11/4/2011	0	90
+en	All The Queen's Men	10/14/2001	23000	99
+en	The Good Night	1/25/2007	20380	93
+en	Bathory	7/4/2008	0	141
+en	Khumba	7/18/2013	27187375	85
+en	Autómata	10/9/2014	0	110
+en	Dungeons & Dragons: Wrath of the Dragon God	1/1/2005	0	105
+it	Chiamatemi Francesco - Il Papa della gente	12/3/2015	0	
+en	Pandaemonium	6/29/2001	0	124
+en	Groundhog Day	2/11/1993	70906973	101
+en	Magic Mike XXL	7/1/2015	122513057	115
+en	Romeo + Juliet	10/31/1996	147298761	120
+fr	Elle s'appelait Sarah	9/16/2010	17511906	111
+en	Freedom	8/21/2014	0	98
+en	Unforgiven	8/7/1992	159157447	131
+da	Manderlay	5/16/2005	674918	139
+en	Slumdog Millionaire	5/12/2008	377910544	120
+en	Fatal Attraction	9/11/1987	320145693	119
+en	Pretty Woman	3/23/1990	463000000	119
+en	Crocodile Dundee II	5/19/1988	239606210	110
+en	Broken Horses	3/15/2015	0	101
+en	Born on the Fourth of July	12/20/1989	161001698	145
+en	Cool Runnings	9/30/1993	154864401	98
+en	My Bloody Valentine	1/16/2009	100734718	101
+en	Stomp the Yard	5/16/2007	75511123	114
+en	The Spy Who Loved Me	7/7/1977	185438673	125
+en	Urban Legend	9/25/1998	72527595	99
+en	Good Deeds	2/23/2012	0	111
+en	White Fang	1/18/1991	34793160	107
+en	Superstar	10/8/1999	0	81
+en	The Iron Lady	12/30/2011	114956699	105
+en	Jonah: A VeggieTales Movie	10/4/2002	0	82
+en	Poetic Justice	7/23/1993	27515786	109
+en	All About the Benjamins	3/8/2002	25482931	95
+en	Vampire in Brooklyn	10/27/1995	19800000	100
+en	Exorcist II: The Heretic	6/17/1977	30749142	118
+en	An American Haunting	5/5/2005	0	83
+en	My Boss's Daughter	8/21/2003	0	83
+en	A Perfect Getaway	6/8/2009	22852638	98
+en	Our Family Wedding	3/12/2010	21409028	103
+en	Dead Man on Campus	8/21/1998	0	96
+en	Tea with Mussolini	3/25/1999	21001563	117
+en	Thinner	10/25/1996	0	92
+en	New York, New York	6/21/1977	0	155
+en	Crooklyn	5/13/1994	0	115
+en	I Think I Love My Wife	3/16/2007	13196245	90
+en	Jason X	7/24/2001	16951798	91
+en	Bobby	9/5/2006	0	120
+en	Head Over Heels	2/2/2001	10424470	86
+en	Fun Size	10/25/2012	11417362	87
+fr	Le scaphandre et le papillon	5/22/2007	19777647	112
+en	Little Children	10/6/2006	14821658	136
+en	Gossip	4/21/2000	5108820	90
+en	A Walk on the Moon	1/29/1999	0	107
+en	Catch a Fire	10/27/2006	4291965	101
+en	Soul Survivors	9/6/2001	0	84
+en	Jefferson in Paris	3/31/1995	2474000	139
+en	Easy Virtue	1/1/2008	0	93
+en	Caravans	11/2/1978	0	127
+en	Mr. Turner	10/31/2014	5405500	150
+fr	Les herbes folles	5/20/2009	0	104
+fr	Amen.	2/13/2002	0	132
+en	The Lucky Ones	9/26/2008	0	113
+en	Margaret	9/30/2011	46495	149
+en	Stan Helsing	10/27/2009	0	90
+en	Flipped	8/6/2010	1755212	89
+en	Brokeback Mountain	9/2/2005	178043761	134
+en	Clueless	7/19/1995	0	97
+en	Far from Heaven	9/1/2002	29027914	107
+en	Hot Tub Time Machine 2	2/20/2015	12314651	93
+en	Quills	11/22/2000	7060876	124
+en	Seven Psychopaths	9/7/2012	19422261	110
+en	The Caveman's Valentine	1/19/2001	0	105
+de	Der Untergang	9/8/2004	92180910	156
+es	Mar adentro	9/3/2004	38535221	125
+en	Under the Skin	3/14/2014	5380251	108
+en	Good Morning, Vietnam	12/23/1987	123922370	121
+en	The Last Godfather	12/29/2010	16700000	100
+en	Justin Bieber: Never Say Never	2/11/2011	98441954	105
+en	Black Swan	12/2/2010	327803731	108
+en	The Godfather: Part II	12/20/1974	47542841	200
+en	Save the Last Dance	1/12/2001	91038276	112
+en	A Nightmare on Elm Street 4: The Dream Master	8/19/1988	72500000	99
+en	Miracles from Heaven	3/17/2016	77000000	117
+en	Dude, Where’s My Car?	12/15/2000	73180723	83
+en	Young Guns	8/12/1988	44726644	107
+en	St. Vincent	10/9/2014	54837234	102
+en	About Last Night	2/14/2014	49002684	100
+en	10 Things I Hate About You	3/30/1999	53478166	97
+en	The New Guy	5/10/2002	0	88
+en	National Lampoon's Loaded Weapon 1	2/4/1993	0	84
+en	The Shallows	6/24/2016	119100758	86
+en	The Butterfly Effect	1/22/2004	96060858	113
+en	Snow Day	2/11/2000	0	89
+en	This Christmas	11/27/2007	0	117
+en	Baby Geniuses	3/12/1999	36450736	97
+en	The Big Hit	4/24/1998	27007143	91
+en	Harriet the Spy	7/10/1996	0	100
+en	Child's Play 2	11/9/1990	35763605	84
+en	No Good Deed	9/10/2014	53830415	83
+en	The Mist	11/21/2007	57096190	126
+en	Ex Machina	1/21/2015	36869414	108
+en	Being John Malkovich	9/30/1999	22863596	112
+en	Two Can Play That Game	9/7/2001	0	90
+en	Earth to Echo	6/14/2014	45300000	89
+en	Crazy/Beautiful	6/29/2001	16929123	99
+en	Letters from Iwo Jima	12/19/2006	68673228	141
+en	The Astronaut Farmer	10/15/2006	11130889	104
+en	Woo	5/8/1998	8026971	84
+en	Room	10/16/2015	35401758	117
+en	Dirty Work	6/12/1998	0	82
+en	Serial Mom	4/13/1994	7820688	95
+en	Dick	8/4/1999	27500000	94
+en	Light It Up	11/4/1999	0	99
+en	54	8/28/1998	16757163	106
+en	Bubble Boy	8/24/2001	0	84
+en	Birthday Girl	9/6/2001	0	93
+en	21 & Over	3/1/2013	48065672	93
+fr	Paris, je t'aime	5/16/2006	4857367	120
+en	Resurrecting the Champ	6/14/2007	0	112
+en	Admission	3/21/2013	18000000	107
+en	La veuve de Saint-Pierre	1/1/2000	0	112
+en	Chloe	3/25/2009	8459458	96
+en	Faithful	4/3/1996	9789900	91
+en	Find Me Guilty	3/16/2006	2636637	125
+en	The Perks of Being a Wallflower	9/20/2012	33400000	102
+en	Excessive Force	5/14/1993	1200000	87
+en	Infamous	11/16/2006	1151330	110
+en	The Claim	12/29/2000	0	120
+en	The Vatican Tapes	7/24/2015	1784763	91
+en	Attack the Block	5/12/2011	3964682	88
+en	In the Land of Blood and Honey	12/23/2011	303877	127
+en	The Call	3/14/2013	68572378	94
+en	The Crocodile Hunter: Collision Course	7/26/2002	33082548	90
+en	I Love You Phillip Morris	1/18/2009	10652035	98
+xx	La Guerre du feu	12/15/1981	55260558	100
+en	Antwone Fisher	12/19/2002	23367586	120
+en	The Emperor's Club	11/22/2002	0	108
+en	True Romance	9/9/1993	12281551	120
+en	Womb	7/15/2010	0	111
+en	Glengarry Glen Ross	9/15/1992	10725228	100
+en	The Killer Inside Me	2/19/2010	0	109
+en	Cat People	4/2/1982	0	118
+en	Sorority Row	9/9/2009	27206120	101
+en	The Prisoner of Zenda	9/3/1937	0	101
+en	Lars and the Real Girl	10/12/2007	11293663	106
+en	The Boy in the Striped Pyjamas	5/7/2008	20416563	94
+en	Dancer in the Dark	5/17/2000	40031879	140
+en	Oscar and Lucinda	12/31/1997	0	132
+en	The Funeral	1/26/1996	1227324	99
+en	Solitary Man	9/7/2009	5024782	90
+en	Machete	9/1/2010	31327899	105
+en	Casino Jack	9/16/2010	1083683	108
+en	The Land Before Time	11/18/1988	84460846	69
+en	The Perfect Game	4/1/2010	3878993	118
+en	The Exorcist	12/26/1973	441306145	122
+en	Jaws	6/18/1975	470654000	124
+en	American Pie	7/9/1999	235483004	95
+fr	Ernest et Célestine	12/12/2012	8109160	78
+en	The Golden Child	12/12/1986	79817939	94
+en	Think Like a Man	4/16/2012	96070507	122
+en	Barbershop	4/1/2002	75781642	102
+en	Star Trek II: The Wrath of Khan	6/3/1982	96800000	113
+en	Ace Ventura: Pet Detective	2/4/1994	107217396	86
+en	WarGames	6/3/1983	79567667	114
+en	Witness	2/8/1985	68706993	113
+en	Act of Valor	2/24/2012	81272766	110
+en	Step Up	8/11/2006	114194847	104
+en	Beavis and Butt-Head Do America	12/15/1996	0	81
+en	Jackie Brown	12/24/1997	39673162	154
+en	Harold & Kumar Escape from Guantanamo Bay	4/25/2008	43493123	107
+en	Chronicle	2/1/2012	145000000	84
+en	Yentl	11/18/1983	30400000	132
+en	Time Bandits	7/13/1981	42365581	116
+en	Crossroads	2/15/2002	61141030	93
+en	Project X	3/1/2012	100000000	88
+en	Patton	1/25/1970	89800000	172
+en	One Hour Photo	8/21/2002	52223306	96
+en	Quarantine	10/10/2008	40855419	89
+en	The Eye	2/1/2008	56309766	98
+en	Johnson Family Vacation	4/7/2004	31179516	97
+en	How High	12/21/2001	31155435	93
+en	The Muppet Christmas Carol	12/10/1992	27281507	85
+en	Frida	8/29/2002	56298474	123
+en	Katy Perry: Part of Me	6/28/2012	32726956	93
+en	The Fault in Our Stars	5/16/2014	307166834	125
+en	Rounders	9/11/1998	22921898	121
+en	Top Five	12/12/2014	25434291	102
+en	Prophecy	1/1/1979	54000000	102
+en	Stir of Echoes	9/10/1999	21133087	99
+en	Philomena	11/1/2013	100129872	98
+en	The Upside of Anger	1/23/2005	0	118
+en	The Boys from Brazil	10/5/1978	0	125
+en	Aquamarine	3/3/2006	23006849	104
+en	Paper Towns	6/18/2015	85512300	109
+en	My Baby's Daddy	1/9/2004	51	86
+en	Nebraska	9/21/2013	17654912	115
+en	Tales from the Crypt: Demon Knight	1/13/1995	0	92
+en	Max Keeble's Big Move	10/5/2001	17292381	86
+en	Young Adult	12/16/2011	22939027	94
+en	Crank	8/31/2006	42931041	88
+en	How to Be a Player	8/6/1997	13960203	93
+en	Living Out Loud	10/30/1998	12902790	100
+en	Just Wright	5/14/2010	21520719	100
+en	Rachel Getting Married	10/3/2008	0	113
+en	The Postman Always Rings Twice	3/20/1981	0	122
+en	Girl with a Pearl Earring	8/31/2003	31466789	101
+de	Das Boot	9/16/1981	85000000	149
+en	Sorority Boys	3/22/2002	0	93
+en	About Time	8/16/2013	87100449	123
+en	Arbitrage	9/14/2012	35485056	100
+en	Project Almanac	1/30/2015	32248241	106
+en	Cadillac Records	12/5/2008	0	109
+en	Screwed	5/12/2000	0	81
+en	Fortress	9/30/1992	6739141	95
+en	For Your Consideration	11/22/2006	5542025	86
+en	Celebrity	9/7/1998	0	113
+en	Running with Scissors	10/27/2006	6754898	116
+en	From Justin to Kelly	6/20/2003	4922166	90
+en	Girl 6	3/22/1996	4939939	108
+en	In the Cut	9/9/2003	23	119
+en	Two Lovers	11/19/2008	3148182	110
+en	Last Orders	9/10/2001	0	109
+en	The Pursuit of D.B. Cooper	11/13/1981	0	100
+en	Ravenous	3/16/1999	0	100
+en	Charlie Bartlett	2/22/2008	0	97
+it	La grande bellezza	5/21/2013	8371085	142
+en	The Dangerous Lives of Altar Boys	6/14/2002	0	104
+en	Stoker	2/28/2013	12077441	99
+en	Married Life	9/12/2007	0	90
+en	Duma	4/22/2005	0	100
+en	Ondine	9/14/2009	1644755	111
+en	Welcome to Collinwood	5/24/2002	0	86
+en	Critical Care	10/31/1997	0	107
+en	The Life Before Her Eyes	9/8/2007	0	90
+en	Darling Companion	4/20/2012	0	103
+en	Trade	1/23/2007	0	120
+hu	Sorstalanság	2/10/2005	0	140
+en	Breakfast of Champions	2/13/1999	0	110
+en	Cypher	10/1/2002	0	95
+zh	????	1/1/2011	2570000	89
+en	5 Days of War	4/14/2011	17479	113
+en	Triangle	10/16/2009	0	99
+en	10 Days in a Madhouse	11/20/2015	0	111
+en	Heaven is for Real	4/16/2014	101332962	99
+en	Snatch	9/1/2000	83557872	103
+cs	Dancin' It's On	10/16/2015	0	89
+en	Pet Sematary	4/21/1989	57469467	103
+en	The Cry of the Owl	2/7/2009	0	101
+en	Gremlins	6/7/1984	153083102	106
+en	Star Wars	5/25/1977	775398007	121
+en	Dirty Grandpa	1/21/2016	94073028	102
+en	Doctor Zhivago	12/22/1965	111858363	197
+pt	Trash	10/9/2014	0	112
+en	High School Musical 3: Senior Year	10/22/2008	0	116
+en	The Fighter	12/17/2010	93617009	116
+en	Jackass Number Two	9/22/2006	72778712	95
+en	My Cousin Vinny	3/13/1992	64088552	120
+en	If I Stay	8/21/2014	78874843	106
+en	Drive Hard	5/26/2014	0	96
+en	Major League	2/16/1989	49797148	107
+en	St. Trinian's	12/21/2007	0	101
+en	Phone Booth	9/9/2002	97837138	81
+en	A Walk to Remember	1/25/2002	41227069	101
+en	Dead Man Walking	12/29/1995	39363635	122
+en	Cruel Intentions	3/5/1999	75902208	97
+en	Saw VI	10/22/2009	68233629	90
+en	History of the World: Part I	6/12/1981	31672907	92
+en	The Secret Life of Bees	9/17/2008	38105395	114
+en	Corky Romano	10/12/2001	23978402	86
+en	Raising Cain	8/7/1992	37170057	91
+en	F.I.S.T.	4/26/1978	11	145
+en	Invaders from Mars	1/1/1986	4884663	100
+en	Brooklyn	10/20/2015	62076141	111
+en	Barry Lyndon	12/18/1975	20000000	184
+en	Out Cold	11/21/2001	14782676	89
+en	The Ladies Man	10/13/2000	13700000	84
+en	Quartet	9/8/2012	59520298	98
+en	Tomcats	3/30/2001	23430766	95
+en	Frailty	11/17/2001	13110448	100
+en	Woman in Gold	4/10/2015	61619773	120
+en	Kinsey	9/4/2004	0	118
+en	Army of Darkness	10/9/1992	0	81
+en	Slackers	2/1/2002	6413915	86
+en	What's Eating Gilbert Grape	12/17/1993	30000000	118
+en	The Visual Bible: The Gospel of John	9/11/2003	4069090	125
+en	Vera Drake	10/22/2004	0	125
+en	The Guru	8/21/2002	0	91
+en	The Perez Family	5/12/1995	2832826	113
+en	Inside Llewyn Davis	10/6/2013	32935319	105
+en	O	8/31/2001	16017403	95
+en	Return to the Blue Lagoon	8/2/1991	2807854	98
+en	The Molly Maguires	1/27/1970	2200000	124
+en	Romance & Cigarettes	9/13/2005	2945242	105
+en	Copying Beethoven	9/10/2006	0	104
+en	Brighton Rock	9/13/2010	0	111
+en	Saw V	10/23/2008	113857533	92
+it	Gli intoccabili	4/1/1969	0	116
+en	LOL	2/10/2012	0	97
+en	Jindabyne	7/20/2006	0	123
+en	An Ideal Husband	4/15/1999	18535191	97
+en	The Last Days on Mars	8/11/2013	0	98
+en	Darkness	10/2/2002	0	102
+en	2001: A Space Odyssey	4/10/1968	68700000	149
+en	E.T. the Extra-Terrestrial	4/3/1982	792910554	115
+en	In the Land of Women	4/16/2007	17500000	97
+en	The Blue Butterfly	2/20/2004	0	97
+en	There Goes My Baby	9/2/1994	123509	99
+en	September Dawn	5/17/2007	0	110
+en	For Greater Glory - The True Story of Cristiada	6/1/2012	9622846	145
+fr	La Famille Bélier	12/17/2014	0	105
+en	Good Will Hunting	12/5/1997	225933435	126
+en	Misconduct	2/5/2016	0	106
+en	Saw III	10/27/2006	163876815	108
+en	Stripes	6/25/1981	85300000	106
+en	Bring It On	8/25/2000	90449929	98
+en	The Purge: Election Year	6/29/2016	118587880	105
+en	She's All That	1/29/1999	103166989	95
+en	Saw IV	10/25/2007	139352633	93
+en	White Noise	1/7/2005	91196419	101
+en	Madea's Family Reunion	2/24/2006	57231524	110
+en	The Color of Money	10/7/1986	52293982	119
+en	The Longest Day	9/25/1962	50100000	178
+en	The Mighty Ducks	10/1/1992	50752337	101
+en	The Grudge	10/22/2004	183474602	92
+en	Happy Gilmore	2/16/1996	41205099	92
+en	Jeepers Creepers	7/1/2001	59217789	90
+en	Bill & Ted's Excellent Adventure	2/17/1989	40485039	90
+en	Oliver!	9/26/1968	37402877	153
+en	The Best Exotic Marigold Hotel	11/28/2011	136836156	124
+en	Recess: School's Out	1/27/2001	44460850	83
+en	Mad Max Beyond Thunderdome	6/29/1985	36230219	107
+en	Commando	10/3/1985	57500000	90
+en	The Boy	1/22/2016	64188367	97
+en	Devil	1/13/2010	33583175	80
+en	Friday After Next	11/22/2002	33526835	85
+en	Insidious: Chapter 3	6/4/2015	104303851	97
+en	The Last Dragon	3/22/1985	25754284	108
+en	The Lawnmower Man	3/5/1992	32101000	108
+en	Nick and Norah's Infinite Playlist	10/3/2008	32973937	89
+en	Dogma	11/12/1999	30652890	130
+en	The Banger Sisters	9/20/2002	0	98
+en	Twilight Zone: The Movie	6/24/1983	29450919	101
+en	Road House	5/19/1989	30050028	114
+en	A Low Down Dirty Shame	11/23/1994	29392418	100
+en	Swimfan	9/6/2002	34411240	84
+en	Employee of the Month	10/6/2006	38368909	103
+en	Can't Hardly Wait	6/12/1998	25605015	100
+en	The Outsiders	3/25/1983	33697647	91
+en	Pete's Dragon	8/10/2016	143695338	102
+en	The Dead Zone	10/21/1983	20766616	103
+en	Sinister 2	8/19/2015	52882018	97
+en	Sparkle	8/17/2012	24637469	116
+en	Valentine	2/1/2001	0	96
+en	The Fourth Kind	11/6/2009	42333295	98
+en	A Prairie Home Companion	6/9/2006	0	105
+en	Sugar Hill	2/25/1994	0	123
+en	Invasion U.S.A.	9/27/1985	0	107
+en	Roll Bounce	9/23/2005	0	112
+en	Rushmore	9/17/1998	17096053	93
+en	Skyline	11/11/2010	66821036	100
+en	The Second Best Exotic Marigold Hotel	2/26/2015	85978266	122
+en	Kit Kittredge: An American Girl	7/2/2008	0	101
+en	The Perfect Man	6/17/2005	0	100
+en	Mo' Better Blues	8/3/1990	16153593	129
+en	Kung Pow: Enter the Fist	1/25/2002	0	81
+en	Tremors	1/19/1990	48572000	96
+en	Wrong Turn	5/30/2003	28650575	84
+en	The Long Riders	5/12/1980	15795189	99
+en	The Corruptor	3/12/1999	15156200	110
+en	Mud	5/1/2013	21587700	130
+en	Reno 911!: Miami	2/23/2007	20342161	84
+en	One Direction: This Is Us	8/28/2013	0	92
+en	The Goods: Live Hard, Sell Hard	8/14/2009	0	90
+en	Hey Arnold! The Movie	6/28/2002	0	76
+en	My Week with Marilyn	10/17/2011	35057696	99
+en	The Matador	5/12/2005	17297244	96
+en	Love Jones	3/14/1997	0	104
+en	The Gift	7/30/2015	58978653	108
+en	End of the Spear	12/2/2005	0	108
+en	Get Over It	3/8/2001	0	87
+en	Office Space	2/19/1999	12827813	89
+en	Drop Dead Gorgeous	7/23/1999	10571408	98
+en	Big Eyes	12/24/2014	28883511	105
+en	Very Bad Things	9/11/1998	9898412	100
+en	Sleepover	7/9/2004	0	89
+en	Body Double	10/25/1984	8801940	114
+en	MacGruber	5/21/2010	6110000	90
+en	Dirty Pretty Things	9/5/2002	0	97
+en	Movie 43	1/1/2013	32438988	90
+en	Over Her Dead Body	2/1/2008	0	95
+en	Seeking a Friend for the End of the World	6/22/2012	9636289	101
+en	Cedar Rapids	2/11/2011	6861102	87
+en	American History X	10/30/1998	23875127	119
+en	The Collection	9/21/2012	6842058	94
+en	Teacher's Pet	1/16/2004	0	74
+en	The Red Violin	9/10/1998	9495408	131
+en	The Straight Story	10/15/1999	0	112
+en	Deuces Wild	5/3/2002	0	96
+en	Bad Words	9/6/2013	7800000	88
+en	Run Fatboy Run	9/6/2007	33000000	100
+en	Heartbeeps	12/18/1981	2154696	79
+en	Black or White	9/6/2014	21571189	121
+en	On the Line	10/26/2001	0	85
+en	Rescue Dawn	9/9/2006	7177143	126
+en	Danny Collins	3/19/2015	10835752	107
+en	Jeff, Who Lives at Home	9/13/2011	4417580	83
+it	Io sono l'amore	9/5/2009	0	120
+en	Atlas Shrugged Part II	10/12/2012	0	112
+en	Romeo Is Bleeding	9/13/1993	3275585	100
+en	The Limey	5/15/1999	3193102	89
+en	Crash	1/13/2004	98410061	112
+en	The House of Mirth	9/23/2000	5164404	140
+en	Malone	5/1/1987	0	92
+en	Peaceful Warrior	3/30/2006	0	120
+en	Bucky Larson: Born to Be a Star	9/9/2011	0	97
+en	Bamboozled	10/6/2000	0	135
+en	The Forest	1/7/2016	40055439	95
+en	Sphinx	2/11/1981	439564	118
+en	While We're Young	4/3/2015	7587485	97
+en	A Better Life	6/24/2011	1759252	98
+en	Spider	12/13/2002	0	98
+en	Gun Shy	2/4/2000	1631839	101
+en	Nicholas Nickleby	12/27/2002	0	132
+en	The Iceman	9/1/2012	1969193	105
+en	Cecil B. Demented	5/17/2000	0	87
+en	Killer Joe	9/10/2011	3665069	102
+en	The Joneses	9/13/2009	7022728	96
+en	Owning Mahowny	5/2/2003	0	104
+en	The Brothers Solomon	9/7/2007	0	93
+en	My Blueberry Nights	5/16/2007	21786738	111
+en	Illuminata	5/21/1998	0	119
+en	Swept Away	10/11/2002	598645	89
+en	War, Inc.	4/28/2008	1296184	106
+en	The Brown Bunny	8/27/2004	0	93
+fr	Rien ne va plus	10/15/1997	0	105
+en	Rosewater	11/7/2014	0	103
+en	La femme de chambre du Titanic	10/10/1997	0	100
+en	Coriolanus	2/14/2011	1072602	123
+en	Imaginary Heroes	9/14/2004	0	111
+en	High Heels and Low Lifes	7/16/2001	0	86
+en	World's Greatest Dad	8/20/2009	295750	99
+en	Severance	5/19/2006	0	96
+en	Edmond	8/31/2005	0	82
+en	Welcome to the Rileys	10/29/2010	42145	110
+en	Police Academy: Mission to Moscow	6/9/1994	126247	83
+en	Blood Done Sign My Name	2/1/2010	0	0
+es	Cinco de Mayo: La Batalla	5/3/2013	0	125
+en	Elsa & Fred	3/7/2014	0	104
+en	An Alan Smithee Film: Burn, Hollywood, Burn	2/20/1998	45779	86
+en	The Open Road	2/7/2009	0	90
+en	The Good Guy	4/25/2009	0	90
+en	Motherhood	1/21/2009	0	90
+en	Free Style	12/24/2008	140987	94
+en	Strangerland	7/1/2015	17472	111
+en	Janky Promoters	10/16/2009	9069	85
+en	Blonde Ambition	12/21/2007	0	93
+en	The Oxford Murders	1/18/2008	0	107
+en	The Reef	5/15/2010	0	94
+en	Eulogy	10/15/2004	0	91
+en	White Noise 2: The Light	1/5/2007	0	99
+en	Beat the World	6/10/2011	0	91
+en	Fifty Dead Men Walking	9/10/2008	0	117
+en	Jungle Shuffle	8/7/2014	0	85
+en	Adam Resurrected	8/8/2008	0	106
+is	Hross í oss	8/30/2013	11	85
+en	Hai Marjawaan!	5/7/2010	0	99
+en	The Devil's Tomb	5/26/2009	0	90
+en	Partition	2/2/2007	0	116
+en	Good Intentions	3/9/2010	0	85
+en	Nurse 3-D	9/28/2013	10000000	99
+en	Gunless	4/30/2010	0	89
+en	Adventureland	4/3/2009	17164377	107
+en	The Lost City	9/3/2005	4386236	144
+en	Next Friday	1/12/2000	59827328	98
+en	American Heist	9/11/2014	0	94
+en	You Only Live Twice	6/12/1967	111584787	117
+en	Plastic	4/30/2014	0	102
+fr	Amour	7/1/2012	19839492	127
+en	Poltergeist III	6/10/1988	14144000	98
+en	Re-Kill	10/16/2015	0	87
+en	It's a Mad, Mad, Mad, Mad World	11/7/1963	60000000	163
+es	Volver	3/16/2006	85582407	121
+en	Heavy Metal	8/7/1981	0	90
+en	Gentlemen Broncos	9/30/2009	0	89
+en	Richard III	12/29/1995	0	104
+en	Into the Grizzly Maze	2/27/2015	0	94
+en	Kites	5/21/2010	0	131
+da	Melancholia	5/26/2011	21817298	136
+en	Red Dog	8/4/2011	0	92
+en	Alien	5/25/1979	104931801	117
+en	The Texas Chain Saw Massacre	10/1/1974	30859000	83
+en	The Runaways	3/19/2010	2995811	106
+en	Fiddler on the Roof	11/3/1971	83304330	181
+en	Thunderball	12/16/1965	141195658	130
+en	Detention	3/16/2011	0	93
+it	Mine vaganti	2/12/2010	8220215	110
+en	Set It Off	11/6/1996	41590886	118
+en	The Best Man	10/22/1999	34573780	120
+en	Child's Play	11/8/1988	44196684	87
+en	Sicko	5/18/2007	24538513	123
+en	The Purge: Anarchy	7/17/2014	108782847	104
+en	Down to You	1/21/2000	0	91
+en	Harold & Kumar Go to White Castle	5/30/2004	23936908	88
+en	The Contender	10/13/2000	0	126
+en	Boiler Room	2/18/2000	28780255	118
+en	Trading Places	6/7/1983	90400000	116
+en	Black Christmas	12/25/2006	21510851	84
+en	Breakin' All the Rules	5/14/2004	0	85
+en	Henry V	10/5/1989	0	137
+en	The Savages	1/19/2007	0	114
+en	Chasing Papi	4/16/2003	6126237	80
+en	The Way of the Gun	9/8/2000	19125401	119
+en	Igby Goes Down	9/13/2002	4777465	97
+en	PCU	4/29/1994	4350774	79
+en	The Ultimate Gift	10/20/2006	0	114
+en	The Ice Pirates	3/16/1984	0	91
+en	Gracie	6/1/2007	2955039	97
+en	Trust the Man	9/1/2005	0	103
+en	Hamlet 2	1/21/2008	0	92
+en	Velvet Goldmine	10/23/1998	1053788	119
+en	Glee: The Concert Movie	8/11/2011	18663238	84
+en	Due occhi diabolici	1/25/1990	0	120
+fr	Barbecue	4/30/2014	14348529	98
+en	All or Nothing	5/17/2002	0	128
+en	Princess Kaiulani	5/14/2010	771499	130
+en	Opal Dream	11/22/2006	140666	86
+da	Flammen & Citronen	3/25/2008	0	130
+en	Undiscovered	8/26/2005	1046166	97
+en	Red Riding: In the Year of Our Lord 1974	2/28/2009	0	102
+fr	La Fille du RER	3/18/2009	0	105
+en	Veronika Decides to Die	5/16/2009	0	103
+en	Crocodile Dundee	9/26/1986	328203506	97
+en	Ultramarines: A Warhammer 40,000 Movie	12/10/2010	0	76
+en	The I Inside	1/15/2004	0	90
+en	Beneath Hill 60	4/15/2010	0	122
+fr	Polisse	10/6/2011	20374201	127
+en	Awake	11/28/2007	14373825	84
+en	Star Wars: Clone Wars (Volume 1)	3/21/2005	0	69
+en	Skin Trade	11/7/2014	0	96
+en	The Lost Boys	7/31/1987	32222567	97
+en	Crazy Heart	12/16/2009	39462438	112
+en	The Rose	11/7/1979	29174648	125
+en	Baggage Claim	9/27/2013	22456509	96
+en	Barbarella	10/10/1968	2500000	98
+en	Håkon Håkonsen	10/3/1990	0	92
+en	Election	4/23/1999	0	99
+en	The Namesake	9/2/2006	20138836	122
+en	The DUFF	2/20/2015	43528634	100
+en	Glitter	9/21/2001	5271666	104
+en	The Haunting in Connecticut 2: Ghosts of Georgia	2/1/2013	0	101
+en	Bright Star	11/5/2009	4440055	119
+en	My Name Is Khan	2/12/2010	42345360	145
+en	All Is Lost	10/18/2013	6108720	106
+en	Limbo	6/4/1999	1997807	126
+en	Namastey London	3/27/2007	0	128
+en	The Wind That Shakes the Barley	5/18/2006	22889018	124
+en	Quo Vadis	11/8/1951	30000000	171
+en	Repo! The Genetic Opera	7/18/2008	188126	98
+tr	Kurtlar vadisi - Irak	2/3/2006	0	122
+en	Pulp Fiction	10/8/1994	213928762	154
+en	The Muppet Movie	5/31/1979	76657000	97
+en	Nightcrawler	10/23/2014	38697217	117
+en	Club Dread	2/27/2004	5001655	104
+en	The Sound of Music	3/2/1965	286214286	174
+en	Splash	3/9/1984	69821334	111
+en	Little Miss Sunshine	7/26/2006	100523181	102
+en	Stand by Me	8/22/1986	52287414	89
+en	28 Days Later	10/31/2002	82719885	113
+en	You Got Served	1/30/2004	0	95
+en	Escape from Alcatraz	6/22/1979	43000000	111
+en	Brown Sugar	10/5/2002	27362712	109
+en	A Thin Line Between Love and Hate	4/4/1996	0	108
+en	50/50	9/30/2011	39187783	100
+en	Shutter	3/21/2008	0	85
+en	That Awkward Moment	1/29/2014	26049082	94
+en	Modern Problems	12/25/1981	0	89
+en	Kicks	9/9/2016	0	80
+en	Much Ado About Nothing	5/7/1993	0	111
+en	On Her Majesty's Secret Service	12/12/1969	81974493	142
+en	New Nightmare	10/13/1994	18090181	112
+en	Drive Me Crazy	10/1/1999	22593409	91
+en	Akeelah and the Bee	4/28/2006	18948425	112
+en	Half Baked	1/16/1998	17460020	82
+en	New in Town	1/30/2009	29010817	97
+en	American Psycho	4/13/2000	34266564	102
+en	The Good Girl	1/12/2002	16856124	93
+fr	Bon Cop Bad Cop	7/6/2006	12671300	116
+en	The Boondock Saints II: All Saints Day	11/24/2009	10629321	118
+en	The City of Your Final Destination	3/21/2009	0	114
+en	Enough Said	9/18/2013	25288872	93
+en	Easy A	9/10/2010	74952305	92
+en	The Inkwell	4/22/1994	8880705	110
+en	Shadow of the Vampire	5/15/2000	8279017	92
+en	Prom	4/29/2011	10130000	104
+en	The Pallbearer	5/3/1996	0	97
+en	Held Up	10/8/1999	0	89
+en	Woman on Top	9/22/2000	0	92
+en	Howards End	3/13/1992	25966555	140
+en	Anomalisa	12/30/2015	5659286	90
+en	Another Year	11/5/2010	18124262	129
+fr	8 femmes	1/8/2002	0	111
+en	Showdown in Little Tokyo	8/23/1991	2275557	79
+en	Clay Pigeons	9/25/1998	0	104
+en	It's Kind of a Funny Story	7/6/2010	6491240	101
+en	Made in Dagenham	9/11/2010	0	113
+en	And When Did You Last See Your Father?	10/5/2007	92	92
+en	Prefontaine	1/24/1997	589304	106
+en	The Wicked Lady	4/21/1983	0	98
+en	The Secret of Kells	2/9/2009	0	75
+en	Begin Again	9/7/2013	63464861	104
+en	Down in the Valley	5/13/2005	852872	112
+en	Brooklyn Rules	4/30/2007	458232	99
+en	Restless	12/7/2012	0	180
+en	The Singing Detective	10/24/2003	0	109
+en	The Land Girls	9/25/1998	0	111
+en	Fido	9/7/2006	426224	91
+en	The Wendell Baker Story	8/3/2005	0	99
+en	Wild Target	6/17/2010	3453043	98
+en	Pathology	4/11/2008	0	95
+en	Wuthering Heights	1/18/2009	0	142
+en	10th & Wolf	2/19/2006	143451	107
+en	Dear Wendy	1/22/2005	0	105
+en	Aloft	2/12/2014	53086	112
+en	The Death and Life of Bobby Z	7/23/2007	413454	97
+fr	Maurice Richard	10/25/2005	2019009	124
+en	Swelter	4/20/2014	0	96
+en	Imagine Me & You	2/1/2005	2455831	93
+en	Mr. Church	9/16/2016	0	104
+en	Swimming Pool	5/18/2003	22441323	102
+en	Green Street Hooligans: Underground	1/1/2013	0	90
+en	The Blood of Heroes	10/19/1989	882290	100
+en	Code of Honor	5/6/2016	0	106
+en	Driving Miss Daisy	12/13/1989	145793296	99
+en	Soul Food	9/26/1997	0	114
+fr	Loin des hommes	8/30/2014	0	110
+en	Thank You for Smoking	9/5/2005	24793509	92
+en	Hostel: Part II	6/8/2007	35619521	93
+en	An Education	10/29/2009	26096852	100
+en	Shopgirl	10/21/2005	11588205	104
+en	The Hotel New Hampshire	3/9/1984	0	109
+en	Narc	1/14/2002	12633747	105
+en	Men with Brooms	9/20/2002	4245870	102
+en	Witless Protection	2/22/2008	0	97
+en	The Work and the Glory	11/24/2004	3347647	110
+en	Extract	9/3/2009	10848783	92
+en	Masked and Anonymous	8/8/2003	0	112
+fr	Betty Fisher et autres histoires	9/1/2001	0	103
+en	Code 46	9/2/2003	0	92
+en	Outside Bet	4/27/2012	0	101
+en	Albert Nobbs	12/21/2011	5634828	113
+en	Black November	12/7/2012	0	95
+fr	Persepolis	5/23/2007	0	95
+en	The Hole	9/9/2009	0	92
+de	Die Welle	3/11/2008	19000000	107
+en	The Neon Demon	6/8/2016	1333124	117
+en	Harry Brown	11/11/2009	10329747	103
+en	The Omega Code	10/15/1999	2400000	100
+en	Juno	12/5/2007	231411584	96
+en	Pound of Flesh	5/7/2015	0	104
+en	Diamonds Are Forever	12/13/1971	116019547	120
+en	The Godfather	3/14/1972	245066411	175
+en	Flashdance	4/14/1983	92921203	95
+en	(500) Days of Summer	7/17/2009	60722734	95
+en	The Piano	5/19/1993	116700000	121
+en	Magic Mike	6/28/2012	167221571	110
+en	Darkness Falls	1/24/2003	0	86
+en	Live and Let Die	7/5/1973	161777836	121
+en	My Dog Skip	1/14/2000	0	95
+en	Definitely, Maybe	2/8/2008	55447968	112
+en	Jumping the Broom	5/6/2011	37710610	112
+en	Good Night, and Good Luck.	9/16/2005	54600000	93
+en	Capote	9/30/2005	49084830	114
+en	Desperado	8/25/1995	25405445	104
+en	Logan's Run	6/23/1976	25000000	119
+en	The Man with the Golden Gun	12/1/1974	97572000	125
+en	Action Jackson	2/12/1988	20256975	96
+en	The Descent	7/8/2005	0	99
+en	Michael Jordan to the Max	5/5/2000	21268532	46
+en	Devil's Due	1/8/2014	36433975	89
+en	Flirting with Disaster	3/22/1996	14702438	92
+en	The Devil's Rejects	7/22/2005	0	107
+en	Dope	6/19/2015	17986781	103
+en	In Too Deep	8/25/1999	14011454	97
+en	House of 1000 Corpses	4/11/2003	16829545	89
+en	Alien Zone	11/22/1978	0	90
+en	A Serious Man	10/2/2009	31430334	105
+en	Get Low	1/22/2010	0	103
+en	Warlock	6/1/1989	0	103
+en	Beyond the Lights	9/10/2014	14618727	116
+en	A Single Man	10/19/2009	0	101
+en	The Last Temptation of Christ	8/12/1988	8373585	164
+en	Outside Providence	8/16/1999	7292175	96
+en	Bride & Prejudice	2/11/2004	0	111
+en	Rabbit-Proof Fence	2/4/2002	0	94
+en	Who's Your Caddy?	7/27/2007	0	93
+en	Split Second	5/1/1992	5	90
+en	The Other Side of Heaven	4/12/2001	4720371	113
+en	Redbelt	4/7/2008	0	99
+en	Cyrus	6/18/2010	0	91
+en	A Dog Of Flanders	8/27/1999	0	96
+en	Auto Focus	10/18/2002	2062066	104
+en	Factory Girl	12/29/2006	0	90
+en	We Need to Talk About Kevin	9/28/2011	6038942	112
+en	The Christmas Candle	11/22/2013	0	100
+en	The Mighty Macs	10/21/2009	0	102
+en	Losin' It	4/8/1983	1246141	100
+en	Mother and Child	11/7/2009	0	125
+en	March or Die	9/8/1977	0	107
+fr	Les visiteurs	1/27/1993	0	107
+en	Somewhere	9/3/2010	0	98
+en	I Hope They Serve Beer in Hell	9/25/2009	1429299	106
+en	Chairman of the Board	3/13/1998	0	95
+en	Hesher	1/22/2010	382946	106
+en	Dom Hemingway	11/15/2013	523511	93
+en	Gerry	1/12/2002	0	103
+en	The Heart of Me	1/1/2002	0	96
+en	Freeheld	10/2/2015	573335	103
+en	The Extra Man	8/1/2010	453079	108
+ru	?????? ???? ?????	2/27/2013	1310673	170
+en	Ca$h	1/1/2010	46488	108
+en	Wah-Wah	8/17/2005	0	120
+en	The Boondock Saints	1/22/1999	30471	108
+en	Twixt	9/10/2011	0	84
+ru	??????? ????????	10/11/2012	12400000	76
+en	Alpha and Omega: The Legend of the Saw Tooth Cave	7/21/2014	0	53
+en	Pale Rider	6/28/1985	41410568	115
+en	Stargate: The Ark of Truth	3/11/2008	8900000	97
+en	Dazed and Confused	9/24/1993	7993039	102
+en	High School Musical 2	8/17/2007	7000000	104
+en	Two Lovers and a Bear	10/2/2016	0	96
+en	Criminal Activities	11/20/2015	0	94
+de	Aimee & Jaguar	2/10/1999	0	125
+en	The Chumscrubber	6/8/2005	0	108
+en	Shade	5/18/2003	0	101
+en	House at the End of the Street	9/21/2012	44287131	101
+fr	Incendies	9/4/2010	7103838	130
+it	Ricordati di me	2/11/2003	0	125
+en	Perrier’s Bounty	9/11/2009	0	88
+pt	Tropa de Elite	10/12/2007	0	115
+en	Annabelle	10/2/2014	255273813	99
+en	Bran Nue Dae	8/9/2009	7	82
+en	Boyz n the Hood	7/12/1991	57504069	112
+en	La Bamba	7/24/1987	54215416	108
+en	The Four Seasons	5/22/1981	0	107
+en	Dressed to Kill	6/25/1980	31899000	105
+en	The Adventures of Huck Finn	4/2/1993	0	108
+en	Go	4/9/1999	28451622	98
+en	Friends with Money	9/7/2006	13368437	88
+en	The Andromeda Strain	3/12/1971	12376563	131
+en	Bats	10/22/1999	10	91
+de	Nirgendwo in Afrika	12/11/2001	0	140
+en	Shame	10/2/2011	17693675	100
+en	Layer Cake	9/30/2004	11850214	105
+en	The Work and the Glory II: American Zion	10/21/2005	2025032	100
+en	The East	5/31/2013	2401510	116
+en	A Home at the End of the World	7/23/2004	1548955	96
+en	Aberdeen	7/5/2000	0	113
+en	The Messenger	11/13/2009	1521261	113
+en	Tracker	5/20/2010	0	102
+en	Control	9/26/2007	8159508	121
+en	The Terminator	10/26/1984	78371200	108
+de	Good bye, Lenin!	2/9/2003	79384880	121
+en	The Damned United	3/27/2009	0	97
+en	The Return of the Living Dead	5/15/1985	14237000	91
+en	Mallrats	10/20/1995	2122561	94
+en	Grease	7/7/1978	181813770	110
+en	Platoon	12/18/1986	138530565	120
+en	Fahrenheit 9/11	6/25/2004	119114517	122
+en	Butch Cassidy and the Sundance Kid	9/23/1969	102308889	110
+en	Mary Poppins	8/27/1964	102272727	139
+en	Ordinary People	9/19/1980	0	124
+en	West Side Story	10/18/1961	43656822	152
+en	Caddyshack	7/25/1980	39846344	98
+en	The Brothers	3/23/2001	0	106
+en	The Wood	7/16/1999	25059640	106
+en	The Usual Suspects	7/19/1995	23341568	106
+en	A Nightmare on Elm Street 5: The Dream Child	8/11/1989	22168359	89
+en	National Lampoon’s Van Wilder	3/29/2002	38275483	92
+en	The Wrestler	9/7/2008	44703995	109
+en	Duel in the Sun	12/31/1946	20400000	144
+en	Best in Show	9/19/2000	0	90
+en	Escape from New York	5/22/1981	50244700	99
+en	School Daze	2/12/1988	0	121
+en	Daddy Day Camp	8/8/2007	18197398	89
+en	A Mighty Wind	4/16/2003	18750246	91
+en	Mystic Pizza	10/13/1988	0	104
+en	Sliding Doors	4/23/1998	58000000	99
+en	Tales from the Hood	5/24/1995	12000000	98
+en	The Last King of Scotland	9/1/2006	48027970	121
+en	Halloween 5: The Revenge of Michael Myers	10/12/1989	11642254	96
+en	Bernie	4/27/2012	9206470	100
+en	Dolphins and Whales: Tribes of the Ocean	2/15/2008	7518876	42
+en	Pollock	9/6/2000	0	122
+en	200 Cigarettes	2/26/1999	6852450	101
+en	The Words	9/7/2012	13231461	96
+en	Casa De Mi Padre	3/15/2012	0	84
+en	City Island	3/6/2009	6670712	104
+en	The Guard	7/7/2011	19560274	96
+en	College	8/28/2008	6230276	94
+en	The Virgin Suicides	4/21/1999	10409377	97
+en	Little Voice	11/5/1998	0	97
+en	Miss March	3/13/2009	0	89
+en	Wish I Was Here	1/18/2014	5483299	120
+en	Simply Irresistible	2/5/1999	4398989	95
+en	Hedwig and the Angry Inch	7/20/2001	0	95
+en	Only the Strong	8/27/1993	3283371	99
+en	Goddess of Love	8/31/2015	0	96
+en	Shattered Glass	11/14/2003	2944752	94
+en	Novocaine	11/23/2001	2025238	95
+en	The Business of Strangers	1/19/2001	0	84
+en	The Wild Bunch	6/17/1969	638641	145
+en	The Wackness	7/3/2008	2899975	99
+en	The First Great Train Robbery	1/25/1979	0	110
+en	Morvern Callar	1/1/2002	0	97
+en	Beastmaster 2: Through the Portal of Time	6/8/1991	869325	107
+en	The 5th Quarter	3/25/2011	399611	97
+fr	La fleur du mal	2/9/2003	0	104
+en	The Greatest	1/17/2009	0	99
+en	Snow Flower and the Secret Fan	7/15/2011	1332231	104
+en	Come Early Morning	1/10/2006	0	97
+en	Lucky Break	8/24/2001	0	107
+en	Julia	10/2/1977	0	117
+en	Surfer, Dude	9/5/2008	69497	85
+en	Lake of Fire	9/9/2006	25	152
+en	11:14	5/16/2003	0	86
+en	Men of War	9/4/1994	0	103
+en	Don McKay	4/24/2009	0	87
+en	Deadfall	11/8/2012	66351	95
+en	A Shine of Rainbows	10/1/2009	0	101
+en	The Hit List	4/2/2011	0	90
+en	Emma	10/11/2009	0	240
+en	Videodrome	2/4/1983	2120439	87
+fr	L'Auberge espagnole	5/17/2002	3897799	122
+en	Song One	1/20/2014	32251	86
+nl	Oorlogswinter	11/17/2008	530048	103
+en	Freaky Deaky	4/22/2012	0	90
+en	The Train	9/21/1964	6800000	133
+en	Trade Of Innocents	9/27/2012	0	91
+en	Stiff Upper Lips	6/12/1998	0	99
+en	Bend It Like Beckham	4/11/2002	76578641	112
+en	Sunshine State	6/21/2002	0	141
+en	Crossover	9/1/2006	7000000	95
+en	Khiladi 786	12/7/2012	126	139
+es	[REC]²	9/15/2009	18469680	85
+en	Standing Ovation	7/16/2010	531826	105
+en	The Sting	12/25/1973	159616327	129
+en	Chariots of Fire	5/15/1981	58972904	123
+en	Diary of a Mad Black Woman	2/25/2005	0	116
+en	Shine	1/21/1996	0	105
+en	Don Jon	7/26/2013	0	90
+en	High Plains Drifter	4/19/1973	15700000	105
+en	Ghost World	7/20/2001	0	111
+en	Iris	12/14/2001	0	91
+en	Galaxina	6/6/1980	4865000	95
+fr	Les Choristes	3/17/2004	0	96
+en	Mambo Italiano	6/6/2003	3031801	92
+en	Wonderland	10/23/2003	2466444	104
+en	Do the Right Thing	6/30/1989	37295445	120
+en	Harvard Man	1/1/2001	0	99
+fr	Le Havre	5/17/2011	0	93
+fr	Irréversible	5/22/2002	792	97
+hi	Rang De Basanti	1/26/2006	11502151	157
+en	Animals	5/15/2014	0	90
+en	Salvation Boulevard	7/15/2011	0	96
+en	The Ten	8/3/2007	0	96
+en	A Room for Romeo Brass	8/23/1999	0	90
+en	Hodejegerne	8/4/2011	15699707	100
+en	Grabbers	8/10/2012	0	94
+en	Saint Ralph	9/11/2004	0	95
+en	Miss Julie	9/7/2014	5000000	120
+en	Somewhere in Time	10/2/1980	0	103
+en	Insidious: Chapter 2	9/12/2013	0	106
+en	Saw II	10/28/2005	152925093	92
+en	10 Cloverfield Lane	3/10/2016	108286421	103
+en	Jackass: The Movie	10/21/2002	64282312	87
+en	Lights Out	7/21/2016	44107032	81
+en	Paranormal Activity 3	10/19/2011	205703818	83
+en	Ouija	10/24/2014	103590271	89
+en	A Nightmare on Elm Street 3: Dream Warriors	2/27/1987	44793222	96
+es	No se Aceptan Devoluciones	7/20/2013	99067206	115
+en	Paranormal Activity 4	10/17/2012	142817992	95
+en	The Robe	9/16/1953	36000000	135
+en	The Return of the Pink Panther	5/21/1975	41833347	113
+en	Freddy's Dead: The Final Nightmare	9/5/1991	34872033	89
+en	Monster	11/16/2003	60378584	110
+en	20,000 Leagues Under the Sea	12/23/1954	28200000	127
+en	Paranormal Activity: The Marked Ones	1/1/2014	86362372	84
+en	The Elephant Man	10/2/1980	26010864	124
+en	Dallas Buyers Club	9/7/2013	55198285	117
+en	The Lazarus Effect	1/29/2015	64110728	83
+en	Memento	10/11/2000	39723096	113
+en	Oculus	9/8/2013	44030246	104
+en	Clerks II	5/25/2006	26888376	97
+en	Billy Elliot	5/18/2000	110000000	110
+en	The Way Way Back	6/6/2013	23198652	103
+en	House Party 2	10/23/1991	0	94
+en	The Man from Snowy River	3/2/1982	20659423	104
+en	Doug's 1st Movie	3/26/1999	0	77
+en	The Apostle	10/9/1997	0	134
+en	Mommie Dearest	9/18/1981	0	129
+en	Our Idiot Brother	8/26/2011	17273593	90
+en	Race	2/19/2016	24804129	134
+en	The Players Club	4/8/1998	0	104
+en	As Above, So Below	8/14/2014	40100000	93
+en	Addicted	10/10/2014	0	105
+en	Eve's Bayou	9/7/1997	0	109
+en	Still Alice	12/5/2014	43884652	99
+en	The Egyptian	8/25/1954	15000000	139
+en	Nighthawks	3/17/1981	19905359	99
+en	Friday the 13th Part VIII: Jason Takes Manhattan	7/28/1989	14000000	100
+en	My Big Fat Greek Wedding	2/22/2002	368744044	95
+en	Spring Breakers	1/24/2013	31724284	94
+en	Halloween: The Curse of Michael Myers	9/29/1995	15116634	88
+es	Y tu mamá también	6/8/2001	33616692	106
+en	Shaun of the Dead	4/9/2004	30039392	99
+en	The Haunting of Molly Hartley	10/31/2008	0	82
+en	Lone Star	6/21/1996	13269963	135
+en	Halloween 4: The Return of Michael Myers	10/21/1988	17768757	88
+en	April Fool's Day	3/27/1986	0	89
+en	Diner	4/2/1982	0	110
+en	Lone Wolf McQuade	4/14/1983	12232628	107
+en	Apollo 18	7/20/2011	25562924	86
+en	Sunshine Cleaning	1/18/2008	16174377	102
+en	No Escape	8/26/2015	54418872	103
+en	The Beastmaster	8/20/1982	14056528	118
+en	Solomon and Sheba	12/25/1959	12200000	139
+en	Fifty Shades of Black	1/28/2016	21164799	92
+en	Not Easily Broken	1/9/2009	0	99
+en	A Farewell to Arms	12/8/1932	25	89
+en	The Perfect Match	3/11/2016	0	96
+en	Digimon: The Movie	3/17/2000	0	82
+en	Saved!	1/21/2004	0	92
+fr	Les Invasions barbares	5/21/2003	3432342	99
+en	Robin and Marian	3/11/1976	0	106
+en	The Forsaken	4/27/2001	0	90
+en	Force 10 from Navarone	11/1/1978	7230000	118
+en	UHF	7/21/1989	0	97
+en	Grandma's Boy	1/6/2006	6538177	94
+en	Slums of Beverly Hills	8/14/1998	0	91
+it	C'era una volta il West	12/21/1968	5321508	175
+en	Made	7/13/2001	5476060	94
+en	Moon	6/12/2009	9760104	97
+en	Keeping Up with the Steins	5/12/2006	0	90
+en	Sea Rex 3D: Journey to a Prehistoric World	5/14/2010	4074023	41
+en	The Sweet Hereafter	5/14/1997	3263585	112
+fr	Des hommes et des dieux	5/18/2010	41424067	120
+en	Bottle Shock	8/6/2008	4040588	110
+en	Jekyll and Hyde ... Together Again	11/10/1982	0	87
+en	Heavenly Creatures	9/2/1994	3049135	99
+en	90 Minutes in Heaven	9/11/2015	4842699	121
+en	Everything Must Go	10/15/2010	2614773	97
+en	Zero Effect	1/30/1998	1980338	116
+en	The Machinist	2/9/2004	8203235	101
+en	Light Sleeper	8/21/1992	0	103
+en	Kill the Messenger	10/9/2014	2450846	112
+en	Rabbit Hole	12/16/2010	5129058	91
+en	Party Monster	9/5/2003	742898	98
+en	Green Room	4/15/2016	3220371	95
+en	The Oh in Ohio	3/30/2006	0	88
+en	Atlas Shrugged Part III: Who is John Galt?	9/12/2014	846704	99
+en	Bottle Rocket	2/21/1996	560069	91
+en	Albino Alligator	9/9/1996	0	97
+en	Standard Operating Procedure	2/12/2008	0	117
+en	Out of the Blue	5/1/1980	0	94
+en	Tucker and Dale vs Evil	1/22/2010	5476793	89
+en	Lovely, Still	1/1/2008	0	92
+en	Tycoon	12/27/1947	0	128
+en	Desert Blue	6/6/1999	0	90
+en	Decoys	2/27/2004	0	95
+en	The Visit	9/10/2015	98450062	94
+en	Redacted	1/1/2007	782102	90
+de	Fascination	10/13/2004	0	95
+en	Area 51	5/15/2015	0	91
+es	Mientras duermes	10/14/2011	0	107
+en	The Cottage	2/7/2008	0	92
+en	Dead Like Me: Life After Death	2/17/2009	0	87
+en	Farce of the Penguins	12/1/2006	0	80
+en	Flying By	1/1/2009	0	95
+en	Rudderless	10/17/2014	0	105
+en	Henry & Me	8/18/2014	0	67
+en	Christmas Eve	12/4/2015	0	95
+en	We Have Your Husband	11/12/2011	0	89
+en	Dying of the Light	12/4/2014	0	94
+en	Born Of War	12/5/2013	0	109
+en	Capricorn One	12/10/1977	0	123
+en	Should've Been Romeo	4/28/2012	0	0
+en	Running Forever	10/27/2015	0	88
+en	Yoga Hosers	7/8/2016	0	88
+en	Navy Seals vs. Zombies	10/8/2015	0	97
+cs	Obsluhoval jsem anglického krále	12/19/2006	0	120
+de	Soul Kitchen	9/9/2009	17872796	99
+en	Sling Blade	8/30/1996	24475416	135
+en	The Awakening	8/17/2011	209696	107
+en	Hostel	1/6/2005	80578934	94
+en	A Cock and Bull Story	7/17/2005	0	94
+en	Take Shelter	11/25/2011	3099314	120
+en	Lady in White	4/22/1988	0	112
+en	Driving Lessons	4/30/2006	0	98
+en	Let's Kill Ward's Wife	12/23/2014	0	81
+en	The Texas Chainsaw Massacre 2	8/22/1986	8025872	101
+en	Pat Garrett & Billy the Kid	5/23/1973	11000000	106
+en	Only God Forgives	5/30/2013	10337387	90
+fr	Camping Sauvage	10/13/2005	0	80
+en	Without Men	6/29/2011	0	83
+en	Dear Frankie	5/18/2004	0	105
+en	All Hat	9/11/2007	0	89
+fr	Le Nom des gens	11/24/2010	0	100
+en	Treading Water	9/13/2013	0	92
+en	Savage Grace	5/18/2007	0	97
+en	Out of the Blue	10/12/2006	0	103
+en	Police Academy	3/22/1984	146198896	96
+en	The Blue Lagoon	7/5/1980	58853106	104
+en	Four Weddings and a Funeral	3/9/1994	254700832	117
+en	Fast Times at Ridgemont High	8/13/1982	27092880	90
+en	Moby Dick	6/27/1956	10400000	116
+en	25th Hour	12/16/2002	13060843	135
+en	Bound	9/13/1996	7011317	108
+en	Requiem for a Dream	10/27/2000	7390108	102
+en	State Fair	8/29/1945	0	96
+es	Tango, no me dejes nunca	2/12/1998	0	115
+en	Salvador	4/23/1986	0	123
+en	Moms' Night Out	3/25/2014	10429707	98
+en	Donnie Darko	1/18/2001	1270522	113
+en	Salvando al Soldado Perez	3/18/2011	0	105
+nl	Karakter	4/17/1997	0	122
+en	Spun	6/1/2002	0	101
+en	Life During Wartime	10/10/2009	744816	97
+fr	Nannerl, la soeur de Mozart	6/9/2010	0	120
+en	Mean Machine	12/26/2001	0	99
+en	Blackthorn	8/31/2011	623528	98
+sv	Lilja 4-Ever	8/23/2002	0	109
+en	After.Life	4/9/2010	3606395	104
+en	Fugly	6/13/2014	0	134
+en	One Flew Over the Cuckoo's Nest	11/18/1975	108981275	133
+en	R.L. Stine's Monsterville: The Cabinet of Souls	9/29/2015	0	85
+en	Silent Movie	6/17/1976	0	86
+en	Anne of Green Gables	12/1/1985	0	199
+en	Falcon Rising	9/5/2014	0	103
+en	The Sweeney	9/11/2012	6294161	112
+en	Sexy Beast	9/13/2000	0	89
+sv	Snabba Cash	1/15/2010	0	124
+en	Whale Rider	1/30/2003	41400000	101
+en	Paa	12/4/2009	0	133
+de	Cargo	9/24/2009	0	120
+en	High School Musical	1/20/2006	0	98
+en	Love and Death on Long Island	1/1/1997	0	93
+ru	?????? ?????	6/27/2004	32000000	114
+en	The Crying Game	9/2/1992	62548947	112
+en	Porky's	11/13/1981	125728258	94
+en	Survival of the Dead	5/6/2010	0	90
+en	Night of the Living Dead	10/1/1968	30000000	96
+en	Lost in Translation	8/31/2003	119723856	102
+en	Annie Hall	4/19/1977	38251425	93
+en	The Greatest Show on Earth	1/10/1952	36000000	152
+en	Monster's Ball	11/11/2001	44909486	111
+en	Maggie	5/8/2015	187112	95
+en	Leaving Las Vegas	10/27/1995	49800000	112
+en	Hansel and Gretel Get Baked	2/19/2013	0	86
+en	The Front Page	12/1/1974	0	105
+en	The Boy Next Door	1/23/2015	52425855	91
+en	Trapeze	5/30/1956	14400000	105
+en	The Kids Are All Right	7/9/2010	34705850	106
+en	They Live	11/23/1988	13008928	94
+en	The Great Escape	6/20/1963	11744471	172
+en	What the #$*! Do We (K)now!?	4/23/2004	10000000	109
+en	The Last Exorcism Part II	2/28/2013	15179302	88
+en	Boyhood	6/5/2014	44349000	164
+en	Scoop	7/27/2006	31584901	96
+en	The Wash	11/16/2001	10229331	93
+en	3 Strikes	3/1/2000	9000000	82
+en	The Cooler	1/17/2003	0	101
+en	The Misfits	1/1/1961	8200000	124
+en	The Night Listener	2/12/2006	0	91
+en	The Jerky Boys	2/3/1995	0	82
+es	El orfanato	8/27/2007	44000000	105
+en	A Haunted House 2	4/17/2014	0	87
+en	The Rules of Attraction	10/11/2002	0	110
+en	Topaz	12/18/1969	6000000	143
+en	Let's Go to Prison	11/17/2006	4630045	84
+en	Four Rooms	12/9/1995	4300000	98
+en	Secretary	1/11/2002	9304609	104
+en	The Real Cancun	4/23/2003	0	96
+en	Talk Radio	12/21/1988	3468572	110
+en	Waiting for Guffman	1/31/1996	0	84
+en	Love Stinks	9/10/1999	0	94
+en	You Kill Me	2/9/2007	2426851	90
+en	Thumbsucker	1/23/2005	1919197	96
+en	Red State	8/19/2011	1104682	88
+en	Mirrormask	1/25/2005	866999	101
+en	Samsara	9/16/2011	0	102
+en	The Barbarians	3/1/1987	0	87
+en	The Art of Getting By	6/17/2011	1406224	83
+en	Zipper	8/28/2015	0	103
+en	Poolhall Junkies	6/7/2002	0	99
+en	The Loss of Sexual Innocence	4/29/1999	0	106
+en	Holy Motors	7/2/2012	641100	115
+en	Joe	4/11/2014	2365467	118
+en	Shooting Fish	8/22/1997	302204	109
+en	Prison	3/4/1988	354704	102
+en	Psycho Beach Party	8/6/2000	0	95
+en	The Big Tease	1/1/1999	0	87
+en	Guten Tag, Ramón	10/18/2013	0	119
+en	Trust	9/10/2010	120000	104
+en	An Everlasting Piece	12/22/2000	0	103
+en	Among Giants	6/24/1998	0	93
+en	Adore	4/3/2013	318982	100
+en	The Velocity of Gary	7/16/1999	0	100
+es	Los lunes al sol	9/27/2002	146402	113
+en	Stake Land	9/30/2010	33245	98
+en	The Last Time I Committed Suicide	6/20/1997	0	92
+pt	Praia do Futuro	5/1/2014	0	106
+en	Another Happy Day	11/18/2011	355688	119
+en	A Lonely Place to Die	4/9/2011	25345000	99
+en	Nothing	9/9/2003	0	90
+ru	??????? ?????? ??????	7/26/2013	4037782	120
+en	1776	11/9/1972	0	142
+en	Inescapable	9/14/2012	0	93
+en	Hell's Angels	11/15/1930	8000000	127
+en	Purple Violets	4/30/2007	0	103
+en	The Veil	4/21/2016	0	93
+en	The Loved Ones	9/13/2009	0	84
+en	The Helpers	10/27/2012	0	78
+en	How to Fall in Love	7/21/2012	0	0
+en	The Perfect Wave	2/28/2014	0	113
+en	A Man for All Seasons	12/12/1966	28350000	120
+en	Network	11/1/1976	23689877	121
+en	Gone with the Wind	12/15/1939	400176459	238
+en	Desert Dancer	7/3/2014	0	98
+en	Major Dundee	4/7/1965	14873	123
+en	Annie Get Your Gun	5/17/1950	8000000	107
+en	Four Lions	5/7/2010	4270000	101
+pt	Casa de Areia	5/13/2005	0	115
+en	Defendor	9/12/2009	44462	101
+en	The Pirate	6/11/1948	2956000	102
+en	The Good Heart	9/11/2009	0	95
+en	The History Boys	10/2/2006	13401952	109
+en	Midnight Cowboy	5/25/1969	44785053	113
+en	The Full Monty	8/13/1997	257850122	91
+en	Airplane!	7/2/1980	83453539	88
+en	Chain of Command	8/30/2015	0	88
+en	Friday	4/26/1995	28215918	91
+en	Menace II Society	5/26/1993	27900000	97
+en	Creepshow 2	5/1/1987	14000000	92
+en	The Ballad of Cable Hogue	5/13/1970	5000000	121
+en	In Cold Blood	12/14/1967	13007551	134
+en	The Nun's Story	6/18/1959	12800000	149
+en	Harper	2/23/1966	12000000	121
+en	Frenzy	5/25/1972	12600000	116
+en	The Witch	2/19/2016	40423945	92
+en	I Got the Hook Up	5/27/1998	0	93
+en	She's the One	8/26/1996	9482579	96
+en	Gods and Monsters	1/21/1998	6451628	105
+es	El secreto de sus ojos	8/13/2009	33965843	129
+en	Train	10/16/2008	0	94
+en	Evil Dead II	3/13/1987	5923044	84
+en	Pootie Tang	6/29/2001	0	81
+en	Sharknado	7/11/2013	0	86
+es	La otra conquista	4/1/1999	0	105
+nb	Trolljegeren	10/29/2010	4159678	103
+en	Ira & Abby	1/1/2006	0	104
+en	Winter Passing	2/7/2006	113783	98
+en	D.E.B.S.	1/21/2004	0	91
+en	The Masked Saint	1/8/2016	0	111
+en	The Betrayed	9/27/2008	0	98
+en	Taxman	9/16/1999	0	104
+en	The Secret	4/29/2016	0	200
+en	2:13	4/25/2009	0	96
+en	Batman: The Dark Knight Returns, Part 2	1/18/2013	0	78
+en	Time to Choose	9/4/2015	0	100
+en	In the Name of the King III	12/27/2013	0	85
+en	Wicked Blood	3/4/2014	0	92
+en	Dawn Patrol	6/5/2015	0	86
+en	Lords of London	1/6/2014	0	90
+en	High Anxiety	12/25/1977	31063038	94
+fr	La Marche de l'empereur	1/26/2005	127392239	80
+en	Margin Call	9/28/2011	19504039	107
+en	August	6/9/2011	0	100
+en	Choke	9/26/2008	3830137	92
+en	Whiplash	10/10/2014	13092000	105
+pt	Cidade de Deus	2/5/2002	30641770	130
+en	Human Traffic	6/4/1999	4000000	99
+en	To Write Love on Her Arms	3/13/2015	0	118
+en	The Dead Girl	11/7/2006	0	85
+da	Jagten	8/28/2012	16800000	115
+en	A Christmas Story	11/18/1983	19294144	94
+en	Bella	9/9/2006	0	91
+en	Class of 1984	8/20/1982	0	98
+en	Opposite Sex	11/8/2014	45000	96
+en	Dreaming of Joseph Lees	10/29/1999	7	92
+fr	Entre les murs	9/24/2008	28814580	128
+en	Rosemary's Baby	6/12/1968	33395426	136
+en	The Man Who Shot Liberty Valance	4/22/1962	8000000	123
+en	Adam	7/29/2009	2277396	99
+es	María, llena eres de gracia	1/18/2004	0	101
+en	Beginners	9/11/2010	5332926	105
+en	Feast	10/14/2005	658573	95
+en	Animal House	7/27/1978	141000000	109
+en	Goldfinger	9/17/1964	124881062	110
+en	Antiviral	9/19/2012	0	110
+en	It's a Wonderful Life	12/20/1946	9644124	130
+en	Trainspotting	2/23/1996	16491080	93
+en	The Original Kings of Comedy	8/18/2000	0	115
+en	Paranormal Activity 2	10/20/2010	177512032	91
+en	Waking Ned	9/15/1998	0	91
+en	Bowling for Columbine	10/9/2002	35564473	120
+en	A Nightmare on Elm Street Part 2: Freddy's Revenge	10/31/1985	29999213	87
+en	A Room with a View	12/13/1985	20966644	117
+en	The Purge	5/31/2013	89328627	86
+en	Sinister	3/29/2012	77712439	110
+en	Martin Lawrence Live: Runteldat	8/1/2002	19184015	113
+en	Cat on a Hot Tin Roof	2/17/1958	17570324	108
+en	Beneath the Planet of the Apes	5/1/1970	18999718	95
+en	Air Bud	8/1/1997	23144499	98
+en	Friday the 13th Part VI: Jason Lives	8/1/1986	19472057	86
+en	The Bridge on the River Kwai	10/2/1957	33300000	161
+en	Spaced Invaders	4/27/1990	15369573	100
+en	Family Plot	4/9/1976	7900000	121
+en	The Apartment	6/15/1960	25000000	125
+en	Jason Goes to Hell: The Final Friday	8/13/1993	15938065	87
+en	Torn Curtain	7/13/1966	13000000	128
+en	Dave Chappelle's Block Party	9/12/2005	11718595	100
+en	Slow West	4/16/2015	229094	84
+en	Krush Groove	10/25/1985	0	97
+en	Next Day Air	2/6/2009	0	84
+en	Elmer Gantry	6/19/1960	10400000	146
+en	Judgment at Nuremberg	12/1/1961	10000000	186
+en	Trippin'	5/12/1999	9016377	94
+en	Red River	8/26/1948	9012000	133
+en	Phat Girlz	1/1/2006	0	99
+en	Before Midnight	4/5/2013	11176469	108
+en	Teen Wolf Too	11/20/1987	0	95
+en	Phantasm II	7/8/1988	7282851	97
+en	Woman Thou Art Loosed	9/30/2004	6804016	94
+en	Real Women Have Curves	1/1/2002	0	86
+en	Water	9/8/2005	10422387	115
+en	East Is East	5/14/1999	28200000	97
+en	Whipped	9/1/2000	0	82
+en	Kama Sutra - A Tale of Love	9/11/1996	4109095	117
+en	Please Give	1/22/2010	0	90
+en	Willy Wonka & the Chocolate Factory	6/29/1971	4000000	100
+en	Warlock: The Armageddon	5/1/1993	0	98
+en	8 Heads in a Duffel Bag	4/18/1997	0	95
+en	Days of Heaven	9/13/1978	0	94
+en	Thirteen Conversations About One Thing	9/2/2001	0	104
+en	Jawbreaker	1/30/1999	3076820	87
+en	Basquiat	8/9/1996	3011195	108
+en	Frances Ha	5/17/2013	4069826	86
+af	Tsotsi	8/18/2005	9879971	94
+en	Happiness	10/16/1998	2807390	139
+en	DysFunktional Family	4/4/2003	0	89
+en	Tusk	9/19/2014	1826705	102
+en	Letters to God	4/9/2010	0	110
+en	Hobo with a Shotgun	5/6/2011	748453	86
+es	Compadres	3/31/2016	0	101
+en	Freeway	8/23/1996	0	110
+en	Love's Abiding Joy	10/6/2006	0	87
+en	Fish Tank	5/14/2009	2357852	123
+en	Damsels in Distress	4/6/2012	0	99
+en	Creature	5/17/1998	0	176
+en	Bachelorette	8/6/2012	11947954	87
+en	Brave New Girl	4/25/2004	0	120
+en	Tim and Eric's Billion Dollar Movie	3/2/2012	0	94
+de	Sommersturm	9/2/2004	0	98
+en	Fort McCoy	1/1/2014	0	0
+en	Chain Letter	10/1/2010	0	96
+en	Just Looking	10/21/1999	0	97
+en	The Divide	3/13/2011	22000	112
+en	The Eclipse	4/24/2009	0	88
+en	Demonic	2/12/2015	3387000	83
+en	My Big Fat Independent Movie	3/4/2005	0	80
+en	The Deported	6/15/2010	0	90
+en	Tanner Hall	9/14/2009	0	96
+en	Open Road	4/12/2013	0	85
+en	They Came Together	6/27/2014	0	84
+en	30 Nights of Paranormal Activity With the Devil Inside the Girl With the Dragon Tattoo	1/14/2013	0	80
+en	Never Back Down 2: The Beatdown	9/13/2011	0	90
+en	Point Blank	8/30/1967	3200000	92
+en	Four Single Fathers	1/15/2009	0	100
+en	Enter the Dangerous Mind	3/11/2013	0	88
+en	Something Wicked	4/4/2014	0	95
+en	AWOL-72	8/7/2015	0	79
+en	Iguana	4/1/1988	0	88
+en	Chicago Overcoat	10/10/2009	0	95
+en	Barry Munday	3/13/2010	0	95
+pt	Central do Brasil	1/16/1998	5596708	113
+en	Pocketful of Miracles	12/18/1961	5000000	136
+en	Close Range	12/11/2015	0	80
+en	Boynton Beach Club	8/5/2005	0	105
+en	Amnesiac	8/14/2015	0	90
+en	Freakonomics	10/1/2010	103735	93
+fr	Haute tension	6/18/2003	0	91
+en	Griff the Invisible	8/19/2011	0	93
+en	Unnatural	10/16/2015	0	89
+en	Hustle & Flow	7/22/2005	23563727	116
+en	Some Like It Hot	3/18/1959	25000000	122
+en	Friday the 13th Part VII: The New Blood	5/13/1988	19170001	88
+en	The Wizard of Oz	8/15/1939	33754967	102
+en	Young Frankenstein	12/15/1974	86273333	106
+en	Diary of the Dead	9/8/2007	5364858	95
+en	Lage Raho Munna Bhai	1/1/2006	0	144
+en	Ulee's Gold	6/13/1997	0	112
+en	The Black Stallion	10/17/1979	37799643	118
+en	Sardaarji	6/26/2015	0	0
+en	Rejsen til Saturn	9/26/2008	0	90
+en	Donovan's Reef	6/12/1963	6600000	109
+nl	De jurk	3/21/1996	0	103
+en	A Guy Named Joe	3/1/1944	5363000	120
+en	Blazing Saddles	2/7/1974	119500000	93
+en	Friday the 13th: The Final Chapter	4/13/1984	32980880	91
+pl	Ida	10/25/2013	10700000	80
+en	Maurice	9/18/1987	0	134
+en	Beer League	9/15/2006	0	86
+en	Riding Giants	7/9/2004	3166000	105
+es	Los cronocrímenes	9/20/2007	553198	92
+en	Timber Falls	12/7/2007	0	97
+en	Singin' in the Rain	4/10/1952	7200000	103
+en	Fat, Sick & Nearly Dead	4/16/2010	0	97
+en	A Haunted House	1/11/2013	60141683	86
+en	2016: Obama's America	7/13/2012	33400000	87
+en	That Thing You Do!	10/4/1996	34585416	108
+en	Halloween III: Season of the Witch	10/22/1982	14400000	98
+en	Escape from the Planet of the Apes	5/20/1971	12348905	98
+en	Hud	5/29/1963	10000000	112
+en	Kevin Hart: Let Me Explain	7/3/2013	32230907	74
+en	My Own Private Idaho	10/17/1991	0	104
+en	Garden State	7/28/2004	26781723	102
+en	Before Sunrise	1/27/1995	5535405	105
+fr	Sur le seuil	10/3/2003	0	100
+en	Jesus' Son	9/5/1999	0	107
+en	Saving Face	9/12/2004	0	91
+en	Brick Lane	11/16/2007	0	102
+en	Robot & Frank	8/16/2012	3325038	85
+en	My Life Without Me	3/7/2003	9726954	106
+en	The Spectacular Now	8/2/2013	6854611	95
+en	Religulous	10/1/2008	0	101
+en	Fuel	11/14/2008	0	90
+en	Valley of the Heart's Delight	4/24/2006	0	100
+en	Eye of the Dolphin	8/24/2007	71904	100
+en	8: The Mormon Proposition	1/1/2010	0	80
+en	The Other End of the Line	10/29/2008	0	106
+de	Anatomie	2/3/2000	0	103
+en	Sleep Dealer	12/10/2008	107559	90
+en	Super	9/9/2010	324138	96
+en	Christmas Mail	12/1/2010	0	89
+de	Stung	7/3/2015	0	87
+en	Antibirth	9/2/2016	0	94
+en	Get on the Bus	10/16/1996	5731103	120
+en	Thr3e	12/1/2006	0	101
+en	Idiocracy	9/1/2006	495303	84
+en	The Rise of the Krays	8/29/2015	0	110
+en	This Is England	9/12/2006	8176544	101
+en	U.F.O.	12/14/2012	0	101
+en	Bathing Beauty	7/1/1944	6892000	101
+en	Go for It!	5/13/2011	0	105
+en	Dancer, Texas Pop. 81	5/1/1998	565592	97
+en	Show Boat	7/13/1951	11000000	107
+en	Redemption Road	8/26/2011	0	91
+en	The Calling	8/5/2014	0	108
+en	The Brave Little Toaster	7/9/1987	0	90
+en	Fantasia	11/13/1940	83320000	124
+en	8 Days	6/15/2014	0	90
+en	Friday the 13th Part III	8/13/1982	36690067	95
+en	Friday the 13th: A New Beginning	3/22/1985	21930418	92
+en	The Last Sin Eater	2/9/2007	0	117
+en	Do You Believe?	3/20/2015	0	115
+en	Impact Point	6/13/2008	0	90
+en	The Valley of Decision	6/1/1945	9132000	119
+en	Eden	10/22/2015	0	97
+en	Chicken Tikka Masala	4/22/2005	0	90
+en	There's Always Woodstock	11/14/2014	0	90
+en	Jack Brooks: Monster Slayer	10/9/2007	0	85
+en	The Best Years of Our Lives	12/25/1946	23650000	172
+en	Bully	6/15/2001	480811	113
+en	Elling	3/16/2001	0	89
+en	Mi America	10/16/2015	3330	126
+es	[REC]	4/10/2007	30448000	78
+en	Lies in Plain Sight	10/3/2010	0	88
+en	Sharkskin	1/1/2015	0	0
+en	Containment	7/9/2015	0	77
+de	The Timber	2/27/2015	0	81
+en	From Russia with Love	10/11/1963	78898765	115
+en	The Toxic Avenger Part II	2/24/1989	0	96
+en	Sleeper	12/17/1973	18344729	89
+en	It Follows	2/4/2015	14674076	100
+en	Everything You Always Wanted to Know About Sex *But Were Afraid to Ask	8/6/1972	18016290	88
+en	To Kill a Mockingbird	12/25/1962	13129846	129
+en	Mad Max 2	12/24/1981	24600832	95
+en	Boys Don't Cry	9/2/1999	11540607	118
+en	Silent House	1/21/2011	13101672	85
+de	Das Leben der Anderen	3/15/2006	70000000	137
+en	Courageous	9/30/2011	34522221	129
+en	The Hustler	9/25/1961	7600000	134
+en	Boom Town	8/30/1940	9172000	119
+fr	Les triplettes de Belleville	6/11/2003	1477676	80
+en	Smoke Signals	1/16/1998	0	89
+en	American Splendor	8/15/2003	6003587	101
+en	Before Sunset	2/10/2004	15992615	80
+es	Amores perros	6/16/2000	20908467	154
+en	Thirteen	8/20/2003	4601043	100
+en	Gentleman's Agreement	11/11/1947	7800000	118
+en	Winter's Bone	6/11/2010	13831503	100
+en	Touching the Void	9/5/2003	13885802	106
+en	Alexander's Ragtime Band	5/24/1938	4000000	106
+en	Me and You and Everyone We Know	6/17/2005	0	90
+en	Inside Job	10/8/2010	7871522	109
+en	We Are Your Friends	8/26/2015	11122090	96
+en	Ghost Dog: The Way of the Samurai	9/13/1999	0	116
+en	Harsh Times	9/11/2005	5967038	120
+en	Captive	9/17/2015	2801508	97
+en	Full Frontal	8/2/2002	2506446	96
+en	Witchboard	12/31/1986	0	98
+en	Shortbus	5/20/2006	5179037	101
+he	Vals Im Bashir	6/25/2008	11125849	90
+en	The Book of Mormon Movie, Volume 1: The Journey	9/12/2003	1672730	120
+en	No End in Sight	7/27/2007	1431623	102
+en	The Diary of a Teenage Girl	8/7/2015	1477002	98
+en	In the Shadow of the Moon	1/19/2007	0	109
+en	Meek's Cutoff	9/5/2010	876302	104
+en	Inside Deep Throat	2/11/2005	653621	92
+en	Dinner Rush	9/1/2000	0	99
+en	Clockwatchers	1/1/1997	0	96
+en	The Virginity Hit	9/10/2010	563706	120
+fr	Subway	4/10/1985	390659	104
+en	House of D	4/15/2005	0	97
+en	Teeth	1/19/2007	0	94
+en	Six-String Samurai	9/18/1998	124494	91
+en	Hum To Mohabbat Karega	5/26/2000	0	0
+en	It's All Gone Pete Tong	9/12/2004	120620	90
+en	Saint John of Las Vegas	6/10/2009	111731	84
+en	24 7: Twenty Four Seven	8/31/1997	0	96
+en	Stonewall	9/18/2015	187674	129
+en	Roadside Romeo	10/24/2008	1100000	93
+en	This Thing of Ours	1/1/2005	0	100
+en	The Lost Medallion: The Adventures of Billy Stone	3/1/2013	0	97
+en	The Last Five Years	11/3/2014	0	94
+en	The Missing Person	1/16/2009	0	95
+en	Return of the Living Dead 3	10/1/1993	54207	97
+en	London	2/10/2005	0	92
+en	Sherrybaby	9/8/2006	622806	96
+en	Circle	10/2/2015	0	87
+en	Eden Lake	9/12/2008	3983997	91
+en	Plush	9/13/2013	0	98
+en	Lesbian Vampire Killers	3/16/2009	0	86
+en	Jerusalema	2/11/2008	0	120
+en	Freeze Frame	5/1/2004	0	99
+en	Grave Encounters	9/9/2011	0	92
+en	Stitches	5/19/2012	95000	86
+en	Nine Dead	1/1/2010	0	98
+en	To Be Frank, Sinatra at 100	12/12/2015	0	
+en	Bananas	4/28/1971	11833696	82
+en	$upercapitalist	8/10/2012	0	103
+en	Rockaway	7/7/2007	0	76
+en	The Lady from Shanghai	12/24/1947	0	87
+en	No Man's Land: The Rise of Reeker	5/1/2008	0	88
+en	Highway	1/1/2002	0	97
+en	Small Apartments	3/10/2012	0	96
+en	Coffee Town	7/9/2013	0	87
+en	The Ghastly Love of Johnny X	4/26/2013	0	106
+en	All Is Bright	9/10/2013	0	107
+de	Die Schlangengrube und das Pendel	10/5/1967	0	85
+en	Straight A's	1/16/2013	0	88
+en	A Funny Thing Happened on the Way to the Forum	10/16/1966	0	99
+en	Slacker Uprising	9/27/2007	0	102
+en	The Legend of Hell's Gate: An American Conspiracy	3/3/2011	0	108
+en	Walking with the Dead	3/20/2015	0	90
+en	The Curse of Downers Grove	8/21/2015	0	89
+en	Shark Lake	10/2/2015	0	92
+en	River's Edge	8/27/1986	0	99
+en	Northfork	1/1/2003	0	103
+en	The Marine 4: Moving Target	4/10/2015	0	90
+en	Buried	9/24/2010	19152480	94
+en	Submarine	3/18/2011	864659	97
+ar	The Square	6/7/2013	0	88
+fr	Chacun sa nuit	7/21/2006	0	95
+en	Man on Wire	7/25/2008	2957978	94
+en	Abandoned	8/30/2015	0	82
+en	Brotherly Love	4/24/2015	0	89
+en	The Last Exorcism	8/27/2010	67738090	87
+en	Nowhere Boy	12/25/2009	0	98
+en	A Streetcar Named Desire	9/18/1951	8000000	125
+en	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	1/29/1964	9440272	95
+es	El Crimen del Padre Amaro	10/1/2002	0	118
+en	Beasts of the Southern Wild	6/29/2012	21107746	93
+en	Battle for the Planet of the Apes	6/15/1973	8844595	93
+en	Songcatcher	3/1/2001	0	109
+en	Higher Ground	8/26/2011	841733	109
+ta	????	8/14/2015	0	155
+en	The Greatest Movie Ever Sold	4/22/2011	621951	87
+en	Ed and His Dead Mother	6/4/1993	0	93
+en	Travellers and Magicians	9/9/2003	0	108
+en	Hang 'em High	7/31/1968	6800000	114
+en	Deadline - U.S.A.	3/14/1952	0	87
+en	Sublime	6/15/2007	0	113
+en	A Beginner's Guide to Snuff	3/4/2016	0	87
+en	Independence Daysaster	6/27/2013	0	86
+en	Dysfunctional Friends	2/3/2012	0	101
+de	Lola rennt	8/20/1998	7267585	81
+en	May	1/13/2002	150277	93
+en	Against the Wild	12/29/2013	0	90
+es	La misma luna	3/20/2008	23311391	106
+en	Conquest of the Planet of the Apes	6/29/1972	9700000	88
+en	In the Bedroom	11/23/2001	0	130
+en	I Spit on Your Grave	6/17/2010	572809	108
+en	Happy, Texas	12/3/1999	1943649	98
+en	My Summer of Love	8/20/2004	0	86
+en	Yes	8/5/2005	0	100
+en	You Can't Take It With You	8/23/1938	7433101	126
+en	From Here to Eternity	8/4/1953	30500000	118
+en	She Wore a Yellow Ribbon	10/22/1949	5400000	103
+en	Grace Unplugged	10/4/2013	0	102
+en	Foolish	4/9/1999	6033999	84
+en	N-Secure	10/15/2010	2592808	0
+ar	??? ????	7/1/2007	0	96
+en	Out of the Dark	8/27/2014	0	92
+he	Ha-Buah	6/6/2006	0	114
+en	The Conversation	4/7/1974	4420000	113
+fr	La sirène du Mississipi	6/18/1969	0	123
+en	I Love Your Work	10/5/2003	0	111
+en	Cabin Fever	2/12/2016	0	99
+en	Waitress	5/25/2007	22179430	108
+en	Bloodsport	2/26/1988	11806119	92
+en	Mr. Smith Goes to Washington	10/19/1939	9600000	129
+en	Kids	7/28/1995	7412216	91
+en	The Squid and the Whale	10/5/2005	11098131	81
+en	Kissing Jessica Stein	4/21/2001	10013424	97
+en	Kickboxer: Vengeance	7/14/2016	0	90
+en	Spellbound	12/28/1945	7000000	111
+en	Exotica	9/24/1994	0	103
+en	Buffalo '66	1/20/1998	2375097	110
+en	Insidious	9/13/2010	97009150	103
+en	Repo Man	2/20/1984	2300000	92
+es	Nueve Reinas	8/31/2000	0	114
+en	The Gatekeepers	7/9/2012	0	101
+en	The Ballad of Jack and Rose	3/25/2005	712294	111
+en	The To Do List	7/24/2013	3566225	104
+en	Killing Zoe	10/1/1993	418961	96
+en	The Believer	1/19/2001	416925	98
+en	Snow Angels	3/7/2008	414404	106
+en	Unsullied	8/28/2015	0	93
+en	Session 9	8/10/2001	373967	100
+en	I Want Someone to Eat Cheese With	1/1/2006	0	80
+en	Mooz-lum	2/11/2011	330048	95
+en	Hatchet	4/27/2006	0	83
+en	Modern Times	2/5/1936	8500000	87
+en	Stolen Summer	3/22/2002	0	91
+en	My Name Is Bruce	10/1/2007	173066	86
+en	The Salon	1/13/2005	0	0
+en	Road Hard	3/6/2015	0	97
+en	Forty Shades of Blue	12/7/2005	0	108
+en	Amigo	7/14/2010	0	128
+en	Pontypool	3/6/2009	32000	93
+en	Trucker	4/24/2008	0	90
+en	Me You and Five Bucks	7/7/2015	0	90
+en	The Lords of Salem	9/10/2012	1165882	101
+en	Housebound	9/4/2014	0	109
+en	Wal-Mart: The High Cost of Low Price	11/4/2005	0	98
+en	Fetching Cody	10/1/2005	0	87
+en	Last I Heard	1/1/2013	0	98
+en	Closer to the Moon	11/29/2013	0	112
+en	Mutant World	9/27/2014	1500000	85
+en	Growing Up Smith	2/3/2017	0	102
+en	Checkmate	7/3/2015	0	102
+de	#Horror	11/20/2015	0	90
+en	Wind Walkers	1/28/2016	0	93
+en	Snow White and the Seven Dwarfs	12/20/1937	184925486	83
+es	La niña santa	5/6/2004	0	106
+en	Shalako	11/6/1968	2620000	113
+en	Incident at Loch Ness	12/17/2004	0	94
+en	The Dog Lover	7/8/2016	0	101
+en	GirlHouse	10/16/2014	0	100
+fr	La chambre bleue	5/16/2014	0	75
+en	House at the End of the Drive	1/11/2014	0	91
+en	Batman	7/30/1966	0	105
+en	Lock, Stock and Two Smoking Barrels	3/5/1998	3897569	105
+en	The Ballad of Gregorio Cortez	8/19/1983	0	104
+da	Festen	5/20/1998	0	105
+en	Trees Lounge	10/11/1996	0	95
+vi	Vu?t Sóng	2/22/2006	639000	135
+en	The Basket	5/5/2000	619042	105
+en	Eddie: The Sleepwalking Cannibal	4/22/2012	1632	79
+ky	Kurmanjan Datka. Queen of the Mountains	8/22/2014	0	135
+en	Def-Con 4	3/15/1985	0	88
+en	The Hebrew Hammer	1/1/2003	0	85
+en	Neal 'n' Nikki	12/9/2005	0	122
+en	The 41–Year–Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It	6/8/2010	0	82
+en	Forget Me Not	10/22/2009	0	103
+en	Rebecca	4/12/1940	6000000	130
+en	Friday the 13th Part 2	5/1/1981	21722776	87
+en	The Lost Weekend	11/25/1945	11000000	101
+en	C.H.U.D.	8/31/1984	3412497	88
+en	Filly Brown	4/19/2013	0	100
+en	The Lion of Judah	6/3/2011	0	87
+en	Niagara	1/21/1953	8500000	92
+en	How Green Was My Valley	10/28/1941	6000000	118
+en	Da Sweet Blood of Jesus	6/22/2014	0	123
+en	Sex, Lies, and Videotape	8/18/1989	0	100
+en	Saw	10/1/2004	103911669	103
+en	Super Troopers	1/18/2001	18492362	100
+en	The Algerian	8/7/2015	0	99
+es	Los insólitos peces gato	8/10/2013	0	87
+en	You Can Count on Me	11/17/2000	0	111
+en	The Trouble with Harry	10/3/1955	7000000	99
+en	But I'm a Cheerleader	9/12/1999	0	85
+en	Home Run	4/19/2013	2861020	114
+en	Reservoir Dogs	9/2/1992	14661007	99
+en	The Blue Bird	1/19/1940	0	88
+it	Il buono, il brutto, il cattivo	12/23/1966	6000000	161
+pt	Que Horas Ela Volta?	2/8/2015	0	110
+en	Blue Like Jazz	4/13/2012	0	106
+en	Down & Out With The Dolls	3/20/2003	0	88
+en	Pink Ribbons, Inc.	9/11/2011	25000	97
+en	Certifiably Jonathan	3/1/2007	0	85
+fr	Q	9/14/2011	0	103
+en	La Navaja De Don Juan	10/27/2013	0	98
+en	Grand Theft Parsons	6/18/2003	0	88
+en	Extreme Movie	12/5/2008	0	88
+en	The Charge of the Light Brigade	10/20/1936	2736000	115
+en	Below Zero	10/22/2011	0	0
+en	Crowsnest	1/1/2012	0	84
+en	Airborne	9/17/1993	2850263	91
+en	Cotton Comes to Harlem	5/27/1970	0	97
+en	The Wicked Within	10/16/2015	0	91
+en	Bleeding Hearts	6/1/2013	0	0
+en	Waiting...	10/7/2005	18637690	94
+en	Dead Man's Shoes	9/29/2004	0	90
+en	From a Whisper to a Scream	9/25/1987	1400000	99
+en	Sex With Strangers	2/22/2002	0	0
+en	Dracula: Pages from a Virgin's Diary	2/28/2002	0	75
+en	Faith Like Potatoes	10/27/2006	0	97
+en	Beyond the Black Rainbow	12/3/2010	0	110
+id	Serbuan maut	9/8/2011	4105187	101
+en	The Dead Undead	5/13/2010	0	90
+en	The Vatican Exorcisms	5/29/2013	0	0
+en	Casablanca	11/26/1942	10462500	102
+en	Lake Mungo	6/17/2008	0	84
+en	Silent Running	3/9/1972	0	89
+en	Rocky	11/21/1976	117235147	119
+en	The Sleepwalker	1/20/2014	0	92
+en	Tom Jones	10/6/1963	37600000	128
+en	Unfriended	4/17/2015	62882090	82
+en	Taxi Driver	2/7/1976	28262574	114
+en	The Howling	4/3/1981	17985893	91
+en	Dr. No	10/4/1962	59600000	110
+en	Chernobyl Diaries	5/24/2012	18112929	88
+en	Hellraiser	9/11/1987	14564027	94
+en	God's Not Dead 2	4/1/2016	23507567	121
+en	Cry_Wolf	9/16/2005	10047674	90
+en	Blue Valentine	12/27/2010	16566240	112
+en	Transamerica	12/23/2005	13350369	103
+en	The Devil Inside	1/6/2012	101758490	83
+en	Beyond the Valley of the Dolls	7/17/1970	40000000	109
+en	Love Me Tender	11/15/1956	9000000	89
+en	An Inconvenient Truth	1/24/2006	46243000	100
+en	Sands of Iwo Jima	12/14/1949	7800000	100
+en	Shine a Light	2/7/2008	0	122
+en	The Green Inferno	9/4/2014	6833445	100
+en	Departure	5/20/2016	0	109
+en	The Sessions	5/2/2012	9138338	98
+en	Food, Inc.	9/7/2008	0	94
+en	October Baby	10/30/2011	5355847	107
+en	Next Stop Wonderland	8/21/1998	0	96
+en	The Skeleton Twins	1/18/2014	5284309	90
+en	Martha Marcy May Marlene	10/21/2011	3538446	101
+en	Obvious Child	6/6/2014	3123963	83
+en	Frozen River	8/1/2008	0	97
+en	20 Feet from Stardom	6/14/2013	0	89
+en	Two Girls and a Guy	9/7/1997	2057193	84
+en	Walking and Talking	7/17/1996	0	86
+en	Who Killed the Electric Car?	8/4/2006	1678874	92
+en	The Broken Hearts Club: A Romantic Comedy	2/1/2000	1744858	94
+en	Bubba Ho-tep	6/9/2002	0	92
+en	Slam	10/7/1998	0	100
+en	Brigham City	3/30/2001	852206	119
+en	Orgazmo	9/6/1997	0	94
+en	All the Real Girls	8/1/2003	0	108
+en	Dream with the Fishes	1/1/1997	0	97
+en	Blue Car	1/11/2002	464000	92
+en	Palo Alto	5/9/2014	0	100
+he	Ajami	9/17/2009	0	120
+en	Wristcutters: A Love Story	1/24/2006	0	88
+en	I Origins	7/18/2014	336472	106
+en	The Battle of Shaker Heights	8/22/2003	0	79
+id	Jagal	8/31/2012	444575	115
+en	Taxi to the Dark Side	4/30/2007	274661	106
+en	Once in a Lifetime: The Extraordinary Story of the New York Cosmos	1/1/2006	0	97
+en	Guiana 1838	9/24/2004	0	120
+en	Lisa Picard Is Famous	5/14/2000	0	90
+en	Antarctica: A Year on Ice	9/5/2013	0	92
+en	A LEGO Brickumentary	7/31/2015	0	93
+en	Hardflip	6/1/2012	0	114
+en	Chocolate: Deep Dark Secrets	9/16/2005	0	200
+en	The House of the Devil	4/25/2009	0	95
+en	The Perfect Host	7/1/2010	14870	93
+en	Safe Men	8/17/1998	0	88
+en	Speedway Junky	2/11/1999	0	104
+en	The Last Big Thing	9/23/1998	0	98
+en	The Specials	9/22/2000	0	82
+en	16 to Life	9/19/2009	0	118
+en	Alone With Her	4/28/2006	10018	78
+en	Creative Control	3/11/2016	0	97
+en	Special	1/30/2006	7202	81
+en	Sparkler	3/19/1999	0	96
+en	The Helix... Loaded	1/1/2005	0	97
+en	In Her Line of Fire	4/21/2006	0	88
+en	The Jimmy Show	1/16/2002	0	96
+es	Heli	8/9/2013	0	105
+en	Karachi se Lahore	7/31/2015	0	0
+en	Loving Annabelle	3/8/2006	0	76
+en	Hits	1/21/2014	0	96
+en	Jimmy and Judy	1/1/2006	0	99
+en	Frat Party	1/1/2009	0	84
+en	The Party's Over	4/22/1965	0	94
+en	Proud	7/2/2004	0	87
+en	The Poker House	6/20/2008	0	93
+en	Childless	4/3/2015	0	90
+en	ZMD: Zombies of Mass Destruction	1/1/2009	0	92
+en	Snow White: A Deadly Summer	3/16/2012	0	85
+es	A escondidas	10/3/2014	0	96
+de	My Last Day Without You	6/11/2011	0	90
+en	Steppin: The Movie	5/19/2009	0	85
+en	Doc Holliday's Revenge	6/1/2014	0	84
+en	Black Rock	1/21/2012	0	83
+en	Truth or Dare	8/5/2012	0	95
+en	The Pet	5/17/2006	0	94
+en	Bang Bang Baby	9/8/2014	0	90
+en	Fear Clinic	10/31/2014	0	95
+en	Zombie Hunter	7/25/2013	0	93
+en	A Fine Step	4/16/2014	0	90
+en	Charly	9/23/1968	814666	103
+en	Banshee Chapter	8/26/2013	0	87
+en	Ask Me Anything	4/19/2014	0	100
+en	And Then Came Love	1/1/2007	0	90
+de	Food Chains	4/26/2014	0	83
+en	On the Waterfront	6/22/1954	9600000	108
+en	L!fe Happens	6/18/2011	30905	100
+ro	4 luni, 3 saptamîni ?i 2 zile	8/24/2007	1185783	113
+en	The Horror Network Vol. 1	10/27/2015	0	0
+en	Hard Candy	1/14/2005	7022209	103
+en	The Quiet	9/12/2005	381420	96
+fa	Circumstance	8/26/2011	0	107
+en	Fruitvale Station	7/25/2013	17385830	85
+en	The Brass Teapot	9/8/2012	0	100
+en	Bambi	8/14/1942	267447150	70
+en	The Hammer	4/1/2007	0	88
+en	Latter Days	7/10/2003	819939	107
+fr	Le bonheur d'Elza	4/11/2011	0	78
+en	1982	12/31/2013	0	90
+en	For a Good Time, Call...	8/31/2012	1243961	85
+en	Celeste & Jesse Forever	8/3/2012	3094813	91
+en	Time Changer	10/25/2002	0	95
+en	London to Brighton	12/1/2006	0	85
+en	American Hero	12/11/2015	0	86
+en	Windsor Drive	6/26/2015	0	90
+fa	????? ???? ?? ?????	3/15/2011	0	123
+en	Crying with Laughter	6/1/2009	0	93
+en	Welcome to the Dollhouse	5/24/1995	0	88
+en	Ruby in Paradise	10/8/1993	1001437	114
+en	Raising Victor Vargas	5/16/2002	2816116	88
+de	Die Büchse der Pandora	1/30/1929	0	109
+en	Harrison Montgomery	1/1/2008	0	0
+en	Cama adentro	9/21/2004	0	83
+en	Deterrence	3/10/2000	0	101
+en	The Mudge Boy	1/17/2003	62852	94
+en	The Young Unknowns	3/12/2000	0	87
+en	Not Cool	9/23/2014	0	90
+no	Død snø	1/9/2009	1984662	91
+en	Saints and Soldiers	9/11/2003	0	90
+en	Vessel	10/28/2012	0	14
+en	American Graffiti	8/1/1973	140000000	110
+en	Iraq for Sale: The War Profiteers	1/1/2006	0	75
+en	Aqua Teen Hunger Force Colon Movie Film for Theaters	4/13/2007	0	86
+en	Safety Not Guaranteed	6/8/2012	4007792	85
+en	Kevin Hart: Laugh at My Pain	9/9/2011	0	89
+en	Kill List	9/2/2011	171760	95
+en	The Innkeepers	12/1/2011	78396	102
+it	Il conformista	10/21/1970	0	107
+en	Interview with the Assassin	5/9/2002	0	88
+en	Donkey Punch	7/18/2008	0	99
+en	All the Boys Love Mandy Lane	2/15/2008	0	90
+en	Bled	1/1/2008	0	95
+en	High Noon	3/27/1952	8000000	85
+en	Hoop Dreams	9/12/1994	7830611	171
+en	Rize	1/15/2005	0	86
+en	L.I.E. Long Island Expressway	1/20/2001	1667192	97
+en	The Sisterhood of Night	4/10/2015	0	104
+en	B-Girl	7/29/2009	0	84
+en	Half Nelson	8/11/2006	4911725	107
+en	Naturally Native	10/8/1999	10508	107
+en	Hav Plenty	9/11/1997	0	92
+en	Adulterers	1/5/2016	0	80
+en	Escape from Tomorrow	10/11/2013	0	90
+en	Starsuckers	9/30/2009	0	103
+en	The Hadza:  Last of the First	10/31/2014	0	70
+en	After	8/27/2012	0	90
+en	Treachery	5/16/2013	0	68
+en	Walter	3/13/2015	0	87
+en	Top Hat	9/6/1935	3202000	101
+en	The Blair Witch Project	7/14/1999	248000000	81
+en	Woodstock	3/26/1970	34505110	225
+en	The Kentucky Fried Movie	8/10/1977	0	83
+en	Mercy Streets	10/31/2000	0	106
+en	Arnolds Park	7/20/2007	0	103
+en	Broken Vessels	4/18/1998	0	90
+en	Water & Power	5/2/2014	0	0
+fr	They Will Have to Kill Us First	10/13/2015	0	105
+en	Light from the Darkroom	1/1/2014	0	0
+fr	Médecin de campagne	3/23/2016	0	102
+en	The Maid's Room	8/8/2014	0	98
+en	A Hard Day's Night	7/6/1964	12299668	88
+en	The Harvest (La Cosecha)	7/29/2011	0	80
+en	Love Letters	4/1/1983	0	98
+sl	Julija in Alfa Romeo	9/17/2015	0	83
+en	Fireproof	9/26/2008	33456317	122
+en	Benji	10/17/1974	0	86
+en	Open Water	8/6/2004	54667954	79
+en	High Road	3/6/2012	0	87
+en	Kingdom of the Spiders	8/24/1977	17000000	97
+en	Mad Hot Ballroom	5/13/2005	0	105
+en	The Station Agent	1/26/2003	8679814	88
+en	To Save A Life	11/5/2009	0	120
+en	Wordplay	6/26/2006	0	94
+en	Beyond the Mat	10/22/1999	500000	102
+en	The Singles Ward	1/30/2002	0	102
+ps	Osama	5/20/2003	0	83
+en	Sholem Aleichem: Laughing In The Darkness	2/24/2012	845188	93
+en	Groove	6/8/2000	0	86
+en	The R.M.	1/31/2003	0	101
+en	Twin Falls Idaho	7/30/1999	0	111
+en	Mean Creek	1/15/2004	603943	90
+en	Hurricane Streets	1/21/1997	0	86
+en	Never Again	7/12/2002	0	98
+en	Civil Brand	8/29/2003	0	95
+en	Lonesome Jim	11/16/2005	0	91
+en	Drinking Buddies	8/23/2013	343341	90
+en	Deceptive Practice: The Mysteries and Mentors of Ricky Jay	10/4/2012	0	88
+en	Kita svajoniu komanda	9/28/2012	0	89
+en	Johnny Suede	8/18/1991	0	97
+en	Finishing The Game	1/21/2007	0	84
+en	Rubber	7/9/2010	98017	85
+en	Kiss the Bride	1/1/2007	0	100
+en	The Slaughter Rule	1/1/2002	0	112
+en	Monsters	6/18/2010	4242978	94
+en	The Californians	10/21/2005	0	91
+en	The Living Wake	1/1/2007	0	91
+en	Detention of the Dead	4/27/2012	0	87
+en	Scott Walker: 30 Century Man	10/31/2006	0	95
+en	Everything Put Together	11/2/2001	0	87
+en	Good Kill	4/9/2015	316472	104
+en	The Outrageous Sophie Tucker	5/2/2014	0	96
+en	Now Is Good	5/25/2012	0	103
+en	Girls Gone Dead	3/28/2012	0	104
+en	America Is Still the Place		0	0
+en	Subconscious	3/10/2015	0	110
+en	Enter Nowhere	10/22/2011	0	90
+en	El Rey de Najayo	3/1/2012	0	101
+en	Fight to the Finish	2/2/2016	0	94
+en	Alleluia! The Devil's Carnival	3/29/2016	0	0
+en	The Sound and the Shadow	10/19/2014	0	90
+en	Rodeo Girl	1/5/2016	0	108
+en	Born to Fly: Elizabeth Streb vs. Gravity	3/8/2014	0	82
+en	The Little Ponderosa Zoo	9/11/2014	0	84
+en	The Toxic Avenger	5/1/1984	0	82
+en	Straight Out of Brooklyn	6/13/1991	0	0
+en	Bloody Sunday	1/16/2002	773228	107
+en	Diamond Ruff	1/1/2015	0	0
+en	Conversations with Other Women	6/7/2006	973525	84
+en	Poultrygeist: Night of the Chicken Dead	12/26/2006	0	103
+en	Mutual Friends	4/15/2014	0	0
+en	42nd Street	2/2/1933	2281000	89
+en	Rise of the Entrepreneur: The Search for a Better Way	11/20/2014	0	0
+en	Metropolitan	8/3/1990	0	98
+sv	Så som i himmelen	9/3/2004	0	132
+en	Roadside	3/1/2013	0	90
+en	Napoleon Dynamite	6/11/2004	46118097	95
+en	Blue Ruin	4/25/2014	258384	90
+en	Paranormal Activity	9/14/2007	193355800	86
+en	Dogtown and Z-Boys	1/18/2001	0	91
+en	Monty Python and the Holy Grail	3/13/1975	5028948	91
+it	Quinceañera	6/5/2006	0	90
+en	Gory Gory Hallelujah	11/5/2003	0	0
+en	Tarnation	10/19/2003	1162014	91
+en	I Want Your Money	7/6/2010	0	92
+en	Love in the Time of Monsters	3/8/2014	0	0
+it	...E tu vivrai nel terrore! L'aldilà	4/22/1981	0	87
+da	What Happens in Vegas	5/7/2008	170000000	99
+en	The Dark Hours	3/11/2005	0	80
+en	My Beautiful Laundrette	9/7/1985	2451545	97
+en	Fabled	1/1/2002	0	84
+en	Show Me	9/23/2004	0	97
+sv	Viskningar och rop	12/21/1972	0	91
+en	Intolerance	9/4/1916	8394751	197
+en	Trekkies	10/18/1997	0	86
+en	The Broadway Melody	2/8/1929	4358000	100
+en	The Evil Dead	10/15/1981	29400000	85
+en	Maniac	12/26/2012	31081	89
+en	Censored Voices	1/24/2015	0	84
+en	Murderball	7/22/2005	1750211	88
+en	American Ninja 2: The Confrontation	5/1/1987	0	90
+en	51 Birch Street	10/18/2006	0	90
+en	Rotor DR1	10/20/2015	0	98
+en	12 Angry Men	3/25/1957	1000000	96
+en	My Dog Tulip	1/1/2009	246574	83
+en	It Happened One Night	2/22/1934	4500000	105
+el	????d??ta?	6/1/2009	110197	94
+en	Tupac: Resurrection	1/23/2003	7808524	112
+en	Tumbleweeds	11/28/1999	1281176	102
+en	The Prophecy	9/1/1995	16	98
+fr	Chacun Cherche Son Chat	4/3/1996	0	91
+en	Pieces of April	1/19/2003	0	81
+en	The Big Swap	6/11/1998	0	0
+en	Old Joy	1/1/2006	0	73
+en	Wendy and Lucy	5/22/2008	0	80
+en	3 Backyards	1/1/2010	0	88
+fr	Pierrot le fou	8/29/1965	0	110
+en	Sisters in Law	9/3/2005	0	104
+en	Ayurveda: Art of Being	9/20/2001	2074000	101
+en	Nothing But a Man	1/1/1964	0	95
+en	First Love, Last Rites	8/7/1998	40542	94
+en	Fighting Tommy Riley	5/6/2005	0	0
+en	Royal Kill	4/10/2009	0	90
+en	The Looking Glass	10/23/2015	0	110
+en	Death Race 2000	4/27/1975	8000000	80
+en	Locker 13	3/29/2014	0	90
+en	Midnight Cabaret	1/1/1990	0	94
+en	Anderson's Cross	5/20/2010	0	98
+en	Bizarre	2/7/2015	0	99
+en	Graduation Day	5/1/1981	0	96
+en	Some Guy Who Kills People	4/14/2011	0	97
+en	Compliance	8/23/2012	319285	90
+en	Chasing Amy	4/4/1997	12021272	113
+en	Lovely & Amazing	8/31/2001	4186931	91
+en	Death Calls	9/1/2010	0	0
+en	Better Luck Tomorrow	1/12/2002	0	101
+en	The Incredibly True Adventure of Two Girls In Love	6/16/1995	0	94
+en	Chuck & Buck	1/21/2000	0	96
+en	American Desi	1/1/2001	0	100
+en	Amidst the Devil's Wings	12/1/2014	0	90
+en	Cube	9/9/1997	501818	90
+it	Love and Other Catastrophes	8/1/1996	0	78
+en	I Married a Strange Person!	8/28/1998	203	72
+en	November	7/22/2004	0	73
+en	Like Crazy	10/28/2011	3542353	90
+en	Teeth and Blood	3/10/2015	0	96
+en	Sugar Town	9/17/1999	0	92
+en	The Motel	1/1/2005	0	75
+en	The Canyons	7/29/2013	56825	99
+en	On the Outs	9/11/2004	0	86
+en	Shotgun Stories	10/1/2007	0	92
+en	Exam	6/19/2009	0	101
+en	The Sticky Fingers of Time	6/6/1997	0	90
+en	Sunday School Musical	10/21/2008	0	93
+en	Rust	10/7/2010	0	94
+en	Ink	1/23/2009	0	106
+en	The Christmas Bunny	11/28/2010	0	96
+en	Butterfly	2/5/1982	0	107
+en	UnDivided	2/1/2013	0	0
+en	The Frozen	10/10/2012	0	0
+en	Horse Camp	1/10/2015	0	108
+en	Give Me Shelter	6/24/2014	0	90
+en	The Big Parade	11/5/1925	22000000	151
+en	Little Big Top	1/1/2006	0	0
+en	Along the Roadside	2/28/2013	0	118
+en	Bronson	10/9/2008	2260712	92
+en	Western Religion	10/9/2015	0	106
+en	Burn	11/1/2012	111300	86
+en	Urbania	1/24/2000	0	103
+en	The Stewardesses	7/25/1969	27000000	69
+en	The Beast from 20,000 Fathoms	6/13/1953	5000000	80
+en	Mad Max	4/12/1979	100000000	93
+en	Swingers	10/18/1996	4505922	94
+it	Per un pugno di dollari	9/12/1964	14500000	99
+en	She Done Him Wrong	2/9/1933	2200000	66
+en	Short Cut to Nirvana: Kumbh Mela	5/11/2004	0	85
+en	The Grace Card	2/25/2011	2295733	101
+en	Middle of Nowhere	10/12/2012	0	101
+de	Drei	12/23/2010	2611555	119
+en	The Business of Fancydancing	1/14/2002	0	103
+en	Call + Response	10/10/2008	0	86
+en	Malevolence	9/10/2004	0	90
+en	Reality Show	1/1/2015	0	92
+en	Super Hybrid	1/1/2010	0	95
+en	Baghead	1/21/2008	0	84
+pt	Solitude	10/21/2014	0	89
+en	Chats perchés	12/5/2004	0	59
+da	Ordet	1/9/1955	0	126
+en	Good Dick	10/3/2008	0	86
+en	The Man from Earth	6/10/2007	0	87
+en	The Trials Of Darryl Hunt	6/15/2007	0	106
+en	Samantha: An American Girl Holiday	11/23/2004	0	86
+en	Yesterday Was a Lie	1/1/2008	0	89
+en	Theresa Is a Mother	9/25/2015	0	105
+en	H.	8/28/2014	0	93
+en	Archaeology of a Woman	9/12/2014	0	94
+fa	??????? ?????	8/1/1997	900000	89
+en	Weekend	9/22/2011	469947	96
+en	She's Gotta Have It	8/8/1986	0	84
+en	Butterfly Girl	3/10/2014	0	77
+ro	Lumea e a mea	6/5/2015	0	104
+en	Another Earth	7/22/2011	1776935	92
+en	Sweet Sweetback's Baadasssss Song	4/23/1971	15200000	97
+en	Perfect Cowboy	7/13/2014	0	109
+en	Tadpole	11/1/2002	2891288	78
+en	Once	3/23/2007	20710513	85
+en	The Woman Chaser	10/8/1999	0	90
+en	The Horse Boy	11/25/2009	0	93
+en	When the Lights Went Out	1/31/2012	0	86
+en	Heroes of Dirt	9/4/2015	0	98
+en	A Charlie Brown Christmas	12/9/1965	0	25
+en	Antarctic Edge: 70° South	4/17/2015	0	72
+en	Aroused	2/20/2013	0	73
+en	Top Spin	11/15/2014	0	80
+en	Roger & Me	9/1/1989	6706368	91
+en	An American in Hollywood	7/18/2014	0	89
+en	Sound of My Voice	1/22/2011	0	85
+en	The Blood of My Brother: A Story of Death in Iraq	11/25/2005	0	90
+en	Your Sister's Sister	9/11/2011	3200000	90
+en	A Dog's Breakfast	3/3/2007	0	88
+fr	Une femme mariée: Suite de fragments d'un film tourné en 1964	12/4/1964	0	95
+en	The Birth of a Nation	9/9/2016	15861566	120
+en	The Work and The Story	1/1/2003	0	70
+en	Facing the Giants	9/29/2006	10178331	111
+en	The Gallows	7/10/2015	42664410	87
+en	Eraserhead	3/19/1977	7000000	89
+en	Hollywood Shuffle	3/20/1987	0	78
+en	The Mighty	10/23/1998	0	100
+en	Penitentiary	12/1/1979	0	99
+en	The Lost Skeleton of Cadavra	9/12/2001	0	90
+en	Dude Where's My Dog?	6/12/2014	0	0
+en	Cheap Thrills	3/8/2013	0	85
+en	Indie Game: The Movie	5/18/2012	0	96
+en	Straightheads	4/27/2007	0	88
+en	Open Secret	2/14/1948	0	68
+en	Echo Dr.	11/8/2013	0	85
+en	The Night Visitor	1/1/1971	0	106
+en	The Past Is a Grotesque Animal	6/15/2014	0	77
+en	Peace, Propaganda & the Promised Land	1/28/2005	0	80
+en	Pi	7/10/1998	3221152	84
+fr	I Love You, Don't Touch Me!	1/21/1997	0	86
+en	20 Dates	1/1/1998	0	87
+en	Queen Crab	9/29/2015	0	90
+en	Super Size Me	1/17/2004	28575078	100
+en	The FP	3/13/2011	0	82
+en	Happy Christmas	6/26/2014	0	82
+en	The Brain That Wouldn't Die	2/25/1962	0	82
+en	Tiger Orange	7/26/2014	0	75
+en	Supporting Characters	1/23/2012	0	87
+en	Absentia	3/3/2011	0	92
+en	The Brothers McMullen	8/9/1995	0	98
+en	The Dirties	10/4/2013	0	83
+pt	Gabriela, Cravo e Canela	3/24/1983	0	99
+en	Tiny Furniture	11/12/2010	416498	99
+en	Hayride	10/13/2012	0	93
+en	The Naked Ape	9/16/2006	0	110
+en	Counting	2/9/2015	0	111
+en	The Call of Cthulhu	1/1/2005	0	47
+en	Bending Steel	4/20/2013	0	93
+en	The Signal	3/15/2014	600896	95
+en	The Image Revolution	11/21/2013	0	81
+en	This Is Martin Bonner	6/28/2013	0	83
+en	A True Story	9/20/2013	0	96
+en	George Washington	10/1/2000	0	89
+en	Smiling Fish & Goat On Fire	9/16/1999	0	90
+en	Dawn of the Crescent Moon	4/5/2014	0	95
+en	Raymond Did It	3/27/2011	0	83
+en	The Last Waltz	5/1/1978	321952	117
+en	Run, Hide, Die	9/1/2015	0	75
+en	The Exploding Girl	4/22/2009	0	80
+en	The Legend of God's Gun	7/8/2007	0	78
+en	Mutual Appreciation	3/1/2005	0	109
+en	Her Cry: La Llorona Investigation	4/19/2013	0	89
+en	Down Terrace	9/1/2009	10000	89
+en	Clerks	9/13/1994	3151130	92
+en	Pink Narcissus	1/1/1971	0	64
+en	Funny Ha Ha	9/20/2002	76901	85
+en	In the Company of Men	1/19/1997	0	97
+en	Manito	1/15/2002	0	78
+en	Rampage	8/14/2009	0	85
+en	Slacker	7/27/1990	0	97
+en	Dutch Kills	10/2/2015	0	90
+en	Dry Spell	2/14/2013	0	90
+en	Flywheel	1/1/2003	0	120
+en	Backmask	1/16/2015	0	91
+en	The Puffy Chair	1/17/2005	0	85
+en	Stories of Our Lives	9/5/2014	0	60
+en	Breaking Upwards	3/14/2009	0	88
+en	All Superheroes Must Die	10/26/2011	0	78
+en	Pink Flamingos	3/12/1972	6000000	93
+en	Clean	9/1/2004	0	111
+fa	?????	9/8/2000	0	90
+en	Tin Can Man	1/1/2007	0	84
+en	On The Downlow	4/11/2004	0	90
+en	Sanctuary: Quite a Conundrum	1/20/2012	0	82
+en	Bang	9/9/1995	0	98
+en	Primer	10/8/2004	424760	77
+en	Cavite	3/12/2005	0	80
+es	El Mariachi	9/4/1992	2040920	81
+en	Newlyweds	12/26/2011	0	85
+en	Signed, Sealed, Delivered	10/13/2013	0	120
+en	Shanghai Calling	5/3/2012	0	98
+en	My Date with Drew	8/5/2005	0	90
